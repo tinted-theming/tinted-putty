@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Railscasts
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Base16 Railscasts]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Tomorrow]
 
 ; Default Foreground
 "Colour0"="230,225,220"
