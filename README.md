@@ -2,6 +2,8 @@
 
 [PuTTY][1] styles based on Chris Kempson's [Base16][2] colour scheme.
 
+(Note, make sure you grab the latest stable PuTTY for this to work properally)
+
 ## Installation
 
 Download a style you want and run the reg file. Then check inside the saved sessions in PuTTY and select the theme you loaded.
