@@ -2,7 +2,7 @@
 
 [PuTTY][1] styles based on Chris Kempson's [Base16][2] colour scheme.
 
-(Note, make sure you grab the latest stable PuTTY for this to work properally)
+(Note, make sure you grab the latest stable PuTTY for this to work properly)
 
 ## Installation
 
