@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Marrakesh
+; schema by Alexandre Gavioli (http://github.com/Alexx2/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\marrakesh]
+
+; Default Foreground
+"Colour0"="148,142,72"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="148,142,72"
+
+; Default Background
+"Colour2"="32,22,2"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="32,22,2"
+
+; Cursor Text -- equals to default background
+"Colour4"="32,22,2"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="148,142,72"
+
+; ANSI Black
+"Colour6"="32,22,2"
+
+; ANSI Black Bold
+"Colour7"="108,104,35"
+
+; ANSI Red
+"Colour8"="195,83,89"
+
+; ANSI Red Bold
+"Colour9"="179,97,68"
+
+; ANSI Green
+"Colour10"="24,151,78"
+
+; ANSI Green Bold
+"Colour11"="48,46,0"
+
+; ANSI Yellow
+"Colour12"="168,131,57"
+
+; ANSI Yellow Bold
+"Colour13"="95,91,23"
+
+; ANSI Blue
+"Colour14"="71,124,161"
+
+; ANSI Blue Bold
+"Colour15"="134,129,59"
+
+; ANSI Magenta
+"Colour16"="136,104,179"
+
+; ANSI Magenta Bold
+"Colour17"="204,195,122"
+
+; ANSI Cyan
+"Colour18"="117,167,56"
+
+; ANSI Cyan Bold
+"Colour19"="179,88,142"
+
+; ANSI White
+"Colour20"="148,142,72"
+
+; ANSI White Bold
+"Colour21"="250,240,165"
+

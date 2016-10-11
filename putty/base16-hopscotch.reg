@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Hopscotch
+; schema by Jan T. Sott
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\hopscotch]
+
+; Default Foreground
+"Colour0"="185,181,184"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="185,181,184"
+
+; Default Background
+"Colour2"="50,41,49"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="50,41,49"
+
+; Cursor Text -- equals to default background
+"Colour4"="50,41,49"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="185,181,184"
+
+; ANSI Black
+"Colour6"="50,41,49"
+
+; ANSI Black Bold
+"Colour7"="121,115,121"
+
+; ANSI Red
+"Colour8"="221,70,76"
+
+; ANSI Red Bold
+"Colour9"="253,139,25"
+
+; ANSI Green
+"Colour10"="143,193,62"
+
+; ANSI Green Bold
+"Colour11"="67,59,66"
+
+; ANSI Yellow
+"Colour12"="253,204,89"
+
+; ANSI Yellow Bold
+"Colour13"="92,84,91"
+
+; ANSI Blue
+"Colour14"="18,144,191"
+
+; ANSI Blue Bold
+"Colour15"="152,148,152"
+
+; ANSI Magenta
+"Colour16"="200,94,124"
+
+; ANSI Magenta Bold
+"Colour17"="213,211,213"
+
+; ANSI Cyan
+"Colour18"="20,155,147"
+
+; ANSI Cyan Bold
+"Colour19"="179,53,8"
+
+; ANSI White
+"Colour20"="185,181,184"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

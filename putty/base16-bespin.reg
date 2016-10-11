@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Bespin
+; schema by Jan T. Sott
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\bespin]
+
+; Default Foreground
+"Colour0"="138,137,134"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="138,137,134"
+
+; Default Background
+"Colour2"="40,33,28"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,33,28"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,33,28"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="138,137,134"
+
+; ANSI Black
+"Colour6"="40,33,28"
+
+; ANSI Black Bold
+"Colour7"="102,102,102"
+
+; ANSI Red
+"Colour8"="207,106,76"
+
+; ANSI Red Bold
+"Colour9"="207,125,52"
+
+; ANSI Green
+"Colour10"="84,190,13"
+
+; ANSI Green Bold
+"Colour11"="54,49,46"
+
+; ANSI Yellow
+"Colour12"="249,238,152"
+
+; ANSI Yellow Bold
+"Colour13"="94,93,92"
+
+; ANSI Blue
+"Colour14"="94,166,234"
+
+; ANSI Blue Bold
+"Colour15"="121,121,119"
+
+; ANSI Magenta
+"Colour16"="155,133,157"
+
+; ANSI Magenta Bold
+"Colour17"="157,155,151"
+
+; ANSI Cyan
+"Colour18"="175,196,219"
+
+; ANSI Cyan Bold
+"Colour19"="147,113,33"
+
+; ANSI White
+"Colour20"="138,137,134"
+
+; ANSI White Bold
+"Colour21"="186,174,158"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Mocha
+; schema by Chris Kempson (http://chriskempson.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\mocha]
+
+; Default Foreground
+"Colour0"="208,200,198"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="208,200,198"
+
+; Default Background
+"Colour2"="59,50,40"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="59,50,40"
+
+; Cursor Text -- equals to default background
+"Colour4"="59,50,40"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="208,200,198"
+
+; ANSI Black
+"Colour6"="59,50,40"
+
+; ANSI Black Bold
+"Colour7"="126,112,90"
+
+; ANSI Red
+"Colour8"="203,96,119"
+
+; ANSI Red Bold
+"Colour9"="210,139,113"
+
+; ANSI Green
+"Colour10"="190,181,91"
+
+; ANSI Green Bold
+"Colour11"="83,70,54"
+
+; ANSI Yellow
+"Colour12"="244,188,135"
+
+; ANSI Yellow Bold
+"Colour13"="100,82,64"
+
+; ANSI Blue
+"Colour14"="138,179,181"
+
+; ANSI Blue Bold
+"Colour15"="184,175,173"
+
+; ANSI Magenta
+"Colour16"="168,155,185"
+
+; ANSI Magenta Bold
+"Colour17"="233,225,221"
+
+; ANSI Cyan
+"Colour18"="123,189,164"
+
+; ANSI Cyan Bold
+"Colour19"="187,149,132"
+
+; ANSI White
+"Colour20"="208,200,198"
+
+; ANSI White Bold
+"Colour21"="245,238,235"
+

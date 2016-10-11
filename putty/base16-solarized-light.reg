@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Solarized Light
+; schema by Ethan Schoonover (http://ethanschoonover.com/solarized)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarized-light]
+
+; Default Foreground
+"Colour0"="88,110,117"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="88,110,117"
+
+; Default Background
+"Colour2"="253,246,227"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="253,246,227"
+
+; Cursor Text -- equals to default background
+"Colour4"="253,246,227"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="88,110,117"
+
+; ANSI Black
+"Colour6"="253,246,227"
+
+; ANSI Black Bold
+"Colour7"="131,148,150"
+
+; ANSI Red
+"Colour8"="220,50,47"
+
+; ANSI Red Bold
+"Colour9"="203,75,22"
+
+; ANSI Green
+"Colour10"="133,153,0"
+
+; ANSI Green Bold
+"Colour11"="238,232,213"
+
+; ANSI Yellow
+"Colour12"="181,137,0"
+
+; ANSI Yellow Bold
+"Colour13"="147,161,161"
+
+; ANSI Blue
+"Colour14"="38,139,210"
+
+; ANSI Blue Bold
+"Colour15"="101,123,131"
+
+; ANSI Magenta
+"Colour16"="108,113,196"
+
+; ANSI Magenta Bold
+"Colour17"="7,54,66"
+
+; ANSI Cyan
+"Colour18"="42,161,152"
+
+; ANSI Cyan Bold
+"Colour19"="211,54,130"
+
+; ANSI White
+"Colour20"="88,110,117"
+
+; ANSI White Bold
+"Colour21"="0,43,54"
+

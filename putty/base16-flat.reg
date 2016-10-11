@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Flat
+; schema by Chris Kempson (http://chriskempson.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\flat]
+
+; Default Foreground
+"Colour0"="224,224,224"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="224,224,224"
+
+; Default Background
+"Colour2"="44,62,80"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="44,62,80"
+
+; Cursor Text -- equals to default background
+"Colour4"="44,62,80"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="224,224,224"
+
+; ANSI Black
+"Colour6"="44,62,80"
+
+; ANSI Black Bold
+"Colour7"="149,165,166"
+
+; ANSI Red
+"Colour8"="231,76,60"
+
+; ANSI Red Bold
+"Colour9"="230,126,34"
+
+; ANSI Green
+"Colour10"="46,204,113"
+
+; ANSI Green Bold
+"Colour11"="52,73,94"
+
+; ANSI Yellow
+"Colour12"="241,196,15"
+
+; ANSI Yellow Bold
+"Colour13"="127,140,141"
+
+; ANSI Blue
+"Colour14"="52,152,219"
+
+; ANSI Blue Bold
+"Colour15"="189,195,199"
+
+; ANSI Magenta
+"Colour16"="155,89,182"
+
+; ANSI Magenta Bold
+"Colour17"="245,245,245"
+
+; ANSI Cyan
+"Colour18"="26,188,156"
+
+; ANSI Cyan Bold
+"Colour19"="190,100,60"
+
+; ANSI White
+"Colour20"="224,224,224"
+
+; ANSI White Bold
+"Colour21"="236,240,241"
+

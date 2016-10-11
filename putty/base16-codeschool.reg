@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Codeschool
+; schema by brettof86
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\codeschool]
+
+; Default Foreground
+"Colour0"="158,167,166"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="158,167,166"
+
+; Default Background
+"Colour2"="35,44,49"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="35,44,49"
+
+; Cursor Text -- equals to default background
+"Colour4"="35,44,49"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="158,167,166"
+
+; ANSI Black
+"Colour6"="35,44,49"
+
+; ANSI Black Bold
+"Colour7"="63,73,68"
+
+; ANSI Red
+"Colour8"="42,84,145"
+
+; ANSI Red Bold
+"Colour9"="67,130,13"
+
+; ANSI Green
+"Colour10"="35,121,134"
+
+; ANSI Green Bold
+"Colour11"="28,54,87"
+
+; ANSI Yellow
+"Colour12"="160,59,30"
+
+; ANSI Yellow Bold
+"Colour13"="42,52,58"
+
+; ANSI Blue
+"Colour14"="72,77,121"
+
+; ANSI Blue Bold
+"Colour15"="132,137,140"
+
+; ANSI Magenta
+"Colour16"="197,152,32"
+
+; ANSI Magenta Bold
+"Colour17"="167,207,163"
+
+; ANSI Cyan
+"Colour18"="176,47,48"
+
+; ANSI Cyan Bold
+"Colour19"="201,131,68"
+
+; ANSI White
+"Colour20"="158,167,166"
+
+; ANSI White Bold
+"Colour21"="181,216,246"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Ashes
+; schema by Jannik Siebert (https://github.com/janniks)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ashes]
+
+; Default Foreground
+"Colour0"="199,204,209"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="199,204,209"
+
+; Default Background
+"Colour2"="28,32,35"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,32,35"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,32,35"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="199,204,209"
+
+; ANSI Black
+"Colour6"="28,32,35"
+
+; ANSI Black Bold
+"Colour7"="116,124,132"
+
+; ANSI Red
+"Colour8"="199,174,149"
+
+; ANSI Red Bold
+"Colour9"="199,199,149"
+
+; ANSI Green
+"Colour10"="149,199,174"
+
+; ANSI Green Bold
+"Colour11"="57,63,69"
+
+; ANSI Yellow
+"Colour12"="174,199,149"
+
+; ANSI Yellow Bold
+"Colour13"="86,94,101"
+
+; ANSI Blue
+"Colour14"="174,149,199"
+
+; ANSI Blue Bold
+"Colour15"="173,179,186"
+
+; ANSI Magenta
+"Colour16"="199,149,174"
+
+; ANSI Magenta Bold
+"Colour17"="223,226,229"
+
+; ANSI Cyan
+"Colour18"="149,174,199"
+
+; ANSI Cyan Bold
+"Colour19"="199,149,149"
+
+; ANSI White
+"Colour20"="199,204,209"
+
+; ANSI White Bold
+"Colour21"="243,244,245"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Shapeshifter
+; schema by Tyler Benziger (http://tybenz.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\shapeshifter]
+
+; Default Foreground
+"Colour0"="16,32,21"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="16,32,21"
+
+; Default Background
+"Colour2"="249,249,249"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="249,249,249"
+
+; Cursor Text -- equals to default background
+"Colour4"="249,249,249"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="16,32,21"
+
+; ANSI Black
+"Colour6"="249,249,249"
+
+; ANSI Black Bold
+"Colour7"="85,85,85"
+
+; ANSI Red
+"Colour8"="233,47,47"
+
+; ANSI Red Bold
+"Colour9"="224,148,72"
+
+; ANSI Green
+"Colour10"="14,216,57"
+
+; ANSI Green Bold
+"Colour11"="224,224,224"
+
+; ANSI Yellow
+"Colour12"="221,221,19"
+
+; ANSI Yellow Bold
+"Colour13"="171,171,171"
+
+; ANSI Blue
+"Colour14"="59,72,227"
+
+; ANSI Blue Bold
+"Colour15"="52,52,52"
+
+; ANSI Magenta
+"Colour16"="249,150,226"
+
+; ANSI Magenta Bold
+"Colour17"="4,4,4"
+
+; ANSI Cyan
+"Colour18"="35,237,218"
+
+; ANSI Cyan Bold
+"Colour19"="105,84,45"
+
+; ANSI White
+"Colour20"="16,32,21"
+
+; ANSI White Bold
+"Colour21"="0,0,0"
+

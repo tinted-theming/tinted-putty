@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Sulphurpool
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-sulphurpool]
+
+; Default Foreground
+"Colour0"="151,157,180"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="151,157,180"
+
+; Default Background
+"Colour2"="32,39,70"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="32,39,70"
+
+; Cursor Text -- equals to default background
+"Colour4"="32,39,70"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="151,157,180"
+
+; ANSI Black
+"Colour6"="32,39,70"
+
+; ANSI Black Bold
+"Colour7"="107,115,148"
+
+; ANSI Red
+"Colour8"="201,73,34"
+
+; ANSI Red Bold
+"Colour9"="199,107,41"
+
+; ANSI Green
+"Colour10"="172,151,57"
+
+; ANSI Green Bold
+"Colour11"="41,50,86"
+
+; ANSI Yellow
+"Colour12"="192,139,48"
+
+; ANSI Yellow Bold
+"Colour13"="94,102,135"
+
+; ANSI Blue
+"Colour14"="61,143,209"
+
+; ANSI Blue Bold
+"Colour15"="137,142,164"
+
+; ANSI Magenta
+"Colour16"="102,121,204"
+
+; ANSI Magenta Bold
+"Colour17"="223,226,241"
+
+; ANSI Cyan
+"Colour18"="34,162,201"
+
+; ANSI Cyan Bold
+"Colour19"="156,99,122"
+
+; ANSI White
+"Colour20"="151,157,180"
+
+; ANSI White Bold
+"Colour21"="245,247,255"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tomorrow Night
+; schema by Chris Kempson (http://chriskempson.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tomorrow-night]
+
+; Default Foreground
+"Colour0"="197,200,198"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="197,200,198"
+
+; Default Background
+"Colour2"="29,31,33"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="29,31,33"
+
+; Cursor Text -- equals to default background
+"Colour4"="29,31,33"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="197,200,198"
+
+; ANSI Black
+"Colour6"="29,31,33"
+
+; ANSI Black Bold
+"Colour7"="150,152,150"
+
+; ANSI Red
+"Colour8"="204,102,102"
+
+; ANSI Red Bold
+"Colour9"="222,147,95"
+
+; ANSI Green
+"Colour10"="181,189,104"
+
+; ANSI Green Bold
+"Colour11"="40,42,46"
+
+; ANSI Yellow
+"Colour12"="240,198,116"
+
+; ANSI Yellow Bold
+"Colour13"="55,59,65"
+
+; ANSI Blue
+"Colour14"="129,162,190"
+
+; ANSI Blue Bold
+"Colour15"="180,183,180"
+
+; ANSI Magenta
+"Colour16"="178,148,187"
+
+; ANSI Magenta Bold
+"Colour17"="224,224,224"
+
+; ANSI Cyan
+"Colour18"="138,190,183"
+
+; ANSI Cyan Bold
+"Colour19"="163,104,90"
+
+; ANSI White
+"Colour20"="197,200,198"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Paraiso
+; schema by Jan T. Sott
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\paraiso]
+
+; Default Foreground
+"Colour0"="163,158,155"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="163,158,155"
+
+; Default Background
+"Colour2"="47,30,46"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="47,30,46"
+
+; Cursor Text -- equals to default background
+"Colour4"="47,30,46"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="163,158,155"
+
+; ANSI Black
+"Colour6"="47,30,46"
+
+; ANSI Black Bold
+"Colour7"="119,110,113"
+
+; ANSI Red
+"Colour8"="239,97,85"
+
+; ANSI Red Bold
+"Colour9"="249,155,21"
+
+; ANSI Green
+"Colour10"="72,182,133"
+
+; ANSI Green Bold
+"Colour11"="65,50,63"
+
+; ANSI Yellow
+"Colour12"="254,196,24"
+
+; ANSI Yellow Bold
+"Colour13"="79,66,76"
+
+; ANSI Blue
+"Colour14"="6,182,239"
+
+; ANSI Blue Bold
+"Colour15"="141,134,135"
+
+; ANSI Magenta
+"Colour16"="129,91,164"
+
+; ANSI Magenta Bold
+"Colour17"="185,182,176"
+
+; ANSI Cyan
+"Colour18"="91,196,191"
+
+; ANSI Cyan Bold
+"Colour19"="233,107,168"
+
+; ANSI White
+"Colour20"="163,158,155"
+
+; ANSI White Bold
+"Colour21"="231,233,219"
+

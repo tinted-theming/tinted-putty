@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Seti UI
+; schema by 
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\seti-ui]
+
+; Default Foreground
+"Colour0"="214,214,214"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="214,214,214"
+
+; Default Background
+"Colour2"="21,23,24"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="21,23,24"
+
+; Cursor Text -- equals to default background
+"Colour4"="21,23,24"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="214,214,214"
+
+; ANSI Black
+"Colour6"="21,23,24"
+
+; ANSI Black Bold
+"Colour7"="65,83,91"
+
+; ANSI Red
+"Colour8"="205,63,69"
+
+; ANSI Red Bold
+"Colour9"="219,123,85"
+
+; ANSI Green
+"Colour10"="159,202,86"
+
+; ANSI Green Bold
+"Colour11"="142,196,61"
+
+; ANSI Yellow
+"Colour12"="230,205,105"
+
+; ANSI Yellow Bold
+"Colour13"="59,117,140"
+
+; ANSI Blue
+"Colour14"="85,181,219"
+
+; ANSI Blue Bold
+"Colour15"="67,165,213"
+
+; ANSI Magenta
+"Colour16"="160,116,196"
+
+; ANSI Magenta Bold
+"Colour17"="238,238,238"
+
+; ANSI Cyan
+"Colour18"="85,219,190"
+
+; ANSI Cyan Bold
+"Colour19"="138,85,63"
+
+; ANSI White
+"Colour20"="214,214,214"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

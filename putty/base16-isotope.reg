@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Isotope
+; schema by Jan T. Sott
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\isotope]
+
+; Default Foreground
+"Colour0"="208,208,208"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="208,208,208"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="208,208,208"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="128,128,128"
+
+; ANSI Red
+"Colour8"="255,0,0"
+
+; ANSI Red Bold
+"Colour9"="255,153,0"
+
+; ANSI Green
+"Colour10"="51,255,0"
+
+; ANSI Green Bold
+"Colour11"="64,64,64"
+
+; ANSI Yellow
+"Colour12"="255,0,153"
+
+; ANSI Yellow Bold
+"Colour13"="96,96,96"
+
+; ANSI Blue
+"Colour14"="0,102,255"
+
+; ANSI Blue Bold
+"Colour15"="192,192,192"
+
+; ANSI Magenta
+"Colour16"="204,0,255"
+
+; ANSI Magenta Bold
+"Colour17"="224,224,224"
+
+; ANSI Cyan
+"Colour18"="0,255,255"
+
+; ANSI Cyan Bold
+"Colour19"="51,0,255"
+
+; ANSI White
+"Colour20"="208,208,208"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+
