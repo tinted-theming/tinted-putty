@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Unikitty Dark
+; schema by Josh W Lewis (@joshwlewis)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\unikitty-dark]
+
+; Default Foreground
+"Colour0"="188,186,190"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="188,186,190"
+
+; Default Background
+"Colour2"="46,42,49"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="46,42,49"
+
+; Cursor Text -- equals to default background
+"Colour4"="46,42,49"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="188,186,190"
+
+; ANSI Black
+"Colour6"="46,42,49"
+
+; ANSI Black Bold
+"Colour7"="131,128,133"
+
+; ANSI Red
+"Colour8"="216,19,127"
+
+; ANSI Red Bold
+"Colour9"="214,84,7"
+
+; ANSI Green
+"Colour10"="23,173,152"
+
+; ANSI Green Bold
+"Colour11"="74,70,77"
+
+; ANSI Yellow
+"Colour12"="220,138,14"
+
+; ANSI Yellow Bold
+"Colour13"="102,99,105"
+
+; ANSI Blue
+"Colour14"="121,106,245"
+
+; ANSI Blue Bold
+"Colour15"="159,157,162"
+
+; ANSI Magenta
+"Colour16"="187,96,234"
+
+; ANSI Magenta Bold
+"Colour17"="216,215,218"
+
+; ANSI Cyan
+"Colour18"="20,155,218"
+
+; ANSI Cyan Bold
+"Colour19"="199,32,202"
+
+; ANSI White
+"Colour20"="188,186,190"
+
+; ANSI White Bold
+"Colour21"="245,244,247"
+

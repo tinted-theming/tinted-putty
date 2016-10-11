@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Monokai
+; schema by Wimer Hazenberg (http://www.monokai.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\monokai]
+
+; Default Foreground
+"Colour0"="248,248,242"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="248,248,242"
+
+; Default Background
+"Colour2"="39,40,34"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="39,40,34"
+
+; Cursor Text -- equals to default background
+"Colour4"="39,40,34"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="248,248,242"
+
+; ANSI Black
+"Colour6"="39,40,34"
+
+; ANSI Black Bold
+"Colour7"="117,113,94"
+
+; ANSI Red
+"Colour8"="249,38,114"
+
+; ANSI Red Bold
+"Colour9"="253,151,31"
+
+; ANSI Green
+"Colour10"="166,226,46"
+
+; ANSI Green Bold
+"Colour11"="56,56,48"
+
+; ANSI Yellow
+"Colour12"="244,191,117"
+
+; ANSI Yellow Bold
+"Colour13"="73,72,62"
+
+; ANSI Blue
+"Colour14"="102,217,239"
+
+; ANSI Blue Bold
+"Colour15"="165,159,133"
+
+; ANSI Magenta
+"Colour16"="174,129,255"
+
+; ANSI Magenta Bold
+"Colour17"="245,244,241"
+
+; ANSI Cyan
+"Colour18"="161,239,228"
+
+; ANSI Cyan Bold
+"Colour19"="204,102,51"
+
+; ANSI White
+"Colour20"="248,248,242"
+
+; ANSI White Bold
+"Colour21"="249,248,245"
+

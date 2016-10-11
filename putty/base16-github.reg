@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Github
+; schema by Defman21
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\github]
+
+; Default Foreground
+"Colour0"="51,51,51"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="51,51,51"
+
+; Default Background
+"Colour2"="255,255,255"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="255,255,255"
+
+; Cursor Text -- equals to default background
+"Colour4"="255,255,255"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="51,51,51"
+
+; ANSI Black
+"Colour6"="255,255,255"
+
+; ANSI Black Bold
+"Colour7"="150,152,150"
+
+; ANSI Red
+"Colour8"="237,106,67"
+
+; ANSI Red Bold
+"Colour9"="0,134,179"
+
+; ANSI Green
+"Colour10"="24,54,145"
+
+; ANSI Green Bold
+"Colour11"="245,245,245"
+
+; ANSI Yellow
+"Colour12"="121,93,163"
+
+; ANSI Yellow Bold
+"Colour13"="200,200,250"
+
+; ANSI Blue
+"Colour14"="121,93,163"
+
+; ANSI Blue Bold
+"Colour15"="232,232,232"
+
+; ANSI Magenta
+"Colour16"="167,29,93"
+
+; ANSI Magenta Bold
+"Colour17"="255,255,255"
+
+; ANSI Cyan
+"Colour18"="24,54,145"
+
+; ANSI Cyan Bold
+"Colour19"="51,51,51"
+
+; ANSI White
+"Colour20"="51,51,51"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

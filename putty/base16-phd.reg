@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 PhD
+; schema by Hennig Hasemann (http://leetless.de/vim.html)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\phd]
+
+; Default Foreground
+"Colour0"="184,187,194"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="184,187,194"
+
+; Default Background
+"Colour2"="6,18,41"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="6,18,41"
+
+; Cursor Text -- equals to default background
+"Colour4"="6,18,41"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="184,187,194"
+
+; ANSI Black
+"Colour6"="6,18,41"
+
+; ANSI Black Bold
+"Colour7"="113,120,133"
+
+; ANSI Red
+"Colour8"="208,115,70"
+
+; ANSI Red Bold
+"Colour9"="240,160,0"
+
+; ANSI Green
+"Colour10"="153,191,82"
+
+; ANSI Green Bold
+"Colour11"="42,52,72"
+
+; ANSI Yellow
+"Colour12"="251,212,97"
+
+; ANSI Yellow Bold
+"Colour13"="77,86,102"
+
+; ANSI Blue
+"Colour14"="82,153,191"
+
+; ANSI Blue Bold
+"Colour15"="154,153,163"
+
+; ANSI Magenta
+"Colour16"="153,137,204"
+
+; ANSI Magenta Bold
+"Colour17"="219,221,224"
+
+; ANSI Cyan
+"Colour18"="114,185,191"
+
+; ANSI Cyan Bold
+"Colour19"="176,128,96"
+
+; ANSI White
+"Colour20"="184,187,194"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

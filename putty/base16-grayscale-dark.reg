@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Grayscale Dark
+; schema by Alexandre Gavioli (https://github.com/Alexx2/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\grayscale-dark]
+
+; Default Foreground
+"Colour0"="185,185,185"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="185,185,185"
+
+; Default Background
+"Colour2"="16,16,16"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="16,16,16"
+
+; Cursor Text -- equals to default background
+"Colour4"="16,16,16"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="185,185,185"
+
+; ANSI Black
+"Colour6"="16,16,16"
+
+; ANSI Black Bold
+"Colour7"="82,82,82"
+
+; ANSI Red
+"Colour8"="124,124,124"
+
+; ANSI Red Bold
+"Colour9"="153,153,153"
+
+; ANSI Green
+"Colour10"="142,142,142"
+
+; ANSI Green Bold
+"Colour11"="37,37,37"
+
+; ANSI Yellow
+"Colour12"="160,160,160"
+
+; ANSI Yellow Bold
+"Colour13"="70,70,70"
+
+; ANSI Blue
+"Colour14"="104,104,104"
+
+; ANSI Blue Bold
+"Colour15"="171,171,171"
+
+; ANSI Magenta
+"Colour16"="116,116,116"
+
+; ANSI Magenta Bold
+"Colour17"="227,227,227"
+
+; ANSI Cyan
+"Colour18"="134,134,134"
+
+; ANSI Cyan Bold
+"Colour19"="94,94,94"
+
+; ANSI White
+"Colour20"="185,185,185"
+
+; ANSI White Bold
+"Colour21"="247,247,247"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Forest
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-forest]
+
+; Default Foreground
+"Colour0"="168,161,159"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="168,161,159"
+
+; Default Background
+"Colour2"="27,25,24"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="27,25,24"
+
+; Cursor Text -- equals to default background
+"Colour4"="27,25,24"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="168,161,159"
+
+; ANSI Black
+"Colour6"="27,25,24"
+
+; ANSI Black Bold
+"Colour7"="118,110,107"
+
+; ANSI Red
+"Colour8"="242,44,64"
+
+; ANSI Red Bold
+"Colour9"="223,83,32"
+
+; ANSI Green
+"Colour10"="123,151,38"
+
+; ANSI Green Bold
+"Colour11"="44,36,33"
+
+; ANSI Yellow
+"Colour12"="195,132,24"
+
+; ANSI Yellow Bold
+"Colour13"="104,97,94"
+
+; ANSI Blue
+"Colour14"="64,126,231"
+
+; ANSI Blue Bold
+"Colour15"="156,148,145"
+
+; ANSI Magenta
+"Colour16"="102,102,234"
+
+; ANSI Magenta Bold
+"Colour17"="230,226,224"
+
+; ANSI Cyan
+"Colour18"="61,151,184"
+
+; ANSI Cyan Bold
+"Colour19"="195,63,243"
+
+; ANSI White
+"Colour20"="168,161,159"
+
+; ANSI White Bold
+"Colour21"="241,239,238"
+

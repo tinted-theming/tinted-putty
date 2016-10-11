@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Pico
+; schema by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pico]
+
+; Default Foreground
+"Colour0"="95,87,79"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="95,87,79"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="95,87,79"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="0,135,81"
+
+; ANSI Red
+"Colour8"="255,0,77"
+
+; ANSI Red Bold
+"Colour9"="255,163,0"
+
+; ANSI Green
+"Colour10"="0,231,86"
+
+; ANSI Green Bold
+"Colour11"="29,43,83"
+
+; ANSI Yellow
+"Colour12"="255,240,36"
+
+; ANSI Yellow Bold
+"Colour13"="126,37,83"
+
+; ANSI Blue
+"Colour14"="131,118,156"
+
+; ANSI Blue Bold
+"Colour15"="171,82,54"
+
+; ANSI Magenta
+"Colour16"="255,119,168"
+
+; ANSI Magenta Bold
+"Colour17"="194,195,199"
+
+; ANSI Cyan
+"Colour18"="41,173,255"
+
+; ANSI Cyan Bold
+"Colour19"="255,204,170"
+
+; ANSI White
+"Colour20"="95,87,79"
+
+; ANSI White Bold
+"Colour21"="255,241,232"
+
