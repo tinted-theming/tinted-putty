@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Brogrammer
+; schema by Vik Ramanujam (http://github.com/piggyslasher)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\brogrammer]
+
+; Default Foreground
+"Colour0"="78,90,183"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="78,90,183"
+
+; Default Background
+"Colour2"="31,31,31"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="31,31,31"
+
+; Cursor Text -- equals to default background
+"Colour4"="31,31,31"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="78,90,183"
+
+; ANSI Black
+"Colour6"="31,31,31"
+
+; ANSI Black Bold
+"Colour7"="236,186,15"
+
+; ANSI Red
+"Colour8"="214,219,229"
+
+; ANSI Red Bold
+"Colour9"="222,53,46"
+
+; ANSI Green
+"Colour10"="243,189,9"
+
+; ANSI Green Bold
+"Colour11"="248,17,24"
+
+; ANSI Yellow
+"Colour12"="29,211,97"
+
+; ANSI Yellow Bold
+"Colour13"="45,197,94"
+
+; ANSI Blue
+"Colour14"="83,80,185"
+
+; ANSI Blue Bold
+"Colour15"="42,132,210"
+
+; ANSI Magenta
+"Colour16"="15,125,219"
+
+; ANSI Magenta Bold
+"Colour17"="16,129,214"
+
+; ANSI Cyan
+"Colour18"="16,129,214"
+
+; ANSI Cyan Bold
+"Colour19"="255,255,255"
+
+; ANSI White
+"Colour20"="78,90,183"
+
+; ANSI White Bold
+"Colour21"="214,219,229"
+

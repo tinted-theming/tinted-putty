@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Estuary
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-estuary]
+
+; Default Foreground
+"Colour0"="146,145,129"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="146,145,129"
+
+; Default Background
+"Colour2"="34,34,27"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="34,34,27"
+
+; Cursor Text -- equals to default background
+"Colour4"="34,34,27"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="146,145,129"
+
+; ANSI Black
+"Colour6"="34,34,27"
+
+; ANSI Black Bold
+"Colour7"="108,107,90"
+
+; ANSI Red
+"Colour8"="186,98,54"
+
+; ANSI Red Bold
+"Colour9"="174,115,19"
+
+; ANSI Green
+"Colour10"="125,151,38"
+
+; ANSI Green Bold
+"Colour11"="48,47,39"
+
+; ANSI Yellow
+"Colour12"="165,152,13"
+
+; ANSI Yellow Bold
+"Colour13"="95,94,78"
+
+; ANSI Blue
+"Colour14"="54,161,102"
+
+; ANSI Blue Bold
+"Colour15"="135,133,115"
+
+; ANSI Magenta
+"Colour16"="95,145,130"
+
+; ANSI Magenta Bold
+"Colour17"="231,230,223"
+
+; ANSI Cyan
+"Colour18"="91,157,72"
+
+; ANSI Cyan Bold
+"Colour19"="157,108,124"
+
+; ANSI White
+"Colour20"="146,145,129"
+
+; ANSI White Bold
+"Colour21"="244,243,236"
+

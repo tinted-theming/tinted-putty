@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Rebecca
+; schema by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rebecca]
+
+; Default Foreground
+"Colour0"="241,239,248"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="241,239,248"
+
+; Default Background
+"Colour2"="41,42,68"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="41,42,68"
+
+; Cursor Text -- equals to default background
+"Colour4"="41,42,68"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="241,239,248"
+
+; ANSI Black
+"Colour6"="41,42,68"
+
+; ANSI Black Bold
+"Colour7"="102,102,153"
+
+; ANSI Red
+"Colour8"="160,160,197"
+
+; ANSI Red Bold
+"Colour9"="239,228,161"
+
+; ANSI Green
+"Colour10"="109,254,223"
+
+; ANSI Green Bold
+"Colour11"="102,51,153"
+
+; ANSI Yellow
+"Colour12"="174,129,255"
+
+; ANSI Yellow Bold
+"Colour13"="56,58,98"
+
+; ANSI Blue
+"Colour14"="45,224,167"
+
+; ANSI Blue Bold
+"Colour15"="160,160,197"
+
+; ANSI Magenta
+"Colour16"="122,165,255"
+
+; ANSI Magenta Bold
+"Colour17"="204,204,255"
+
+; ANSI Cyan
+"Colour18"="142,174,224"
+
+; ANSI Cyan Bold
+"Colour19"="255,121,198"
+
+; ANSI White
+"Colour20"="241,239,248"
+
+; ANSI White Bold
+"Colour21"="83,73,93"
+

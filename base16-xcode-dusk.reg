@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 XCode Dusk
+; schema by Elsa Gonsiorowski (https://github.com/gonsie)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\xcode-dusk]
+
+; Default Foreground
+"Colour0"="147,149,153"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="147,149,153"
+
+; Default Background
+"Colour2"="40,43,53"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,43,53"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,43,53"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="147,149,153"
+
+; ANSI Black
+"Colour6"="40,43,53"
+
+; ANSI Black Bold
+"Colour7"="104,106,113"
+
+; ANSI Red
+"Colour8"="178,24,137"
+
+; ANSI Red Bold
+"Colour9"="120,109,197"
+
+; ANSI Green
+"Colour10"="223,0,2"
+
+; ANSI Green Bold
+"Colour11"="61,64,72"
+
+; ANSI Yellow
+"Colour12"="67,130,136"
+
+; ANSI Yellow Bold
+"Colour13"="83,85,93"
+
+; ANSI Blue
+"Colour14"="121,14,173"
+
+; ANSI Blue Bold
+"Colour15"="126,128,134"
+
+; ANSI Magenta
+"Colour16"="178,24,137"
+
+; ANSI Magenta Bold
+"Colour17"="169,170,174"
+
+; ANSI Cyan
+"Colour18"="0,160,190"
+
+; ANSI Cyan Bold
+"Colour19"="199,124,72"
+
+; ANSI White
+"Colour20"="147,149,153"
+
+; ANSI White Bold
+"Colour21"="190,191,194"
+

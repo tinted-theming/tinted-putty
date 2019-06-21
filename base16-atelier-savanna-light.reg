@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Savanna Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-savanna-light]
+
+; Default Foreground
+"Colour0"="82,96,87"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="82,96,87"
+
+; Default Background
+"Colour2"="236,244,238"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="236,244,238"
+
+; Cursor Text -- equals to default background
+"Colour4"="236,244,238"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="82,96,87"
+
+; ANSI Black
+"Colour6"="236,244,238"
+
+; ANSI Black Bold
+"Colour7"="120,135,125"
+
+; ANSI Red
+"Colour8"="177,97,57"
+
+; ANSI Red Bold
+"Colour9"="159,113,60"
+
+; ANSI Green
+"Colour10"="72,153,99"
+
+; ANSI Green Bold
+"Colour11"="223,231,226"
+
+; ANSI Yellow
+"Colour12"="160,126,59"
+
+; ANSI Yellow Bold
+"Colour13"="135,146,138"
+
+; ANSI Blue
+"Colour14"="71,140,144"
+
+; ANSI Blue Bold
+"Colour15"="95,109,100"
+
+; ANSI Magenta
+"Colour16"="85,133,155"
+
+; ANSI Magenta Bold
+"Colour17"="35,42,37"
+
+; ANSI Cyan
+"Colour18"="28,154,160"
+
+; ANSI Cyan Bold
+"Colour19"="134,116,105"
+
+; ANSI White
+"Colour20"="82,96,87"
+
+; ANSI White Bold
+"Colour21"="23,28,25"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Black Metal (Marduk)
+; schema by metalelf0 (https://github.com/metalelf0)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\black-metal-marduk]
+
+; Default Foreground
+"Colour0"="193,193,193"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="193,193,193"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="193,193,193"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="51,51,51"
+
+; ANSI Red
+"Colour8"="95,135,135"
+
+; ANSI Red Bold
+"Colour9"="170,170,170"
+
+; ANSI Green
+"Colour10"="165,170,167"
+
+; ANSI Green Bold
+"Colour11"="18,18,18"
+
+; ANSI Yellow
+"Colour12"="98,107,103"
+
+; ANSI Yellow Bold
+"Colour13"="34,34,34"
+
+; ANSI Blue
+"Colour14"="136,136,136"
+
+; ANSI Blue Bold
+"Colour15"="153,153,153"
+
+; ANSI Magenta
+"Colour16"="153,153,153"
+
+; ANSI Magenta Bold
+"Colour17"="153,153,153"
+
+; ANSI Cyan
+"Colour18"="170,170,170"
+
+; ANSI Cyan Bold
+"Colour19"="68,68,68"
+
+; ANSI White
+"Colour20"="193,193,193"
+
+; ANSI White Bold
+"Colour21"="193,193,193"
+

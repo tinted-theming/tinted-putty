@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gruvbox light, soft
+; schema by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-light-soft]
+
+; Default Foreground
+"Colour0"="80,73,69"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="80,73,69"
+
+; Default Background
+"Colour2"="242,229,188"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="242,229,188"
+
+; Cursor Text -- equals to default background
+"Colour4"="242,229,188"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="80,73,69"
+
+; ANSI Black
+"Colour6"="242,229,188"
+
+; ANSI Black Bold
+"Colour7"="189,174,147"
+
+; ANSI Red
+"Colour8"="157,0,6"
+
+; ANSI Red Bold
+"Colour9"="175,58,3"
+
+; ANSI Green
+"Colour10"="121,116,14"
+
+; ANSI Green Bold
+"Colour11"="235,219,178"
+
+; ANSI Yellow
+"Colour12"="181,118,20"
+
+; ANSI Yellow Bold
+"Colour13"="213,196,161"
+
+; ANSI Blue
+"Colour14"="7,102,120"
+
+; ANSI Blue Bold
+"Colour15"="102,92,84"
+
+; ANSI Magenta
+"Colour16"="143,63,113"
+
+; ANSI Magenta Bold
+"Colour17"="60,56,54"
+
+; ANSI Cyan
+"Colour18"="66,123,88"
+
+; ANSI Cyan Bold
+"Colour19"="214,93,14"
+
+; ANSI White
+"Colour20"="80,73,69"
+
+; ANSI White Bold
+"Colour21"="40,40,40"
+

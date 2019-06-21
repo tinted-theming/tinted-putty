@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Mexico Light
+; schema by Sheldon Johnson
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\mexico-light]
+
+; Default Foreground
+"Colour0"="56,56,56"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="56,56,56"
+
+; Default Background
+"Colour2"="248,248,248"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="248,248,248"
+
+; Cursor Text -- equals to default background
+"Colour4"="248,248,248"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="56,56,56"
+
+; ANSI Black
+"Colour6"="248,248,248"
+
+; ANSI Black Bold
+"Colour7"="184,184,184"
+
+; ANSI Red
+"Colour8"="171,70,66"
+
+; ANSI Red Bold
+"Colour9"="220,150,86"
+
+; ANSI Green
+"Colour10"="83,137,71"
+
+; ANSI Green Bold
+"Colour11"="232,232,232"
+
+; ANSI Yellow
+"Colour12"="247,154,14"
+
+; ANSI Yellow Bold
+"Colour13"="216,216,216"
+
+; ANSI Blue
+"Colour14"="124,175,194"
+
+; ANSI Blue Bold
+"Colour15"="88,88,88"
+
+; ANSI Magenta
+"Colour16"="150,96,158"
+
+; ANSI Magenta Bold
+"Colour17"="40,40,40"
+
+; ANSI Cyan
+"Colour18"="75,128,147"
+
+; ANSI Cyan Bold
+"Colour19"="161,105,70"
+
+; ANSI White
+"Colour20"="56,56,56"
+
+; ANSI White Bold
+"Colour21"="24,24,24"
+

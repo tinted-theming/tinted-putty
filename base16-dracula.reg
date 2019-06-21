@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Dracula
+; schema by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\dracula]
+
+; Default Foreground
+"Colour0"="233,233,244"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="233,233,244"
+
+; Default Background
+"Colour2"="40,41,54"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,41,54"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,41,54"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="233,233,244"
+
+; ANSI Black
+"Colour6"="40,41,54"
+
+; ANSI Black Bold
+"Colour7"="98,100,131"
+
+; ANSI Red
+"Colour8"="234,81,178"
+
+; ANSI Red Bold
+"Colour9"="180,91,207"
+
+; ANSI Green
+"Colour10"="235,255,135"
+
+; ANSI Green Bold
+"Colour11"="58,60,78"
+
+; ANSI Yellow
+"Colour12"="0,247,105"
+
+; ANSI Yellow Bold
+"Colour13"="77,79,104"
+
+; ANSI Blue
+"Colour14"="98,214,232"
+
+; ANSI Blue Bold
+"Colour15"="98,214,232"
+
+; ANSI Magenta
+"Colour16"="180,91,207"
+
+; ANSI Magenta Bold
+"Colour17"="241,242,248"
+
+; ANSI Cyan
+"Colour18"="161,239,228"
+
+; ANSI Cyan Bold
+"Colour19"="0,247,105"
+
+; ANSI White
+"Colour20"="233,233,244"
+
+; ANSI White Bold
+"Colour21"="247,247,251"
+

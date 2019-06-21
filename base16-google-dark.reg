@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Google Dark
+; schema by Seth Wright (http://sethawright.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\google-dark]
+
+; Default Foreground
+"Colour0"="197,200,198"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="197,200,198"
+
+; Default Background
+"Colour2"="29,31,33"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="29,31,33"
+
+; Cursor Text -- equals to default background
+"Colour4"="29,31,33"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="197,200,198"
+
+; ANSI Black
+"Colour6"="29,31,33"
+
+; ANSI Black Bold
+"Colour7"="150,152,150"
+
+; ANSI Red
+"Colour8"="204,52,43"
+
+; ANSI Red Bold
+"Colour9"="249,106,56"
+
+; ANSI Green
+"Colour10"="25,136,68"
+
+; ANSI Green Bold
+"Colour11"="40,42,46"
+
+; ANSI Yellow
+"Colour12"="251,169,34"
+
+; ANSI Yellow Bold
+"Colour13"="55,59,65"
+
+; ANSI Blue
+"Colour14"="57,113,237"
+
+; ANSI Blue Bold
+"Colour15"="180,183,180"
+
+; ANSI Magenta
+"Colour16"="163,106,199"
+
+; ANSI Magenta Bold
+"Colour17"="224,224,224"
+
+; ANSI Cyan
+"Colour18"="57,113,237"
+
+; ANSI Cyan Bold
+"Colour19"="57,113,237"
+
+; ANSI White
+"Colour20"="197,200,198"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

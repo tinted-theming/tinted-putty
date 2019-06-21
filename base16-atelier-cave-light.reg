@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Cave Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-cave-light]
+
+; Default Foreground
+"Colour0"="88,82,96"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="88,82,96"
+
+; Default Background
+"Colour2"="239,236,244"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="239,236,244"
+
+; Cursor Text -- equals to default background
+"Colour4"="239,236,244"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="88,82,96"
+
+; ANSI Black
+"Colour6"="239,236,244"
+
+; ANSI Black Bold
+"Colour7"="126,120,135"
+
+; ANSI Red
+"Colour8"="190,70,120"
+
+; ANSI Red Bold
+"Colour9"="170,87,60"
+
+; ANSI Green
+"Colour10"="42,146,146"
+
+; ANSI Green Bold
+"Colour11"="226,223,231"
+
+; ANSI Yellow
+"Colour12"="160,110,59"
+
+; ANSI Yellow Bold
+"Colour13"="139,135,146"
+
+; ANSI Blue
+"Colour14"="87,109,219"
+
+; ANSI Blue Bold
+"Colour15"="101,95,109"
+
+; ANSI Magenta
+"Colour16"="149,90,231"
+
+; ANSI Magenta Bold
+"Colour17"="38,35,42"
+
+; ANSI Cyan
+"Colour18"="57,139,198"
+
+; ANSI Cyan Bold
+"Colour19"="191,64,191"
+
+; ANSI White
+"Colour20"="88,82,96"
+
+; ANSI White Bold
+"Colour21"="25,23,28"
+
