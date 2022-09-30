@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Espresso
+; schema by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\espresso]
+
+; Default Foreground
+"Colour0"="204,204,204"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="204,204,204"
+
+; Default Background
+"Colour2"="45,45,45"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="45,45,45"
+
+; Cursor Text -- equals to default background
+"Colour4"="45,45,45"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="204,204,204"
+
+; ANSI Black
+"Colour6"="45,45,45"
+
+; ANSI Black Bold
+"Colour7"="119,119,119"
+
+; ANSI Red
+"Colour8"="210,82,82"
+
+; ANSI Red Bold
+"Colour9"="249,169,89"
+
+; ANSI Green
+"Colour10"="165,194,97"
+
+; ANSI Green Bold
+"Colour11"="57,57,57"
+
+; ANSI Yellow
+"Colour12"="255,198,109"
+
+; ANSI Yellow Bold
+"Colour13"="81,81,81"
+
+; ANSI Blue
+"Colour14"="108,153,187"
+
+; ANSI Blue Bold
+"Colour15"="180,183,180"
+
+; ANSI Magenta
+"Colour16"="209,151,217"
+
+; ANSI Magenta Bold
+"Colour17"="224,224,224"
+
+; ANSI Cyan
+"Colour18"="190,214,255"
+
+; ANSI Cyan Bold
+"Colour19"="249,115,148"
+
+; ANSI White
+"Colour20"="204,204,204"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

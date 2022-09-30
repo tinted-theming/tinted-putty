@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 better-contrast
+; schema by Ben Mayoras
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\blueish]
+
+; Default Foreground
+"Colour0"="200,225,248"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="200,225,248"
+
+; Default Background
+"Colour2"="24,36,48"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="24,36,48"
+
+; Cursor Text -- equals to default background
+"Colour4"="24,36,48"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="200,225,248"
+
+; ANSI Black
+"Colour6"="24,36,48"
+
+; ANSI Black Bold
+"Colour7"="97,109,120"
+
+; ANSI Red
+"Colour8"="76,229,135"
+
+; ANSI Red Bold
+"Colour9"="246,168,92"
+
+; ANSI Green
+"Colour10"="195,232,141"
+
+; ANSI Green Bold
+"Colour11"="36,60,84"
+
+; ANSI Yellow
+"Colour12"="130,170,255"
+
+; ANSI Yellow Bold
+"Colour13"="70,41,10"
+
+; ANSI Blue
+"Colour14"="130,170,255"
+
+; ANSI Blue Bold
+"Colour15"="116,175,231"
+
+; ANSI Magenta
+"Colour16"="255,132,221"
+
+; ANSI Magenta Bold
+"Colour17"="221,234,246"
+
+; ANSI Cyan
+"Colour18"="95,209,255"
+
+; ANSI Cyan Bold
+"Colour19"="187,210,232"
+
+; ANSI White
+"Colour20"="200,225,248"
+
+; ANSI White Bold
+"Colour21"="143,152,160"
+

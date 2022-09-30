@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 dirtysea
+; schema by Kahlil (Kal) Hodgson
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\dirtysea]
+
+; Default Foreground
+"Colour0"="0,0,0"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="0,0,0"
+
+; Default Background
+"Colour2"="224,224,224"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="224,224,224"
+
+; Cursor Text -- equals to default background
+"Colour4"="224,224,224"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="0,0,0"
+
+; ANSI Black
+"Colour6"="224,224,224"
+
+; ANSI Black Bold
+"Colour7"="112,112,112"
+
+; ANSI Red
+"Colour8"="132,0,0"
+
+; ANSI Red Bold
+"Colour9"="0,101,101"
+
+; ANSI Green
+"Colour10"="115,0,115"
+
+; ANSI Green Bold
+"Colour11"="208,218,208"
+
+; ANSI Yellow
+"Colour12"="117,91,0"
+
+; ANSI Yellow Bold
+"Colour13"="208,208,208"
+
+; ANSI Blue
+"Colour14"="0,115,0"
+
+; ANSI Blue Bold
+"Colour15"="32,32,32"
+
+; ANSI Magenta
+"Colour16"="0,0,144"
+
+; ANSI Magenta Bold
+"Colour17"="248,248,248"
+
+; ANSI Cyan
+"Colour18"="117,91,0"
+
+; ANSI Cyan Bold
+"Colour19"="117,91,0"
+
+; ANSI White
+"Colour20"="0,0,0"
+
+; ANSI White Bold
+"Colour21"="196,217,196"
+

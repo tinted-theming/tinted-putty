@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 iA Dark
+; schema by iA Inc. (modified by aramisgithub)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ia-dark]
+
+; Default Foreground
+"Colour0"="204,204,204"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="204,204,204"
+
+; Default Background
+"Colour2"="26,26,26"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="26,26,26"
+
+; Cursor Text -- equals to default background
+"Colour4"="26,26,26"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="204,204,204"
+
+; ANSI Black
+"Colour6"="26,26,26"
+
+; ANSI Black Bold
+"Colour7"="118,118,118"
+
+; ANSI Red
+"Colour8"="216,133,104"
+
+; ANSI Red Bold
+"Colour9"="216,104,104"
+
+; ANSI Green
+"Colour10"="131,164,113"
+
+; ANSI Green Bold
+"Colour11"="34,34,34"
+
+; ANSI Yellow
+"Colour12"="185,147,83"
+
+; ANSI Yellow Bold
+"Colour13"="29,65,77"
+
+; ANSI Blue
+"Colour14"="142,204,221"
+
+; ANSI Blue Bold
+"Colour15"="184,184,184"
+
+; ANSI Magenta
+"Colour16"="185,142,178"
+
+; ANSI Magenta Bold
+"Colour17"="232,232,232"
+
+; ANSI Cyan
+"Colour18"="124,156,174"
+
+; ANSI Cyan Bold
+"Colour19"="139,108,55"
+
+; ANSI White
+"Colour20"="204,204,204"
+
+; ANSI White Bold
+"Colour21"="248,248,248"
+

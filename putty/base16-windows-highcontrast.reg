@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Windows High Contrast
+; schema by Fergus Collins (https://github.com/C-Fergus)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\windows-highcontrast]
+
+; Default Foreground
+"Colour0"="192,192,192"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="192,192,192"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="192,192,192"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="84,84,84"
+
+; ANSI Red
+"Colour8"="252,84,84"
+
+; ANSI Red Bold
+"Colour9"="128,128,0"
+
+; ANSI Green
+"Colour10"="84,252,84"
+
+; ANSI Green Bold
+"Colour11"="28,28,28"
+
+; ANSI Yellow
+"Colour12"="252,252,84"
+
+; ANSI Yellow Bold
+"Colour13"="56,56,56"
+
+; ANSI Blue
+"Colour14"="84,84,252"
+
+; ANSI Blue Bold
+"Colour15"="162,162,162"
+
+; ANSI Magenta
+"Colour16"="252,84,252"
+
+; ANSI Magenta Bold
+"Colour17"="222,222,222"
+
+; ANSI Cyan
+"Colour18"="84,252,252"
+
+; ANSI Cyan Bold
+"Colour19"="0,128,0"
+
+; ANSI White
+"Colour20"="192,192,192"
+
+; ANSI White Bold
+"Colour21"="252,252,252"
+

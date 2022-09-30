@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Darcula
+; schema by jetbrains
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\darcula]
+
+; Default Foreground
+"Colour0"="169,183,198"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="169,183,198"
+
+; Default Background
+"Colour2"="43,43,43"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="43,43,43"
+
+; Cursor Text -- equals to default background
+"Colour4"="43,43,43"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="169,183,198"
+
+; ANSI Black
+"Colour6"="43,43,43"
+
+; ANSI Black Bold
+"Colour7"="96,99,102"
+
+; ANSI Red
+"Colour8"="78,173,229"
+
+; ANSI Red Bold
+"Colour9"="104,151,87"
+
+; ANSI Green
+"Colour10"="106,135,89"
+
+; ANSI Green Bold
+"Colour11"="50,50,50"
+
+; ANSI Yellow
+"Colour12"="187,181,41"
+
+; ANSI Yellow Bold
+"Colour13"="50,50,50"
+
+; ANSI Blue
+"Colour14"="152,118,170"
+
+; ANSI Blue Bold
+"Colour15"="164,163,163"
+
+; ANSI Magenta
+"Colour16"="204,120,50"
+
+; ANSI Magenta Bold
+"Colour17"="255,198,109"
+
+; ANSI Cyan
+"Colour18"="98,151,85"
+
+; ANSI Cyan Bold
+"Colour19"="128,128,128"
+
+; ANSI White
+"Colour20"="169,183,198"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 London Tube
+; schema by Jan T. Sott
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tube]
+
+; Default Foreground
+"Colour0"="217,216,216"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="217,216,216"
+
+; Default Background
+"Colour2"="35,31,32"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="35,31,32"
+
+; Cursor Text -- equals to default background
+"Colour4"="35,31,32"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="217,216,216"
+
+; ANSI Black
+"Colour6"="35,31,32"
+
+; ANSI Black Bold
+"Colour7"="115,113,113"
+
+; ANSI Red
+"Colour8"="238,46,36"
+
+; ANSI Red Bold
+"Colour9"="243,134,161"
+
+; ANSI Green
+"Colour10"="0,133,62"
+
+; ANSI Green Bold
+"Colour11"="28,63,149"
+
+; ANSI Yellow
+"Colour12"="255,210,4"
+
+; ANSI Yellow Bold
+"Colour13"="90,87,88"
+
+; ANSI Blue
+"Colour14"="0,157,220"
+
+; ANSI Blue Bold
+"Colour15"="149,156,161"
+
+; ANSI Magenta
+"Colour16"="152,0,93"
+
+; ANSI Magenta Bold
+"Colour17"="231,231,232"
+
+; ANSI Cyan
+"Colour18"="133,206,188"
+
+; ANSI Cyan Bold
+"Colour19"="176,97,16"
+
+; ANSI White
+"Colour20"="217,216,216"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

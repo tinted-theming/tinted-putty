@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Kimber
+; schema by Mishka Nguyen (https://github.com/akhsiM)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\kimber]
+
+; Default Foreground
+"Colour0"="222,222,231"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="222,222,231"
+
+; Default Background
+"Colour2"="34,34,34"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="34,34,34"
+
+; Cursor Text -- equals to default background
+"Colour4"="34,34,34"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="222,222,231"
+
+; ANSI Black
+"Colour6"="34,34,34"
+
+; ANSI Black Bold
+"Colour7"="100,70,70"
+
+; ANSI Red
+"Colour8"="200,140,140"
+
+; ANSI Red Bold
+"Colour9"="71,108,136"
+
+; ANSI Green
+"Colour10"="153,200,153"
+
+; ANSI Green Bold
+"Colour11"="49,49,49"
+
+; ANSI Yellow
+"Colour12"="216,181,109"
+
+; ANSI Yellow Bold
+"Colour13"="85,93,85"
+
+; ANSI Blue
+"Colour14"="83,124,156"
+
+; ANSI Blue Bold
+"Colour15"="90,90,90"
+
+; ANSI Magenta
+"Colour16"="134,202,205"
+
+; ANSI Magenta Bold
+"Colour17"="195,195,180"
+
+; ANSI Cyan
+"Colour18"="120,180,180"
+
+; ANSI Cyan Bold
+"Colour19"="112,79,79"
+
+; ANSI White
+"Colour20"="222,222,231"
+
+; ANSI White Bold
+"Colour21"="255,255,230"
+

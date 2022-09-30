@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Shades of Purple
+; schema by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\shades-of-purple]
+
+; Default Foreground
+"Colour0"="199,199,199"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="199,199,199"
+
+; Default Background
+"Colour2"="30,30,63"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="30,30,63"
+
+; Cursor Text -- equals to default background
+"Colour4"="30,30,63"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="199,199,199"
+
+; ANSI Black
+"Colour6"="30,30,63"
+
+; ANSI Black Bold
+"Colour7"="128,128,128"
+
+; ANSI Red
+"Colour8"="217,4,41"
+
+; ANSI Red Bold
+"Colour9"="249,42,28"
+
+; ANSI Green
+"Colour10"="58,217,0"
+
+; ANSI Green Bold
+"Colour11"="67,212,38"
+
+; ANSI Yellow
+"Colour12"="255,231,0"
+
+; ANSI Yellow Bold
+"Colour13"="241,208,0"
+
+; ANSI Blue
+"Colour14"="105,67,255"
+
+; ANSI Blue Bold
+"Colour15"="104,113,255"
+
+; ANSI Magenta
+"Colour16"="255,44,112"
+
+; ANSI Magenta Bold
+"Colour17"="255,119,255"
+
+; ANSI Cyan
+"Colour18"="0,197,199"
+
+; ANSI Cyan Bold
+"Colour19"="121,232,251"
+
+; ANSI White
+"Colour20"="199,199,199"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

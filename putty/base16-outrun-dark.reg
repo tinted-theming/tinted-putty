@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Outrun Dark
+; schema by Hugo Delahousse (http://github.com/hugodelahousse/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\outrun-dark]
+
+; Default Foreground
+"Colour0"="208,208,250"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="208,208,250"
+
+; Default Background
+"Colour2"="0,0,42"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,42"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,42"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="208,208,250"
+
+; ANSI Black
+"Colour6"="0,0,42"
+
+; ANSI Black Bold
+"Colour7"="80,80,122"
+
+; ANSI Red
+"Colour8"="255,66,66"
+
+; ANSI Red Bold
+"Colour9"="252,141,40"
+
+; ANSI Green
+"Colour10"="89,241,118"
+
+; ANSI Green Bold
+"Colour11"="32,32,74"
+
+; ANSI Yellow
+"Colour12"="243,232,119"
+
+; ANSI Yellow Bold
+"Colour13"="48,48,90"
+
+; ANSI Blue
+"Colour14"="102,176,255"
+
+; ANSI Blue Bold
+"Colour15"="176,176,218"
+
+; ANSI Magenta
+"Colour16"="241,5,150"
+
+; ANSI Magenta Bold
+"Colour17"="224,224,255"
+
+; ANSI Cyan
+"Colour18"="14,240,240"
+
+; ANSI Cyan Bold
+"Colour19"="240,3,239"
+
+; ANSI White
+"Colour20"="208,208,250"
+
+; ANSI White Bold
+"Colour21"="245,245,255"
+

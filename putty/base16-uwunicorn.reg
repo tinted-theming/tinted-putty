@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 UwUnicorn
+; schema by Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\uwunicorn]
+
+; Default Foreground
+"Colour0"="238,213,217"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="238,213,217"
+
+; Default Background
+"Colour2"="36,27,38"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="36,27,38"
+
+; Cursor Text -- equals to default background
+"Colour4"="36,27,38"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="238,213,217"
+
+; ANSI Black
+"Colour6"="36,27,38"
+
+; ANSI Black Bold
+"Colour7"="108,60,178"
+
+; ANSI Red
+"Colour8"="135,123,182"
+
+; ANSI Red Bold
+"Colour9"="222,91,68"
+
+; ANSI Green
+"Colour10"="201,101,191"
+
+; ANSI Green Bold
+"Colour11"="47,42,63"
+
+; ANSI Yellow
+"Colour12"="168,74,115"
+
+; ANSI Yellow Bold
+"Colour13"="70,53,74"
+
+; ANSI Blue
+"Colour14"="106,158,181"
+
+; ANSI Blue Bold
+"Colour15"="126,95,131"
+
+; ANSI Magenta
+"Colour16"="120,163,143"
+
+; ANSI Magenta Bold
+"Colour17"="217,194,198"
+
+; ANSI Cyan
+"Colour18"="156,95,206"
+
+; ANSI Cyan Bold
+"Colour19"="163,160,121"
+
+; ANSI White
+"Colour20"="238,213,217"
+
+; ANSI White Bold
+"Colour21"="228,204,208"
+

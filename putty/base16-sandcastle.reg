@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Sandcastle
+; schema by George Essig (https://github.com/gessig)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\sandcastle]
+
+; Default Foreground
+"Colour0"="168,153,132"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="168,153,132"
+
+; Default Background
+"Colour2"="40,44,52"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,44,52"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,44,52"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="168,153,132"
+
+; ANSI Black
+"Colour6"="40,44,52"
+
+; ANSI Black Bold
+"Colour7"="102,92,84"
+
+; ANSI Red
+"Colour8"="131,165,152"
+
+; ANSI Red Bold
+"Colour9"="160,126,59"
+
+; ANSI Green
+"Colour10"="82,139,139"
+
+; ANSI Green Bold
+"Colour11"="44,50,59"
+
+; ANSI Yellow
+"Colour12"="160,126,59"
+
+; ANSI Yellow Bold
+"Colour13"="62,68,81"
+
+; ANSI Blue
+"Colour14"="131,165,152"
+
+; ANSI Blue Bold
+"Colour15"="146,131,116"
+
+; ANSI Magenta
+"Colour16"="215,95,95"
+
+; ANSI Magenta Bold
+"Colour17"="213,196,161"
+
+; ANSI Cyan
+"Colour18"="131,165,152"
+
+; ANSI Cyan Bold
+"Colour19"="168,115,34"
+
+; ANSI White
+"Colour20"="168,153,132"
+
+; ANSI White Bold
+"Colour21"="253,244,193"
+

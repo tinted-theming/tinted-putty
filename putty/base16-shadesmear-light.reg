@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 ShadeSmear Light
+; schema by Kyle Giammarco (http://kyle.giammar.co)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\shadesmear-light]
+
+; Default Foreground
+"Colour0"="35,35,35"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="35,35,35"
+
+; Default Background
+"Colour2"="219,219,219"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="219,219,219"
+
+; Cursor Text -- equals to default background
+"Colour4"="219,219,219"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="35,35,35"
+
+; ANSI Black
+"Colour6"="219,219,219"
+
+; ANSI Black Bold
+"Colour7"="78,78,78"
+
+; ANSI Red
+"Colour8"="204,84,80"
+
+; ANSI Red Bold
+"Colour9"="166,66,112"
+
+; ANSI Green
+"Colour10"="113,152,59"
+
+; ANSI Green Bold
+"Colour11"="228,228,228"
+
+; ANSI Yellow
+"Colour12"="48,120,120"
+
+; ANSI Yellow Bold
+"Colour13"="192,192,192"
+
+; ANSI Blue
+"Colour14"="55,99,136"
+
+; ANSI Blue Bold
+"Colour15"="28,28,28"
+
+; ANSI Magenta
+"Colour16"="215,171,84"
+
+; ANSI Magenta Bold
+"Colour17"="28,28,28"
+
+; ANSI Cyan
+"Colour18"="197,125,66"
+
+; ANSI Cyan Bold
+"Colour19"="109,109,109"
+
+; ANSI White
+"Colour20"="35,35,35"
+
+; ANSI White Bold
+"Colour21"="228,228,228"
+

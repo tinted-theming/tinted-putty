@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Lakeside Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-lakeside-light]
+
+; Default Foreground
+"Colour0"="81,109,123"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="81,109,123"
+
+; Default Background
+"Colour2"="235,248,255"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="235,248,255"
+
+; Cursor Text -- equals to default background
+"Colour4"="235,248,255"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="81,109,123"
+
+; ANSI Black
+"Colour6"="235,248,255"
+
+; ANSI Black Bold
+"Colour7"="113,149,168"
+
+; ANSI Red
+"Colour8"="210,45,114"
+
+; ANSI Red Bold
+"Colour9"="147,92,37"
+
+; ANSI Green
+"Colour10"="86,140,59"
+
+; ANSI Green Bold
+"Colour11"="193,228,246"
+
+; ANSI Yellow
+"Colour12"="138,138,15"
+
+; ANSI Yellow Bold
+"Colour13"="126,162,180"
+
+; ANSI Blue
+"Colour14"="37,127,173"
+
+; ANSI Blue Bold
+"Colour15"="90,123,140"
+
+; ANSI Magenta
+"Colour16"="107,107,184"
+
+; ANSI Magenta Bold
+"Colour17"="31,41,46"
+
+; ANSI Cyan
+"Colour18"="45,143,111"
+
+; ANSI Cyan Bold
+"Colour19"="183,45,210"
+
+; ANSI White
+"Colour20"="81,109,123"
+
+; ANSI White Bold
+"Colour21"="22,27,29"
+

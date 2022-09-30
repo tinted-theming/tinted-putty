@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Dark Violet
+; schema by ruler501 (https://github.com/ruler501/base16-darkviolet)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\darkviolet]
+
+; Default Foreground
+"Colour0"="176,138,230"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="176,138,230"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="176,138,230"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="89,51,128"
+
+; ANSI Red
+"Colour8"="168,46,230"
+
+; ANSI Red Bold
+"Colour9"="187,102,204"
+
+; ANSI Green
+"Colour10"="69,149,230"
+
+; ANSI Green Bold
+"Colour11"="35,26,64"
+
+; ANSI Yellow
+"Colour12"="242,157,242"
+
+; ANSI Yellow Bold
+"Colour13"="67,45,89"
+
+; ANSI Blue
+"Colour14"="65,54,217"
+
+; ANSI Blue Bold
+"Colour15"="0,255,0"
+
+; ANSI Magenta
+"Colour16"="126,92,230"
+
+; ANSI Magenta Bold
+"Colour17"="144,69,230"
+
+; ANSI Cyan
+"Colour18"="64,223,255"
+
+; ANSI Cyan Bold
+"Colour19"="168,134,191"
+
+; ANSI White
+"Colour20"="176,138,230"
+
+; ANSI White Bold
+"Colour21"="163,102,255"
+

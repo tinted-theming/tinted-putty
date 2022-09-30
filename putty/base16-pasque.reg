@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Pasque
+; schema by Gabriel Fontes (https://github.com/Misterio77)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pasque]
+
+; Default Foreground
+"Colour0"="222,220,223"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="222,220,223"
+
+; Default Background
+"Colour2"="39,28,58"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="39,28,58"
+
+; Cursor Text -- equals to default background
+"Colour4"="39,28,58"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="222,220,223"
+
+; ANSI Black
+"Colour6"="39,28,58"
+
+; ANSI Black Bold
+"Colour7"="93,87,102"
+
+; ANSI Red
+"Colour8"="169,34,88"
+
+; ANSI Red Bold
+"Colour9"="145,136,137"
+
+; ANSI Green
+"Colour10"="198,145,75"
+
+; ANSI Green Bold
+"Colour11"="16,3,35"
+
+; ANSI Yellow
+"Colour12"="128,78,173"
+
+; ANSI Yellow Bold
+"Colour13"="62,45,92"
+
+; ANSI Blue
+"Colour14"="142,125,198"
+
+; ANSI Blue Bold
+"Colour15"="190,188,191"
+
+; ANSI Magenta
+"Colour16"="149,59,157"
+
+; ANSI Magenta Bold
+"Colour17"="237,234,239"
+
+; ANSI Cyan
+"Colour18"="114,99,170"
+
+; ANSI Cyan Bold
+"Colour19"="89,50,92"
+
+; ANSI White
+"Colour20"="222,220,223"
+
+; ANSI White Bold
+"Colour21"="187,170,221"
+

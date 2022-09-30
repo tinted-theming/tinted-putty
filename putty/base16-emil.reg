@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 emil
+; schema by limelier
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\emil]
+
+; Default Foreground
+"Colour0"="49,49,69"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="49,49,69"
+
+; Default Background
+"Colour2"="239,239,239"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="239,239,239"
+
+; Cursor Text -- equals to default background
+"Colour4"="239,239,239"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="49,49,69"
+
+; ANSI Black
+"Colour6"="239,239,239"
+
+; ANSI Black Bold
+"Colour7"="124,124,152"
+
+; ANSI Red
+"Colour8"="244,57,121"
+
+; ANSI Red Bold
+"Colour9"="210,42,139"
+
+; ANSI Green
+"Colour10"="0,115,168"
+
+; ANSI Green Bold
+"Colour11"="190,190,210"
+
+; ANSI Yellow
+"Colour12"="255,102,155"
+
+; ANSI Yellow Bold
+"Colour13"="158,158,175"
+
+; ANSI Blue
+"Colour14"="71,19,151"
+
+; ANSI Blue Bold
+"Colour15"="80,80,99"
+
+; ANSI Magenta
+"Colour16"="105,22,182"
+
+; ANSI Magenta Bold
+"Colour17"="34,34,58"
+
+; ANSI Cyan
+"Colour18"="33,85,214"
+
+; ANSI Cyan Bold
+"Colour19"="141,23,165"
+
+; ANSI White
+"Colour20"="49,49,69"
+
+; ANSI White Bold
+"Colour21"="26,26,47"
+

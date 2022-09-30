@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Horizon Dark
+; schema by Michaël Ball (http://github.com/michael-ball/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\horizon-dark]
+
+; Default Foreground
+"Colour0"="203,206,208"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="203,206,208"
+
+; Default Background
+"Colour2"="28,30,38"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,30,38"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,30,38"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="203,206,208"
+
+; ANSI Black
+"Colour6"="28,30,38"
+
+; ANSI Black Bold
+"Colour7"="111,111,112"
+
+; ANSI Red
+"Colour8"="233,60,88"
+
+; ANSI Red Bold
+"Colour9"="229,141,125"
+
+; ANSI Green
+"Colour10"="239,175,142"
+
+; ANSI Green Bold
+"Colour11"="35,37,48"
+
+; ANSI Yellow
+"Colour12"="239,185,147"
+
+; ANSI Yellow Bold
+"Colour13"="46,48,62"
+
+; ANSI Blue
+"Colour14"="223,82,115"
+
+; ANSI Blue Bold
+"Colour15"="157,160,162"
+
+; ANSI Magenta
+"Colour16"="176,114,209"
+
+; ANSI Magenta Bold
+"Colour17"="220,223,228"
+
+; ANSI Cyan
+"Colour18"="36,168,180"
+
+; ANSI Cyan Bold
+"Colour19"="228,163,130"
+
+; ANSI White
+"Colour20"="203,206,208"
+
+; ANSI White Bold
+"Colour21"="227,230,238"
+

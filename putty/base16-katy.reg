@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Katy
+; schema by George Essig (https://github.com/gessig)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\katy]
+
+; Default Foreground
+"Colour0"="149,157,203"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="149,157,203"
+
+; Default Background
+"Colour2"="41,45,62"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="41,45,62"
+
+; Cursor Text -- equals to default background
+"Colour4"="41,45,62"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="149,157,203"
+
+; ANSI Black
+"Colour6"="41,45,62"
+
+; ANSI Black Bold
+"Colour7"="103,110,149"
+
+; ANSI Red
+"Colour8"="110,152,225"
+
+; ANSI Red Bold
+"Colour9"="247,140,108"
+
+; ANSI Green
+"Colour10"="120,192,110"
+
+; ANSI Green Bold
+"Colour11"="68,66,103"
+
+; ANSI Yellow
+"Colour12"="224,165,87"
+
+; ANSI Yellow Bold
+"Colour13"="92,89,139"
+
+; ANSI Blue
+"Colour14"="130,170,255"
+
+; ANSI Blue Bold
+"Colour15"="135,150,176"
+
+; ANSI Magenta
+"Colour16"="199,146,234"
+
+; ANSI Magenta Bold
+"Colour17"="149,157,203"
+
+; ANSI Cyan
+"Colour18"="131,183,229"
+
+; ANSI Cyan Bold
+"Colour19"="255,83,112"
+
+; ANSI White
+"Colour20"="149,157,203"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

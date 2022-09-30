@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tokyo City Terminal Light
+; schema by Michaël Ball
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tokyo-city-terminal-light]
+
+; Default Foreground
+"Colour0"="40,50,58"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="40,50,58"
+
+; Default Background
+"Colour2"="251,251,253"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="251,251,253"
+
+; Cursor Text -- equals to default background
+"Colour4"="251,251,253"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="40,50,58"
+
+; ANSI Black
+"Colour6"="251,251,253"
+
+; ANSI Black Bold
+"Colour7"="183,197,211"
+
+; ANSI Red
+"Colour8"="140,67,81"
+
+; ANSI Red Bold
+"Colour9"="150,80,39"
+
+; ANSI Green
+"Colour10"="51,99,92"
+
+; ANSI Green Bold
+"Colour11"="246,246,248"
+
+; ANSI Yellow
+"Colour12"="143,94,21"
+
+; ANSI Yellow Bold
+"Colour13"="216,226,236"
+
+; ANSI Blue
+"Colour14"="52,84,138"
+
+; ANSI Blue Bold
+"Colour15"="82,98,112"
+
+; ANSI Magenta
+"Colour16"="90,74,120"
+
+; ANSI Magenta Bold
+"Colour17"="29,37,44"
+
+; ANSI Cyan
+"Colour18"="15,75,110"
+
+; ANSI Cyan Bold
+"Colour19"="126,81,64"
+
+; ANSI White
+"Colour20"="40,50,58"
+
+; ANSI White Bold
+"Colour21"="23,29,35"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Woodland
+; schema by Jay Cornwall (https://jcornwall.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\woodland]
+
+; Default Foreground
+"Colour0"="202,188,177"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="202,188,177"
+
+; Default Background
+"Colour2"="35,30,24"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="35,30,24"
+
+; Cursor Text -- equals to default background
+"Colour4"="35,30,24"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="202,188,177"
+
+; ANSI Black
+"Colour6"="35,30,24"
+
+; ANSI Black Bold
+"Colour7"="157,139,112"
+
+; ANSI Red
+"Colour8"="211,92,92"
+
+; ANSI Red Bold
+"Colour9"="202,127,50"
+
+; ANSI Green
+"Colour10"="183,186,83"
+
+; ANSI Green Bold
+"Colour11"="48,43,37"
+
+; ANSI Yellow
+"Colour12"="224,172,22"
+
+; ANSI Yellow Bold
+"Colour13"="72,65,58"
+
+; ANSI Blue
+"Colour14"="136,164,211"
+
+; ANSI Blue Bold
+"Colour15"="180,164,144"
+
+; ANSI Magenta
+"Colour16"="187,144,226"
+
+; ANSI Magenta Bold
+"Colour17"="215,200,188"
+
+; ANSI Cyan
+"Colour18"="110,185,88"
+
+; ANSI Cyan Bold
+"Colour19"="180,147,104"
+
+; ANSI White
+"Colour20"="202,188,177"
+
+; ANSI White Bold
+"Colour21"="228,212,200"
+

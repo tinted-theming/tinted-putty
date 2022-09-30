@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Primer Dark Dimmed
+; schema by Jimmy Lin
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\primer-dark-dimmed]
+
+; Default Foreground
+"Colour0"="144,157,171"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="144,157,171"
+
+; Default Background
+"Colour2"="28,33,40"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,33,40"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,33,40"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="144,157,171"
+
+; ANSI Black
+"Colour6"="28,33,40"
+
+; ANSI Black Bold
+"Colour7"="84,93,104"
+
+; ANSI Red
+"Colour8"="244,112,103"
+
+; ANSI Red Bold
+"Colour9"="224,130,61"
+
+; ANSI Green
+"Colour10"="87,171,90"
+
+; ANSI Green Bold
+"Colour11"="55,62,71"
+
+; ANSI Yellow
+"Colour12"="198,144,38"
+
+; ANSI Yellow Bold
+"Colour13"="68,76,86"
+
+; ANSI Blue
+"Colour14"="83,155,245"
+
+; ANSI Blue Bold
+"Colour15"="118,131,144"
+
+; ANSI Magenta
+"Colour16"="226,117,173"
+
+; ANSI Magenta Bold
+"Colour17"="173,186,199"
+
+; ANSI Cyan
+"Colour18"="150,208,255"
+
+; ANSI Cyan Bold
+"Colour19"="174,86,34"
+
+; ANSI White
+"Colour20"="144,157,171"
+
+; ANSI White Bold
+"Colour21"="205,217,229"
+

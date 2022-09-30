@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Fruit Soda
+; schema by jozip
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\fruit-soda]
+
+; Default Foreground
+"Colour0"="81,81,81"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="81,81,81"
+
+; Default Background
+"Colour2"="241,236,241"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="241,236,241"
+
+; Cursor Text -- equals to default background
+"Colour4"="241,236,241"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="81,81,81"
+
+; ANSI Black
+"Colour6"="241,236,241"
+
+; ANSI Black Bold
+"Colour7"="181,180,182"
+
+; ANSI Red
+"Colour8"="254,62,49"
+
+; ANSI Red Bold
+"Colour9"="254,109,8"
+
+; ANSI Green
+"Colour10"="71,247,76"
+
+; ANSI Green Bold
+"Colour11"="224,222,224"
+
+; ANSI Yellow
+"Colour12"="247,226,3"
+
+; ANSI Yellow Bold
+"Colour13"="216,213,213"
+
+; ANSI Blue
+"Colour14"="41,49,223"
+
+; ANSI Blue Bold
+"Colour15"="151,149,152"
+
+; ANSI Magenta
+"Colour16"="97,31,206"
+
+; ANSI Magenta Bold
+"Colour17"="71,69,69"
+
+; ANSI Cyan
+"Colour18"="15,156,253"
+
+; ANSI Cyan Bold
+"Colour19"="177,111,64"
+
+; ANSI White
+"Colour20"="81,81,81"
+
+; ANSI White Bold
+"Colour21"="45,44,44"
+

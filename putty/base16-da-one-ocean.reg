@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Da One Ocean
+; schema by NNB (https://github.com/NNBnh)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\da-one-ocean]
+
+; Default Foreground
+"Colour0"="255,255,255"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="255,255,255"
+
+; Default Background
+"Colour2"="23,23,38"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="23,23,38"
+
+; Cursor Text -- equals to default background
+"Colour4"="23,23,38"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="255,255,255"
+
+; ANSI Black
+"Colour6"="23,23,38"
+
+; ANSI Black Bold
+"Colour7"="135,141,150"
+
+; ANSI Red
+"Colour8"="250,120,131"
+
+; ANSI Red Bold
+"Colour9"="255,195,135"
+
+; ANSI Green
+"Colour10"="152,195,121"
+
+; ANSI Green Bold
+"Colour11"="34,39,61"
+
+; ANSI Yellow
+"Colour12"="255,148,112"
+
+; ANSI Yellow Bold
+"Colour13"="82,88,102"
+
+; ANSI Blue
+"Colour14"="107,184,255"
+
+; ANSI Blue Bold
+"Colour15"="200,200,200"
+
+; ANSI Magenta
+"Colour16"="231,153,255"
+
+; ANSI Magenta Bold
+"Colour17"="255,255,255"
+
+; ANSI Cyan
+"Colour18"="138,245,255"
+
+; ANSI Cyan Bold
+"Colour19"="179,104,79"
+
+; ANSI White
+"Colour20"="255,255,255"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

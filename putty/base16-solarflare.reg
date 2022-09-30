@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Solar Flare
+; schema by Chuck Harmston (https://chuck.harmston.ch)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarflare]
+
+; Default Foreground
+"Colour0"="166,175,184"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="166,175,184"
+
+; Default Background
+"Colour2"="24,38,47"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="24,38,47"
+
+; Cursor Text -- equals to default background
+"Colour4"="24,38,47"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="166,175,184"
+
+; ANSI Black
+"Colour6"="24,38,47"
+
+; ANSI Black Bold
+"Colour7"="102,117,129"
+
+; ANSI Red
+"Colour8"="239,82,83"
+
+; ANSI Red Bold
+"Colour9"="230,107,43"
+
+; ANSI Green
+"Colour10"="124,200,68"
+
+; ANSI Green Bold
+"Colour11"="34,46,56"
+
+; ANSI Yellow
+"Colour12"="228,181,28"
+
+; ANSI Yellow Bold
+"Colour13"="88,104,117"
+
+; ANSI Blue
+"Colour14"="51,181,225"
+
+; ANSI Blue Bold
+"Colour15"="133,147,158"
+
+; ANSI Magenta
+"Colour16"="163,99,213"
+
+; ANSI Magenta Bold
+"Colour17"="232,233,237"
+
+; ANSI Cyan
+"Colour18"="82,203,176"
+
+; ANSI Cyan Bold
+"Colour19"="215,60,154"
+
+; ANSI White
+"Colour20"="166,175,184"
+
+; ANSI White Bold
+"Colour21"="245,247,250"
+

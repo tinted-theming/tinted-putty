@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gigavolt
+; schema by Aidan Swope (http://github.com/Whillikers)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gigavolt]
+
+; Default Foreground
+"Colour0"="233,231,225"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="233,231,225"
+
+; Default Background
+"Colour2"="32,33,38"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="32,33,38"
+
+; Cursor Text -- equals to default background
+"Colour4"="32,33,38"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="233,231,225"
+
+; ANSI Black
+"Colour6"="32,33,38"
+
+; ANSI Black Bold
+"Colour7"="161,210,230"
+
+; ANSI Red
+"Colour8"="255,102,26"
+
+; ANSI Red Bold
+"Colour9"="25,249,136"
+
+; ANSI Green
+"Colour10"="242,230,169"
+
+; ANSI Green Bold
+"Colour11"="45,48,61"
+
+; ANSI Yellow
+"Colour12"="255,220,45"
+
+; ANSI Yellow Bold
+"Colour13"="90,87,110"
+
+; ANSI Blue
+"Colour14"="64,191,255"
+
+; ANSI Blue Bold
+"Colour15"="202,211,255"
+
+; ANSI Magenta
+"Colour16"="174,148,249"
+
+; ANSI Magenta Bold
+"Colour17"="239,240,249"
+
+; ANSI Cyan
+"Colour18"="251,106,203"
+
+; ANSI Cyan Bold
+"Colour19"="97,135,255"
+
+; ANSI White
+"Colour20"="233,231,225"
+
+; ANSI White Bold
+"Colour21"="242,251,255"
+

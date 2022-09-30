@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Stella
+; schema by Shrimpram
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\stella]
+
+; Default Foreground
+"Colour0"="153,139,173"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="153,139,173"
+
+; Default Background
+"Colour2"="43,33,60"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="43,33,60"
+
+; Cursor Text -- equals to default background
+"Colour4"="43,33,60"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="153,139,173"
+
+; ANSI Black
+"Colour6"="43,33,60"
+
+; ANSI Black Bold
+"Colour7"="101,89,120"
+
+; ANSI Red
+"Colour8"="199,153,135"
+
+; ANSI Red Bold
+"Colour9"="136,101,198"
+
+; ANSI Green
+"Colour10"="172,199,155"
+
+; ANSI Green Bold
+"Colour11"="54,43,72"
+
+; ANSI Yellow
+"Colour12"="199,198,145"
+
+; ANSI Yellow Bold
+"Colour13"="77,65,96"
+
+; ANSI Blue
+"Colour14"="165,170,212"
+
+; ANSI Blue Bold
+"Colour15"="127,113,146"
+
+; ANSI Magenta
+"Colour16"="197,148,255"
+
+; ANSI Magenta Bold
+"Colour17"="180,165,200"
+
+; ANSI Cyan
+"Colour18"="155,199,191"
+
+; ANSI Cyan Bold
+"Colour19"="199,171,135"
+
+; ANSI White
+"Colour20"="153,139,173"
+
+; ANSI White Bold
+"Colour21"="235,220,255"
+

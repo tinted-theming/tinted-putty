@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Plateau Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-plateau-light]
+
+; Default Foreground
+"Colour0"="88,80,80"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="88,80,80"
+
+; Default Background
+"Colour2"="244,236,236"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="244,236,236"
+
+; Cursor Text -- equals to default background
+"Colour4"="244,236,236"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="88,80,80"
+
+; ANSI Black
+"Colour6"="244,236,236"
+
+; ANSI Black Bold
+"Colour7"="126,119,119"
+
+; ANSI Red
+"Colour8"="202,73,73"
+
+; ANSI Red Bold
+"Colour9"="180,90,60"
+
+; ANSI Green
+"Colour10"="75,139,139"
+
+; ANSI Green Bold
+"Colour11"="231,223,223"
+
+; ANSI Yellow
+"Colour12"="160,110,59"
+
+; ANSI Yellow Bold
+"Colour13"="138,133,133"
+
+; ANSI Blue
+"Colour14"="114,114,202"
+
+; ANSI Blue Bold
+"Colour15"="101,93,93"
+
+; ANSI Magenta
+"Colour16"="132,100,196"
+
+; ANSI Magenta Bold
+"Colour17"="41,36,36"
+
+; ANSI Cyan
+"Colour18"="84,133,182"
+
+; ANSI Cyan Bold
+"Colour19"="189,81,135"
+
+; ANSI White
+"Colour20"="88,80,80"
+
+; ANSI White Bold
+"Colour21"="27,24,24"
+

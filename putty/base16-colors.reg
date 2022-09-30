@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Colors
+; schema by mrmrs (http://clrs.cc)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\colors]
+
+; Default Foreground
+"Colour0"="187,187,187"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="187,187,187"
+
+; Default Background
+"Colour2"="17,17,17"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="17,17,17"
+
+; Cursor Text -- equals to default background
+"Colour4"="17,17,17"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="187,187,187"
+
+; ANSI Black
+"Colour6"="17,17,17"
+
+; ANSI Black Bold
+"Colour7"="119,119,119"
+
+; ANSI Red
+"Colour8"="255,65,54"
+
+; ANSI Red Bold
+"Colour9"="255,133,27"
+
+; ANSI Green
+"Colour10"="46,204,64"
+
+; ANSI Green Bold
+"Colour11"="51,51,51"
+
+; ANSI Yellow
+"Colour12"="255,220,0"
+
+; ANSI Yellow Bold
+"Colour13"="85,85,85"
+
+; ANSI Blue
+"Colour14"="0,116,217"
+
+; ANSI Blue Bold
+"Colour15"="153,153,153"
+
+; ANSI Magenta
+"Colour16"="177,13,201"
+
+; ANSI Magenta Bold
+"Colour17"="221,221,221"
+
+; ANSI Cyan
+"Colour18"="127,219,255"
+
+; ANSI Cyan Bold
+"Colour19"="133,20,75"
+
+; ANSI White
+"Colour20"="187,187,187"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

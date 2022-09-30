@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Silk Dark
+; schema by Gabriel Fontes (https://github.com/Misterio77)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\silk-dark]
+
+; Default Foreground
+"Colour0"="199,219,221"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="199,219,221"
+
+; Default Background
+"Colour2"="14,60,70"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="14,60,70"
+
+; Cursor Text -- equals to default background
+"Colour4"="14,60,70"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="199,219,221"
+
+; ANSI Black
+"Colour6"="14,60,70"
+
+; ANSI Black Bold
+"Colour7"="88,112,115"
+
+; ANSI Red
+"Colour8"="251,105,83"
+
+; ANSI Red Bold
+"Colour9"="252,171,116"
+
+; ANSI Green
+"Colour10"="115,216,173"
+
+; ANSI Green Bold
+"Colour11"="29,73,78"
+
+; ANSI Yellow
+"Colour12"="252,227,128"
+
+; ANSI Yellow Bold
+"Colour13"="42,80,84"
+
+; ANSI Blue
+"Colour14"="70,189,221"
+
+; ANSI Blue Bold
+"Colour15"="157,200,205"
+
+; ANSI Magenta
+"Colour16"="117,107,138"
+
+; ANSI Magenta Bold
+"Colour17"="203,242,247"
+
+; ANSI Cyan
+"Colour18"="63,178,185"
+
+; ANSI Cyan Bold
+"Colour19"="155,100,123"
+
+; ANSI White
+"Colour20"="199,219,221"
+
+; ANSI White Bold
+"Colour21"="210,250,255"
+

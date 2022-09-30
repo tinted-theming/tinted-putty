@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tango
+; schema by @Schnouki, based on the Tango Desktop Project
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tango]
+
+; Default Foreground
+"Colour0"="211,215,207"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="211,215,207"
+
+; Default Background
+"Colour2"="46,52,54"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="46,52,54"
+
+; Cursor Text -- equals to default background
+"Colour4"="46,52,54"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="211,215,207"
+
+; ANSI Black
+"Colour6"="46,52,54"
+
+; ANSI Black Bold
+"Colour7"="85,87,83"
+
+; ANSI Red
+"Colour8"="204,0,0"
+
+; ANSI Red Bold
+"Colour9"="239,41,41"
+
+; ANSI Green
+"Colour10"="78,154,6"
+
+; ANSI Green Bold
+"Colour11"="138,226,52"
+
+; ANSI Yellow
+"Colour12"="196,160,0"
+
+; ANSI Yellow Bold
+"Colour13"="252,233,79"
+
+; ANSI Blue
+"Colour14"="52,101,164"
+
+; ANSI Blue Bold
+"Colour15"="114,159,207"
+
+; ANSI Magenta
+"Colour16"="117,80,123"
+
+; ANSI Magenta Bold
+"Colour17"="173,127,168"
+
+; ANSI Cyan
+"Colour18"="6,152,154"
+
+; ANSI Cyan Bold
+"Colour19"="52,226,226"
+
+; ANSI White
+"Colour20"="211,215,207"
+
+; ANSI White Bold
+"Colour21"="238,238,236"
+

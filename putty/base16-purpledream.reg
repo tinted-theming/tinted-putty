@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Purpledream
+; schema by malet
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\purpledream]
+
+; Default Foreground
+"Colour0"="221,208,221"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="221,208,221"
+
+; Default Background
+"Colour2"="16,5,16"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="16,5,16"
+
+; Cursor Text -- equals to default background
+"Colour4"="16,5,16"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="221,208,221"
+
+; ANSI Black
+"Colour6"="16,5,16"
+
+; ANSI Black Bold
+"Colour7"="96,80,96"
+
+; ANSI Red
+"Colour8"="255,29,13"
+
+; ANSI Red Bold
+"Colour9"="204,174,20"
+
+; ANSI Green
+"Colour10"="20,204,100"
+
+; ANSI Green Bold
+"Colour11"="48,32,48"
+
+; ANSI Yellow
+"Colour12"="240,0,160"
+
+; ANSI Yellow Bold
+"Colour13"="64,48,64"
+
+; ANSI Blue
+"Colour14"="0,160,240"
+
+; ANSI Blue Bold
+"Colour15"="187,176,187"
+
+; ANSI Magenta
+"Colour16"="176,0,208"
+
+; ANSI Magenta Bold
+"Colour17"="238,224,238"
+
+; ANSI Cyan
+"Colour18"="0,117,176"
+
+; ANSI Cyan Bold
+"Colour19"="106,42,60"
+
+; ANSI White
+"Colour20"="221,208,221"
+
+; ANSI White Bold
+"Colour21"="255,240,255"
+

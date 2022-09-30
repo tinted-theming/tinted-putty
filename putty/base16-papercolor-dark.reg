@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 PaperColor Dark
+; schema by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\papercolor-dark]
+
+; Default Foreground
+"Colour0"="128,128,128"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="128,128,128"
+
+; Default Background
+"Colour2"="28,28,28"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,28,28"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,28,28"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="128,128,128"
+
+; ANSI Black
+"Colour6"="28,28,28"
+
+; ANSI Black Bold
+"Colour7"="215,175,95"
+
+; ANSI Red
+"Colour8"="88,88,88"
+
+; ANSI Red Bold
+"Colour9"="95,175,95"
+
+; ANSI Green
+"Colour10"="175,135,215"
+
+; ANSI Green Bold
+"Colour11"="175,0,95"
+
+; ANSI Yellow
+"Colour12"="175,215,0"
+
+; ANSI Yellow Bold
+"Colour13"="95,175,0"
+
+; ANSI Blue
+"Colour14"="255,95,175"
+
+; ANSI Blue Bold
+"Colour15"="95,175,215"
+
+; ANSI Magenta
+"Colour16"="0,175,175"
+
+; ANSI Magenta Bold
+"Colour17"="215,135,95"
+
+; ANSI Cyan
+"Colour18"="255,175,0"
+
+; ANSI Cyan Bold
+"Colour19"="95,135,135"
+
+; ANSI White
+"Colour20"="128,128,128"
+
+; ANSI White Bold
+"Colour21"="208,208,208"
+

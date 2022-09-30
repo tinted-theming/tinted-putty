@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Circus
+; schema by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\circus]
+
+; Default Foreground
+"Colour0"="167,167,167"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="167,167,167"
+
+; Default Background
+"Colour2"="25,25,25"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="25,25,25"
+
+; Cursor Text -- equals to default background
+"Colour4"="25,25,25"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="167,167,167"
+
+; ANSI Black
+"Colour6"="25,25,25"
+
+; ANSI Black Bold
+"Colour7"="95,90,96"
+
+; ANSI Red
+"Colour8"="220,101,125"
+
+; ANSI Red Bold
+"Colour9"="75,177,167"
+
+; ANSI Green
+"Colour10"="132,185,124"
+
+; ANSI Green Bold
+"Colour11"="32,32,32"
+
+; ANSI Yellow
+"Colour12"="195,186,99"
+
+; ANSI Yellow Bold
+"Colour13"="48,48,48"
+
+; ANSI Blue
+"Colour14"="99,158,228"
+
+; ANSI Blue Bold
+"Colour15"="80,80,80"
+
+; ANSI Magenta
+"Colour16"="184,136,226"
+
+; ANSI Magenta Bold
+"Colour17"="128,128,128"
+
+; ANSI Cyan
+"Colour18"="75,177,167"
+
+; ANSI Cyan Bold
+"Colour19"="184,136,226"
+
+; ANSI White
+"Colour20"="167,167,167"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

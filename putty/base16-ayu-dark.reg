@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Ayu Dark
+; schema by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ayu-dark]
+
+; Default Foreground
+"Colour0"="230,225,207"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="230,225,207"
+
+; Default Background
+"Colour2"="15,20,25"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="15,20,25"
+
+; Cursor Text -- equals to default background
+"Colour4"="15,20,25"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="230,225,207"
+
+; ANSI Black
+"Colour6"="15,20,25"
+
+; ANSI Black Bold
+"Colour7"="62,75,89"
+
+; ANSI Red
+"Colour8"="240,113,120"
+
+; ANSI Red Bold
+"Colour9"="255,143,64"
+
+; ANSI Green
+"Colour10"="184,204,82"
+
+; ANSI Green Bold
+"Colour11"="19,23,33"
+
+; ANSI Yellow
+"Colour12"="255,180,84"
+
+; ANSI Yellow Bold
+"Colour13"="39,45,56"
+
+; ANSI Blue
+"Colour14"="89,194,255"
+
+; ANSI Blue Bold
+"Colour15"="191,189,182"
+
+; ANSI Magenta
+"Colour16"="210,166,255"
+
+; ANSI Magenta Bold
+"Colour17"="230,225,207"
+
+; ANSI Cyan
+"Colour18"="149,230,203"
+
+; ANSI Cyan Bold
+"Colour19"="230,182,115"
+
+; ANSI White
+"Colour20"="230,225,207"
+
+; ANSI White Bold
+"Colour21"="243,244,245"
+

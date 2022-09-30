@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tokyo Night Storm
+; schema by Michaël Ball
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tokyo-night-storm]
+
+; Default Foreground
+"Colour0"="169,177,214"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="169,177,214"
+
+; Default Background
+"Colour2"="36,40,59"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="36,40,59"
+
+; Cursor Text -- equals to default background
+"Colour4"="36,40,59"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="169,177,214"
+
+; ANSI Black
+"Colour6"="36,40,59"
+
+; ANSI Black Bold
+"Colour7"="68,75,106"
+
+; ANSI Red
+"Colour8"="192,202,245"
+
+; ANSI Red Bold
+"Colour9"="169,177,214"
+
+; ANSI Green
+"Colour10"="158,206,106"
+
+; ANSI Green Bold
+"Colour11"="22,22,30"
+
+; ANSI Yellow
+"Colour12"="13,185,215"
+
+; ANSI Yellow Bold
+"Colour13"="52,58,82"
+
+; ANSI Blue
+"Colour14"="42,195,222"
+
+; ANSI Blue Bold
+"Colour15"="120,124,153"
+
+; ANSI Magenta
+"Colour16"="187,154,247"
+
+; ANSI Magenta Bold
+"Colour17"="203,204,209"
+
+; ANSI Cyan
+"Colour18"="180,249,248"
+
+; ANSI Cyan Bold
+"Colour19"="247,118,142"
+
+; ANSI White
+"Colour20"="169,177,214"
+
+; ANSI White Bold
+"Colour21"="213,214,219"
+

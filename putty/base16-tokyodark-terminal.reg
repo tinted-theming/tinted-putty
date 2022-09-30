@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tokyodark Terminal
+; schema by Tiagovla (https://github.com/tiagovla/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tokyodark-terminal]
+
+; Default Foreground
+"Colour0"="160,168,205"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="160,168,205"
+
+; Default Background
+"Colour2"="17,18,29"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="17,18,29"
+
+; Cursor Text -- equals to default background
+"Colour4"="17,18,29"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="160,168,205"
+
+; ANSI Black
+"Colour6"="17,18,29"
+
+; ANSI Black Bold
+"Colour7"="40,44,52"
+
+; ANSI Red
+"Colour8"="238,109,133"
+
+; ANSI Red Bold
+"Colour9"="246,149,91"
+
+; ANSI Green
+"Colour10"="149,197,97"
+
+; ANSI Green Bold
+"Colour11"="26,27,42"
+
+; ANSI Yellow
+"Colour12"="215,166,95"
+
+; ANSI Yellow Bold
+"Colour13"="33,34,52"
+
+; ANSI Blue
+"Colour14"="113,153,238"
+
+; ANSI Blue Bold
+"Colour15"="74,80,87"
+
+; ANSI Magenta
+"Colour16"="164,133,221"
+
+; ANSI Magenta Bold
+"Colour17"="160,168,205"
+
+; ANSI Cyan
+"Colour18"="56,168,157"
+
+; ANSI Cyan Bold
+"Colour19"="119,52,64"
+
+; ANSI White
+"Colour20"="160,168,205"
+
+; ANSI White Bold
+"Colour21"="160,168,205"
+

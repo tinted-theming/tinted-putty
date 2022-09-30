@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 summercamp
+; schema by zoe firi (zoefiri.github.io)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\summercamp]
+
+; Default Foreground
+"Colour0"="115,110,85"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="115,110,85"
+
+; Default Background
+"Colour2"="28,24,16"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="28,24,16"
+
+; Cursor Text -- equals to default background
+"Colour4"="28,24,16"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="115,110,85"
+
+; ANSI Black
+"Colour6"="28,24,16"
+
+; ANSI Black Bold
+"Colour7"="80,75,56"
+
+; ANSI Red
+"Colour8"="227,81,66"
+
+; ANSI Red Bold
+"Colour9"="251,161,27"
+
+; ANSI Green
+"Colour10"="92,235,90"
+
+; ANSI Green Bold
+"Colour11"="42,38,28"
+
+; ANSI Yellow
+"Colour12"="242,255,39"
+
+; ANSI Yellow Bold
+"Colour13"="58,53,39"
+
+; ANSI Blue
+"Colour14"="72,155,240"
+
+; ANSI Blue Bold
+"Colour15"="95,91,69"
+
+; ANSI Magenta
+"Colour16"="255,128,128"
+
+; ANSI Magenta Bold
+"Colour17"="186,182,150"
+
+; ANSI Cyan
+"Colour18"="90,235,188"
+
+; ANSI Cyan Bold
+"Colour19"="246,155,231"
+
+; ANSI White
+"Colour20"="115,110,85"
+
+; ANSI White Bold
+"Colour21"="248,245,222"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Icy Dark
+; schema by icyphox (https://icyphox.ga)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\icy]
+
+; Default Foreground
+"Colour0"="9,91,103"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="9,91,103"
+
+; Default Background
+"Colour2"="2,16,18"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="2,16,18"
+
+; Cursor Text -- equals to default background
+"Colour4"="2,16,18"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="9,91,103"
+
+; ANSI Black
+"Colour6"="2,16,18"
+
+; ANSI Black Bold
+"Colour7"="5,46,52"
+
+; ANSI Red
+"Colour8"="22,193,217"
+
+; ANSI Red Bold
+"Colour9"="179,235,242"
+
+; ANSI Green
+"Colour10"="77,208,225"
+
+; ANSI Green Bold
+"Colour11"="3,22,25"
+
+; ANSI Yellow
+"Colour12"="128,222,234"
+
+; ANSI Yellow Bold
+"Colour13"="4,31,35"
+
+; ANSI Blue
+"Colour14"="0,188,212"
+
+; ANSI Blue Bold
+"Colour15"="6,64,72"
+
+; ANSI Magenta
+"Colour16"="0,172,193"
+
+; ANSI Magenta Bold
+"Colour17"="12,124,140"
+
+; ANSI Cyan
+"Colour18"="38,198,218"
+
+; ANSI Cyan Bold
+"Colour19"="0,151,167"
+
+; ANSI White
+"Colour20"="9,91,103"
+
+; ANSI White Bold
+"Colour21"="16,156,176"
+

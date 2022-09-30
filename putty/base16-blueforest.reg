@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Blue Forest
+; schema by alonsodomin (https://github.com/alonsodomin)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\blueforest]
+
+; Default Foreground
+"Colour0"="255,204,51"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="255,204,51"
+
+; Default Background
+"Colour2"="20,31,46"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="20,31,46"
+
+; Cursor Text -- equals to default background
+"Colour4"="20,31,46"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="255,204,51"
+
+; ANSI Black
+"Colour6"="20,31,46"
+
+; ANSI Black Bold
+"Colour7"="160,255,160"
+
+; ANSI Red
+"Colour8"="255,250,177"
+
+; ANSI Red Bold
+"Colour9"="255,128,128"
+
+; ANSI Green
+"Colour10"="128,255,128"
+
+; ANSI Green Bold
+"Colour11"="30,92,30"
+
+; ANSI Yellow
+"Colour12"="145,204,255"
+
+; ANSI Yellow Bold
+"Colour13"="39,62,92"
+
+; ANSI Blue
+"Colour14"="162,207,245"
+
+; ANSI Blue Bold
+"Colour15"="30,92,30"
+
+; ANSI Magenta
+"Colour16"="0,153,255"
+
+; ANSI Magenta Bold
+"Colour17"="145,204,255"
+
+; ANSI Cyan
+"Colour18"="128,255,128"
+
+; ANSI Cyan Bold
+"Colour19"="231,231,231"
+
+; ANSI White
+"Colour20"="255,204,51"
+
+; ANSI White Bold
+"Colour21"="55,87,128"
+
