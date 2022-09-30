@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Solarized Light
-; schema by Ethan Schoonover (http://ethanschoonover.com/solarized)
+; schema by Ethan Schoonover (modified by aramisgithub)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarized-light]
 
 ; Default Foreground
