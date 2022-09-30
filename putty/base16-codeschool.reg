@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Codeschool
-; schema by brettof86
+; schema by blockloop
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\codeschool]
 
 ; Default Foreground
