@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Still Alive
+; schema by Derrick McKee (derrick.mckee@gmail.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\still-alive]
+
+; Default Foreground
+"Colour0"="216,0,0"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="216,0,0"
+
+; Default Background
+"Colour2"="240,240,240"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="240,240,240"
+
+; Cursor Text -- equals to default background
+"Colour4"="240,240,240"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="216,0,0"
+
+; ANSI Black
+"Colour6"="240,240,240"
+
+; ANSI Black Bold
+"Colour7"="240,24,24"
+
+; ANSI Red
+"Colour8"="72,120,48"
+
+; ANSI Red Bold
+"Colour9"="24,48,72"
+
+; ANSI Green
+"Colour10"="92,92,106"
+
+; ANSI Green Bold
+"Colour11"="240,216,72"
+
+; ANSI Yellow
+"Colour12"="66,99,149"
+
+; ANSI Yellow Bold
+"Colour13"="255,240,24"
+
+; ANSI Blue
+"Colour14"="0,24,120"
+
+; ANSI Blue Bold
+"Colour15"="240,0,0"
+
+; ANSI Magenta
+"Colour16"="144,0,0"
+
+; ANSI Magenta Bold
+"Colour17"="72,144,0"
+
+; ANSI Cyan
+"Colour18"="44,60,87"
+
+; ANSI Cyan Bold
+"Colour19"="20,12,13"
+
+; ANSI White
+"Colour20"="216,0,0"
+
+; ANSI White Bold
+"Colour21"="48,168,96"
+

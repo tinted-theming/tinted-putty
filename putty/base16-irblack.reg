@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 IR Black
+; schema by Timothée Poisot (http://timotheepoisot.fr)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\irblack]
+
+; Default Foreground
+"Colour0"="181,179,170"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="181,179,170"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="181,179,170"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="108,108,102"
+
+; ANSI Red
+"Colour8"="255,108,96"
+
+; ANSI Red Bold
+"Colour9"="233,192,98"
+
+; ANSI Green
+"Colour10"="168,255,96"
+
+; ANSI Green Bold
+"Colour11"="36,36,34"
+
+; ANSI Yellow
+"Colour12"="255,255,182"
+
+; ANSI Yellow Bold
+"Colour13"="72,72,68"
+
+; ANSI Blue
+"Colour14"="150,203,254"
+
+; ANSI Blue Bold
+"Colour15"="145,143,136"
+
+; ANSI Magenta
+"Colour16"="255,115,253"
+
+; ANSI Magenta Bold
+"Colour17"="217,215,204"
+
+; ANSI Cyan
+"Colour18"="198,197,254"
+
+; ANSI Cyan Bold
+"Colour19"="177,138,61"
+
+; ANSI White
+"Colour20"="181,179,170"
+
+; ANSI White Bold
+"Colour21"="253,251,238"
+

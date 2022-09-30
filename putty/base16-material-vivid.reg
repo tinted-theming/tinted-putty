@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Material Vivid
+; schema by joshyrobot
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\material-vivid]
+
+; Default Foreground
+"Colour0"="128,134,139"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="128,134,139"
+
+; Default Background
+"Colour2"="32,33,36"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="32,33,36"
+
+; Cursor Text -- equals to default background
+"Colour4"="32,33,36"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="128,134,139"
+
+; ANSI Black
+"Colour6"="32,33,36"
+
+; ANSI Black Bold
+"Colour7"="68,70,77"
+
+; ANSI Red
+"Colour8"="244,67,54"
+
+; ANSI Red Bold
+"Colour9"="255,152,0"
+
+; ANSI Green
+"Colour10"="0,230,118"
+
+; ANSI Green Bold
+"Colour11"="39,41,44"
+
+; ANSI Yellow
+"Colour12"="255,235,59"
+
+; ANSI Yellow Bold
+"Colour13"="50,54,57"
+
+; ANSI Blue
+"Colour14"="33,150,243"
+
+; ANSI Blue Bold
+"Colour15"="103,108,113"
+
+; ANSI Magenta
+"Colour16"="103,58,183"
+
+; ANSI Magenta Bold
+"Colour17"="158,158,158"
+
+; ANSI Cyan
+"Colour18"="0,188,212"
+
+; ANSI Cyan Bold
+"Colour19"="141,110,99"
+
+; ANSI White
+"Colour20"="128,134,139"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

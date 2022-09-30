@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Catppuccin
+; schema by Pocco81 (https://github.com/pocco81)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\catppuccin]
+
+; Default Foreground
+"Colour0"="215,218,224"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="215,218,224"
+
+; Default Background
+"Colour2"="30,30,40"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="30,30,40"
+
+; Cursor Text -- equals to default background
+"Colour4"="30,30,40"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="215,218,224"
+
+; ANSI Black
+"Colour6"="30,30,40"
+
+; ANSI Black Bold
+"Colour7"="87,82,104"
+
+; ANSI Red
+"Colour8"="242,143,173"
+
+; ANSI Red Bold
+"Colour9"="248,189,150"
+
+; ANSI Green
+"Colour10"="171,233,179"
+
+; ANSI Green Bold
+"Colour11"="26,24,38"
+
+; ANSI Yellow
+"Colour12"="250,227,176"
+
+; ANSI Yellow Bold
+"Colour13"="48,45,65"
+
+; ANSI Blue
+"Colour14"="150,205,251"
+
+; ANSI Blue Bold
+"Colour15"="110,108,124"
+
+; ANSI Magenta
+"Colour16"="221,182,242"
+
+; ANSI Magenta Bold
+"Colour17"="245,224,220"
+
+; ANSI Cyan
+"Colour18"="181,232,224"
+
+; ANSI Cyan Bold
+"Colour19"="242,205,205"
+
+; ANSI White
+"Colour20"="215,218,224"
+
+; ANSI White Bold
+"Colour21"="201,203,255"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Rosé Pine Moon
+; schema by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rose-pine-moon]
+
+; Default Foreground
+"Colour0"="224,222,244"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="224,222,244"
+
+; Default Background
+"Colour2"="35,33,54"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="35,33,54"
+
+; Cursor Text -- equals to default background
+"Colour4"="35,33,54"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="224,222,244"
+
+; ANSI Black
+"Colour6"="35,33,54"
+
+; ANSI Black Bold
+"Colour7"="89,84,109"
+
+; ANSI Red
+"Colour8"="236,235,240"
+
+; ANSI Red Bold
+"Colour9"="235,111,146"
+
+; ANSI Green
+"Colour10"="234,154,151"
+
+; ANSI Green Bold
+"Colour11"="42,39,63"
+
+; ANSI Yellow
+"Colour12"="246,193,119"
+
+; ANSI Yellow Bold
+"Colour13"="57,53,82"
+
+; ANSI Blue
+"Colour14"="156,207,216"
+
+; ANSI Blue Bold
+"Colour15"="129,124,156"
+
+; ANSI Magenta
+"Colour16"="196,167,231"
+
+; ANSI Magenta Bold
+"Colour17"="245,245,247"
+
+; ANSI Cyan
+"Colour18"="62,143,176"
+
+; ANSI Cyan Bold
+"Colour19"="185,185,188"
+
+; ANSI White
+"Colour20"="224,222,244"
+
+; ANSI White Bold
+"Colour21"="217,215,225"
+

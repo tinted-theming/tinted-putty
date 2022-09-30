@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Zenburn
+; schema by elnawe
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\zenburn]
+
+; Default Foreground
+"Colour0"="220,220,204"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="220,220,204"
+
+; Default Background
+"Colour2"="56,56,56"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="56,56,56"
+
+; Cursor Text -- equals to default background
+"Colour4"="56,56,56"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="220,220,204"
+
+; ANSI Black
+"Colour6"="56,56,56"
+
+; ANSI Black Bold
+"Colour7"="111,111,111"
+
+; ANSI Red
+"Colour8"="220,163,163"
+
+; ANSI Red Bold
+"Colour9"="223,175,143"
+
+; ANSI Green
+"Colour10"="95,127,95"
+
+; ANSI Green Bold
+"Colour11"="64,64,64"
+
+; ANSI Yellow
+"Colour12"="224,207,159"
+
+; ANSI Yellow Bold
+"Colour13"="96,96,96"
+
+; ANSI Blue
+"Colour14"="124,184,187"
+
+; ANSI Blue Bold
+"Colour15"="128,128,128"
+
+; ANSI Magenta
+"Colour16"="220,140,195"
+
+; ANSI Magenta Bold
+"Colour17"="192,192,192"
+
+; ANSI Cyan
+"Colour18"="147,224,227"
+
+; ANSI Cyan Bold
+"Colour19"="0,0,0"
+
+; ANSI White
+"Colour20"="220,220,204"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

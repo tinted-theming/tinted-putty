@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Edge Light
+; schema by cjayross (https://github.com/cjayross)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\edge-light]
+
+; Default Foreground
+"Colour0"="94,100,111"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="94,100,111"
+
+; Default Background
+"Colour2"="250,250,250"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="250,250,250"
+
+; Cursor Text -- equals to default background
+"Colour4"="250,250,250"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="94,100,111"
+
+; ANSI Black
+"Colour6"="250,250,250"
+
+; ANSI Black Bold
+"Colour7"="94,100,111"
+
+; ANSI Red
+"Colour8"="219,112,112"
+
+; ANSI Red Bold
+"Colour9"="219,112,112"
+
+; ANSI Green
+"Colour10"="124,159,75"
+
+; ANSI Green Bold
+"Colour11"="124,159,75"
+
+; ANSI Yellow
+"Colour12"="214,152,34"
+
+; ANSI Yellow Bold
+"Colour13"="214,152,34"
+
+; ANSI Blue
+"Colour14"="101,135,191"
+
+; ANSI Blue Bold
+"Colour15"="101,135,191"
+
+; ANSI Magenta
+"Colour16"="184,112,206"
+
+; ANSI Magenta Bold
+"Colour17"="184,112,206"
+
+; ANSI Cyan
+"Colour18"="80,156,147"
+
+; ANSI Cyan Bold
+"Colour19"="80,156,147"
+
+; ANSI White
+"Colour20"="94,100,111"
+
+; ANSI White Bold
+"Colour21"="94,100,111"
+

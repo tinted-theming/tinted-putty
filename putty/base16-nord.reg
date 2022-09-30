@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Nord
+; schema by arcticicestudio
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\nord]
+
+; Default Foreground
+"Colour0"="229,233,240"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="229,233,240"
+
+; Default Background
+"Colour2"="46,52,64"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="46,52,64"
+
+; Cursor Text -- equals to default background
+"Colour4"="46,52,64"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="229,233,240"
+
+; ANSI Black
+"Colour6"="46,52,64"
+
+; ANSI Black Bold
+"Colour7"="76,86,106"
+
+; ANSI Red
+"Colour8"="191,97,106"
+
+; ANSI Red Bold
+"Colour9"="208,135,112"
+
+; ANSI Green
+"Colour10"="163,190,140"
+
+; ANSI Green Bold
+"Colour11"="59,66,82"
+
+; ANSI Yellow
+"Colour12"="235,203,139"
+
+; ANSI Yellow Bold
+"Colour13"="67,76,94"
+
+; ANSI Blue
+"Colour14"="129,161,193"
+
+; ANSI Blue Bold
+"Colour15"="216,222,233"
+
+; ANSI Magenta
+"Colour16"="180,142,173"
+
+; ANSI Magenta Bold
+"Colour17"="236,239,244"
+
+; ANSI Cyan
+"Colour18"="136,192,208"
+
+; ANSI Cyan Bold
+"Colour19"="94,129,172"
+
+; ANSI White
+"Colour20"="229,233,240"
+
+; ANSI White Bold
+"Colour21"="143,188,187"
+

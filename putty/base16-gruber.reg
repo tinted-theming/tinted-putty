@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gruber
+; schema by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruber]
+
+; Default Foreground
+"Colour0"="244,244,255"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="244,244,255"
+
+; Default Background
+"Colour2"="24,24,24"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="24,24,24"
+
+; Cursor Text -- equals to default background
+"Colour4"="24,24,24"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="244,244,255"
+
+; ANSI Black
+"Colour6"="24,24,24"
+
+; ANSI Black Bold
+"Colour7"="82,73,78"
+
+; ANSI Red
+"Colour8"="244,56,65"
+
+; ANSI Red Bold
+"Colour9"="199,60,63"
+
+; ANSI Green
+"Colour10"="115,201,54"
+
+; ANSI Green Bold
+"Colour11"="69,61,65"
+
+; ANSI Yellow
+"Colour12"="255,221,51"
+
+; ANSI Yellow Bold
+"Colour13"="72,72,72"
+
+; ANSI Blue
+"Colour14"="150,166,200"
+
+; ANSI Blue Bold
+"Colour15"="228,228,239"
+
+; ANSI Magenta
+"Colour16"="158,149,199"
+
+; ANSI Magenta Bold
+"Colour17"="245,245,245"
+
+; ANSI Cyan
+"Colour18"="149,169,159"
+
+; ANSI Cyan Bold
+"Colour19"="204,140,60"
+
+; ANSI White
+"Colour20"="244,244,255"
+
+; ANSI White Bold
+"Colour21"="228,228,239"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Dune Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-dune-light]
+
+; Default Foreground
+"Colour0"="110,107,94"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="110,107,94"
+
+; Default Background
+"Colour2"="254,251,236"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="254,251,236"
+
+; Cursor Text -- equals to default background
+"Colour4"="254,251,236"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="110,107,94"
+
+; ANSI Black
+"Colour6"="254,251,236"
+
+; ANSI Black Bold
+"Colour7"="153,149,128"
+
+; ANSI Red
+"Colour8"="215,55,55"
+
+; ANSI Red Bold
+"Colour9"="182,86,17"
+
+; ANSI Green
+"Colour10"="96,172,57"
+
+; ANSI Green Bold
+"Colour11"="232,228,207"
+
+; ANSI Yellow
+"Colour12"="174,149,19"
+
+; ANSI Yellow Bold
+"Colour13"="166,162,140"
+
+; ANSI Blue
+"Colour14"="102,132,225"
+
+; ANSI Blue Bold
+"Colour15"="125,122,104"
+
+; ANSI Magenta
+"Colour16"="184,84,212"
+
+; ANSI Magenta Bold
+"Colour17"="41,40,36"
+
+; ANSI Cyan
+"Colour18"="31,173,131"
+
+; ANSI Cyan Bold
+"Colour19"="212,53,82"
+
+; ANSI White
+"Colour20"="110,107,94"
+
+; ANSI White Bold
+"Colour21"="32,32,29"
+

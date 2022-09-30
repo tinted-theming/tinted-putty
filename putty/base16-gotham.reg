@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gotham
+; schema by Andrea Leopardi (arranged by Brett Jones)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gotham]
+
+; Default Foreground
+"Colour0"="89,156,171"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="89,156,171"
+
+; Default Background
+"Colour2"="12,16,20"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="12,16,20"
+
+; Cursor Text -- equals to default background
+"Colour4"="12,16,20"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="89,156,171"
+
+; ANSI Black
+"Colour6"="12,16,20"
+
+; ANSI Black Bold
+"Colour7"="10,55,73"
+
+; ANSI Red
+"Colour8"="194,49,39"
+
+; ANSI Red Bold
+"Colour9"="210,105,55"
+
+; ANSI Green
+"Colour10"="51,133,158"
+
+; ANSI Green Bold
+"Colour11"="17,21,28"
+
+; ANSI Yellow
+"Colour12"="237,180,67"
+
+; ANSI Yellow Bold
+"Colour13"="9,31,46"
+
+; ANSI Blue
+"Colour14"="25,84,102"
+
+; ANSI Blue Bold
+"Colour15"="36,83,97"
+
+; ANSI Magenta
+"Colour16"="136,140,166"
+
+; ANSI Magenta Bold
+"Colour17"="153,209,206"
+
+; ANSI Cyan
+"Colour18"="42,168,137"
+
+; ANSI Cyan Bold
+"Colour19"="78,81,102"
+
+; ANSI White
+"Colour20"="89,156,171"
+
+; ANSI White Bold
+"Colour21"="211,235,233"
+

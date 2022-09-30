@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 vulcan
+; schema by Andrey Varfolomeev
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\vulcan]
+
+; Default Foreground
+"Colour0"="91,119,140"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="91,119,140"
+
+; Default Background
+"Colour2"="4,21,35"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="4,21,35"
+
+; Cursor Text -- equals to default background
+"Colour4"="4,21,35"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="91,119,140"
+
+; ANSI Black
+"Colour6"="4,21,35"
+
+; ANSI Black Bold
+"Colour7"="122,87,89"
+
+; ANSI Red
+"Colour8"="129,133,145"
+
+; ANSI Red Bold
+"Colour9"="145,152,163"
+
+; ANSI Green
+"Colour10"="151,125,124"
+
+; ANSI Green Bold
+"Colour11"="18,35,57"
+
+; ANSI Yellow
+"Colour12"="173,180,185"
+
+; ANSI Yellow Bold
+"Colour13"="0,53,82"
+
+; ANSI Blue
+"Colour14"="151,125,124"
+
+; ANSI Blue Bold
+"Colour15"="107,105,119"
+
+; ANSI Magenta
+"Colour16"="145,152,163"
+
+; ANSI Magenta Bold
+"Colour17"="51,50,56"
+
+; ANSI Cyan
+"Colour18"="151,125,124"
+
+; ANSI Cyan Bold
+"Colour19"="151,125,124"
+
+; ANSI White
+"Colour20"="91,119,140"
+
+; ANSI White Bold
+"Colour21"="33,77,104"
+

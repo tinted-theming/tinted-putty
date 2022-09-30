@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 lime
+; schema by limelier
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\lime]
+
+; Default Foreground
+"Colour0"="129,129,117"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="129,129,117"
+
+; Default Background
+"Colour2"="26,26,47"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="26,26,47"
+
+; Cursor Text -- equals to default background
+"Colour4"="26,26,47"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="129,129,117"
+
+; ANSI Black
+"Colour6"="26,26,47"
+
+; ANSI Black Bold
+"Colour7"="49,49,64"
+
+; ANSI Red
+"Colour8"="255,102,42"
+
+; ANSI Red Bold
+"Colour9"="255,119,58"
+
+; ANSI Green
+"Colour10"="140,217,124"
+
+; ANSI Green Bold
+"Colour11"="32,32,48"
+
+; ANSI Yellow
+"Colour12"="255,209,94"
+
+; ANSI Yellow Bold
+"Colour13"="42,42,63"
+
+; ANSI Blue
+"Colour14"="43,146,111"
+
+; ANSI Blue Bold
+"Colour15"="81,81,85"
+
+; ANSI Magenta
+"Colour16"="27,130,95"
+
+; ANSI Magenta Bold
+"Colour17"="255,242,209"
+
+; ANSI Cyan
+"Colour18"="76,173,131"
+
+; ANSI Cyan Bold
+"Colour19"="180,217,124"
+
+; ANSI White
+"Colour20"="129,129,117"
+
+; ANSI White Bold
+"Colour21"="255,248,225"
+

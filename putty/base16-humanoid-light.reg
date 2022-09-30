@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Humanoid light
+; schema by Thomas (tasmo) Friese
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\humanoid-light]
+
+; Default Foreground
+"Colour0"="35,38,41"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="35,38,41"
+
+; Default Background
+"Colour2"="248,248,242"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="248,248,242"
+
+; Cursor Text -- equals to default background
+"Colour4"="248,248,242"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="35,38,41"
+
+; ANSI Black
+"Colour6"="248,248,242"
+
+; ANSI Black Bold
+"Colour7"="192,192,189"
+
+; ANSI Red
+"Colour8"="176,21,26"
+
+; ANSI Red Bold
+"Colour9"="255,61,0"
+
+; ANSI Green
+"Colour10"="56,142,60"
+
+; ANSI Green Bold
+"Colour11"="239,239,233"
+
+; ANSI Yellow
+"Colour12"="255,182,39"
+
+; ANSI Yellow Bold
+"Colour13"="222,222,216"
+
+; ANSI Blue
+"Colour14"="0,130,201"
+
+; ANSI Blue Bold
+"Colour15"="96,97,93"
+
+; ANSI Magenta
+"Colour16"="112,15,152"
+
+; ANSI Magenta Bold
+"Colour17"="47,51,55"
+
+; ANSI Cyan
+"Colour18"="0,142,142"
+
+; ANSI Cyan Bold
+"Colour19"="178,119,1"
+
+; ANSI White
+"Colour20"="35,38,41"
+
+; ANSI White Bold
+"Colour21"="7,7,8"
+

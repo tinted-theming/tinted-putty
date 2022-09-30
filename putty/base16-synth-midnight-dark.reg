@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Synth Midnight Terminal Dark
+; schema by Michaël Ball (http://github.com/michael-ball/)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\synth-midnight-dark]
+
+; Default Foreground
+"Colour0"="193,195,196"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="193,195,196"
+
+; Default Background
+"Colour2"="5,6,8"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="5,6,8"
+
+; Cursor Text -- equals to default background
+"Colour4"="5,6,8"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="193,195,196"
+
+; ANSI Black
+"Colour6"="5,6,8"
+
+; ANSI Black Bold
+"Colour7"="71,72,73"
+
+; ANSI Red
+"Colour8"="181,59,80"
+
+; ANSI Red Bold
+"Colour9"="234,119,13"
+
+; ANSI Green
+"Colour10"="6,234,97"
+
+; ANSI Green Bold
+"Colour11"="26,27,28"
+
+; ANSI Yellow
+"Colour12"="201,211,100"
+
+; ANSI Yellow Bold
+"Colour13"="40,41,42"
+
+; ANSI Blue
+"Colour14"="3,174,255"
+
+; ANSI Blue Bold
+"Colour15"="163,165,166"
+
+; ANSI Magenta
+"Colour16"="234,92,226"
+
+; ANSI Magenta Bold
+"Colour17"="207,209,210"
+
+; ANSI Cyan
+"Colour18"="66,255,249"
+
+; ANSI Cyan Bold
+"Colour19"="205,99,32"
+
+; ANSI White
+"Colour20"="193,195,196"
+
+; ANSI White Bold
+"Colour21"="221,223,224"
+

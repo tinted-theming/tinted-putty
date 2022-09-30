@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 OneDark
+; schema by Lalit Magant (http://github.com/tilal6991)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\onedark]
+
+; Default Foreground
+"Colour0"="171,178,191"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="171,178,191"
+
+; Default Background
+"Colour2"="40,44,52"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,44,52"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,44,52"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="171,178,191"
+
+; ANSI Black
+"Colour6"="40,44,52"
+
+; ANSI Black Bold
+"Colour7"="84,88,98"
+
+; ANSI Red
+"Colour8"="224,108,117"
+
+; ANSI Red Bold
+"Colour9"="209,154,102"
+
+; ANSI Green
+"Colour10"="152,195,121"
+
+; ANSI Green Bold
+"Colour11"="53,59,69"
+
+; ANSI Yellow
+"Colour12"="229,192,123"
+
+; ANSI Yellow Bold
+"Colour13"="62,68,81"
+
+; ANSI Blue
+"Colour14"="97,175,239"
+
+; ANSI Blue Bold
+"Colour15"="86,92,100"
+
+; ANSI Magenta
+"Colour16"="198,120,221"
+
+; ANSI Magenta Bold
+"Colour17"="182,189,202"
+
+; ANSI Cyan
+"Colour18"="86,182,194"
+
+; ANSI Cyan Bold
+"Colour19"="190,80,70"
+
+; ANSI White
+"Colour20"="171,178,191"
+
+; ANSI White Bold
+"Colour21"="200,204,212"
+

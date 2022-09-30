@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atlas
+; schema by Alex Lende (https://ajlende.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atlas]
+
+; Default Foreground
+"Colour0"="161,161,154"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="161,161,154"
+
+; Default Background
+"Colour2"="0,38,53"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,38,53"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,38,53"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="161,161,154"
+
+; ANSI Black
+"Colour6"="0,38,53"
+
+; ANSI Black Bold
+"Colour7"="108,139,145"
+
+; ANSI Red
+"Colour8"="255,90,103"
+
+; ANSI Red Bold
+"Colour9"="240,142,72"
+
+; ANSI Green
+"Colour10"="127,192,110"
+
+; ANSI Green Bold
+"Colour11"="0,56,77"
+
+; ANSI Yellow
+"Colour12"="255,204,27"
+
+; ANSI Yellow Bold
+"Colour13"="81,127,141"
+
+; ANSI Blue
+"Colour14"="93,215,185"
+
+; ANSI Blue Bold
+"Colour15"="134,150,150"
+
+; ANSI Magenta
+"Colour16"="154,112,164"
+
+; ANSI Magenta Bold
+"Colour17"="230,230,220"
+
+; ANSI Cyan
+"Colour18"="20,116,126"
+
+; ANSI Cyan Bold
+"Colour19"="196,48,96"
+
+; ANSI White
+"Colour20"="161,161,154"
+
+; ANSI White Bold
+"Colour21"="250,250,248"
+

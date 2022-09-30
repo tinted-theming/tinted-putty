@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Ayu Mirage
+; schema by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ayu-mirage]
+
+; Default Foreground
+"Colour0"="204,202,194"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="204,202,194"
+
+; Default Background
+"Colour2"="23,27,36"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="23,27,36"
+
+; Cursor Text -- equals to default background
+"Colour4"="23,27,36"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="204,202,194"
+
+; ANSI Black
+"Colour6"="23,27,36"
+
+; ANSI Black Bold
+"Colour7"="112,122,140"
+
+; ANSI Red
+"Colour8"="242,135,121"
+
+; ANSI Red Bold
+"Colour9"="255,173,102"
+
+; ANSI Green
+"Colour10"="213,255,128"
+
+; ANSI Green Bold
+"Colour11"="31,36,48"
+
+; ANSI Yellow
+"Colour12"="255,209,115"
+
+; ANSI Yellow Bold
+"Colour13"="36,41,54"
+
+; ANSI Blue
+"Colour14"="92,207,230"
+
+; ANSI Blue Bold
+"Colour15"="138,145,153"
+
+; ANSI Magenta
+"Colour16"="212,191,255"
+
+; ANSI Magenta Bold
+"Colour17"="217,215,206"
+
+; ANSI Cyan
+"Colour18"="149,230,203"
+
+; ANSI Cyan Bold
+"Colour19"="242,158,116"
+
+; ANSI White
+"Colour20"="204,202,194"
+
+; ANSI White Bold
+"Colour21"="243,244,245"
+

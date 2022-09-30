@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Windows 10 Light
+; schema by Fergus Collins (https://github.com/C-Fergus)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\windows-10-light]
+
+; Default Foreground
+"Colour0"="118,118,118"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="118,118,118"
+
+; Default Background
+"Colour2"="242,242,242"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="242,242,242"
+
+; Cursor Text -- equals to default background
+"Colour4"="242,242,242"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="118,118,118"
+
+; ANSI Black
+"Colour6"="242,242,242"
+
+; ANSI Black Bold
+"Colour7"="204,204,204"
+
+; ANSI Red
+"Colour8"="197,15,31"
+
+; ANSI Red Bold
+"Colour9"="249,241,165"
+
+; ANSI Green
+"Colour10"="19,161,14"
+
+; ANSI Green Bold
+"Colour11"="229,229,229"
+
+; ANSI Yellow
+"Colour12"="193,156,0"
+
+; ANSI Yellow Bold
+"Colour13"="217,217,217"
+
+; ANSI Blue
+"Colour14"="0,55,218"
+
+; ANSI Blue Bold
+"Colour15"="171,171,171"
+
+; ANSI Magenta
+"Colour16"="136,23,152"
+
+; ANSI Magenta Bold
+"Colour17"="65,65,65"
+
+; ANSI Cyan
+"Colour18"="58,150,221"
+
+; ANSI Cyan Bold
+"Colour19"="22,198,12"
+
+; ANSI White
+"Colour20"="118,118,118"
+
+; ANSI White Bold
+"Colour21"="12,12,12"
+

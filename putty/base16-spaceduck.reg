@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Spaceduck
+; schema by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\spaceduck]
+
+; Default Foreground
+"Colour0"="236,240,193"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="236,240,193"
+
+; Default Background
+"Colour2"="22,23,45"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="22,23,45"
+
+; Cursor Text -- equals to default background
+"Colour4"="22,23,45"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="236,240,193"
+
+; ANSI Black
+"Colour6"="22,23,45"
+
+; ANSI Black Bold
+"Colour7"="104,111,154"
+
+; ANSI Red
+"Colour8"="227,52,0"
+
+; ANSI Red Bold
+"Colour9"="227,148,0"
+
+; ANSI Green
+"Colour10"="92,204,150"
+
+; ANSI Green Bold
+"Colour11"="27,28,54"
+
+; ANSI Yellow
+"Colour12"="242,206,0"
+
+; ANSI Yellow Bold
+"Colour13"="48,54,95"
+
+; ANSI Blue
+"Colour14"="122,92,204"
+
+; ANSI Blue Bold
+"Colour15"="129,133,150"
+
+; ANSI Magenta
+"Colour16"="179,161,230"
+
+; ANSI Magenta Bold
+"Colour17"="193,195,204"
+
+; ANSI Cyan
+"Colour18"="0,163,204"
+
+; ANSI Cyan Bold
+"Colour19"="206,111,143"
+
+; ANSI White
+"Colour20"="236,240,193"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

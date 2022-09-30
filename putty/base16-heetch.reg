@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Heetch Dark
+; schema by Geoffrey Teale (tealeg@gmail.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\heetch]
+
+; Default Foreground
+"Colour0"="189,182,197"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="189,182,197"
+
+; Default Background
+"Colour2"="25,1,52"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="25,1,52"
+
+; Cursor Text -- equals to default background
+"Colour4"="25,1,52"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="189,182,197"
+
+; ANSI Black
+"Colour6"="25,1,52"
+
+; ANSI Black Bold
+"Colour7"="123,109,139"
+
+; ANSI Red
+"Colour8"="39,217,213"
+
+; ANSI Red Bold
+"Colour9"="91,162,182"
+
+; ANSI Green
+"Colour10"="195,54,120"
+
+; ANSI Green Bold
+"Colour11"="57,37,81"
+
+; ANSI Yellow
+"Colour12"="143,108,151"
+
+; ANSI Yellow Bold
+"Colour13"="90,73,110"
+
+; ANSI Blue
+"Colour14"="189,1,82"
+
+; ANSI Blue Bold
+"Colour15"="156,146,168"
+
+; ANSI Magenta
+"Colour16"="130,3,76"
+
+; ANSI Magenta Bold
+"Colour17"="222,218,226"
+
+; ANSI Cyan
+"Colour18"="248,0,89"
+
+; ANSI Cyan Bold
+"Colour19"="71,5,70"
+
+; ANSI White
+"Colour20"="189,182,197"
+
+; ANSI White Bold
+"Colour21"="254,255,255"
+

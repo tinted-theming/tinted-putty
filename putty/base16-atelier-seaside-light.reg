@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Seaside Light
+; schema by Bram de Haan (http://atelierbramdehaan.nl)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-seaside-light]
+
+; Default Foreground
+"Colour0"="94,110,94"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="94,110,94"
+
+; Default Background
+"Colour2"="244,251,244"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="244,251,244"
+
+; Cursor Text -- equals to default background
+"Colour4"="244,251,244"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="94,110,94"
+
+; ANSI Black
+"Colour6"="244,251,244"
+
+; ANSI Black Bold
+"Colour7"="128,153,128"
+
+; ANSI Red
+"Colour8"="230,25,60"
+
+; ANSI Red Bold
+"Colour9"="135,113,29"
+
+; ANSI Green
+"Colour10"="41,163,41"
+
+; ANSI Green Bold
+"Colour11"="207,232,207"
+
+; ANSI Yellow
+"Colour12"="152,152,27"
+
+; ANSI Yellow Bold
+"Colour13"="140,166,140"
+
+; ANSI Blue
+"Colour14"="61,98,245"
+
+; ANSI Blue Bold
+"Colour15"="104,125,104"
+
+; ANSI Magenta
+"Colour16"="173,43,238"
+
+; ANSI Magenta Bold
+"Colour17"="36,41,36"
+
+; ANSI Cyan
+"Colour18"="25,153,179"
+
+; ANSI Cyan Bold
+"Colour19"="230,25,195"
+
+; ANSI White
+"Colour20"="94,110,94"
+
+; ANSI White Bold
+"Colour21"="19,21,19"
+

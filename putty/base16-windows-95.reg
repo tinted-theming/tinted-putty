@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Windows 95
+; schema by Fergus Collins (https://github.com/C-Fergus)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\windows-95]
+
+; Default Foreground
+"Colour0"="168,168,168"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="168,168,168"
+
+; Default Background
+"Colour2"="0,0,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,0,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,0,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="168,168,168"
+
+; ANSI Black
+"Colour6"="0,0,0"
+
+; ANSI Black Bold
+"Colour7"="84,84,84"
+
+; ANSI Red
+"Colour8"="252,84,84"
+
+; ANSI Red Bold
+"Colour9"="168,84,0"
+
+; ANSI Green
+"Colour10"="84,252,84"
+
+; ANSI Green Bold
+"Colour11"="28,28,28"
+
+; ANSI Yellow
+"Colour12"="252,252,84"
+
+; ANSI Yellow Bold
+"Colour13"="56,56,56"
+
+; ANSI Blue
+"Colour14"="84,84,252"
+
+; ANSI Blue Bold
+"Colour15"="126,126,126"
+
+; ANSI Magenta
+"Colour16"="252,84,252"
+
+; ANSI Magenta Bold
+"Colour17"="210,210,210"
+
+; ANSI Cyan
+"Colour18"="84,252,252"
+
+; ANSI Cyan Bold
+"Colour19"="0,168,0"
+
+; ANSI White
+"Colour20"="168,168,168"
+
+; ANSI White Bold
+"Colour21"="252,252,252"
+

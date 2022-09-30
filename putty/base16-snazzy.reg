@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Snazzy
+; schema by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\snazzy]
+
+; Default Foreground
+"Colour0"="226,228,229"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="226,228,229"
+
+; Default Background
+"Colour2"="40,42,54"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,42,54"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,42,54"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="226,228,229"
+
+; ANSI Black
+"Colour6"="40,42,54"
+
+; ANSI Black Bold
+"Colour7"="120,120,126"
+
+; ANSI Red
+"Colour8"="255,92,87"
+
+; ANSI Red Bold
+"Colour9"="255,159,67"
+
+; ANSI Green
+"Colour10"="90,247,142"
+
+; ANSI Green Bold
+"Colour11"="52,53,62"
+
+; ANSI Yellow
+"Colour12"="243,249,157"
+
+; ANSI Yellow Bold
+"Colour13"="67,69,79"
+
+; ANSI Blue
+"Colour14"="87,199,255"
+
+; ANSI Blue Bold
+"Colour15"="165,165,169"
+
+; ANSI Magenta
+"Colour16"="255,106,193"
+
+; ANSI Magenta Bold
+"Colour17"="239,240,235"
+
+; ANSI Cyan
+"Colour18"="154,237,254"
+
+; ANSI Cyan Bold
+"Colour19"="178,100,60"
+
+; ANSI White
+"Colour20"="226,228,229"
+
+; ANSI White Bold
+"Colour21"="241,241,240"
+

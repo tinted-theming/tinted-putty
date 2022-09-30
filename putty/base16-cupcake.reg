@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Cupcake
+; schema by Chris Kempson (http://chriskempson.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\cupcake]
+
+; Default Foreground
+"Colour0"="139,129,152"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="139,129,152"
+
+; Default Background
+"Colour2"="251,241,242"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="251,241,242"
+
+; Cursor Text -- equals to default background
+"Colour4"="251,241,242"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="139,129,152"
+
+; ANSI Black
+"Colour6"="251,241,242"
+
+; ANSI Black Bold
+"Colour7"="191,185,198"
+
+; ANSI Red
+"Colour8"="213,126,133"
+
+; ANSI Red Bold
+"Colour9"="235,183,144"
+
+; ANSI Green
+"Colour10"="163,179,103"
+
+; ANSI Green Bold
+"Colour11"="242,241,244"
+
+; ANSI Yellow
+"Colour12"="220,177,108"
+
+; ANSI Yellow Bold
+"Colour13"="216,213,221"
+
+; ANSI Blue
+"Colour14"="114,151,185"
+
+; ANSI Blue Bold
+"Colour15"="165,157,175"
+
+; ANSI Magenta
+"Colour16"="187,153,180"
+
+; ANSI Magenta Bold
+"Colour17"="114,103,126"
+
+; ANSI Cyan
+"Colour18"="105,169,167"
+
+; ANSI Cyan Bold
+"Colour19"="186,165,140"
+
+; ANSI White
+"Colour20"="139,129,152"
+
+; ANSI White Bold
+"Colour21"="88,80,98"
+

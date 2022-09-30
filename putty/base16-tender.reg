@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 tender
+; schema by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tender]
+
+; Default Foreground
+"Colour0"="238,238,238"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="238,238,238"
+
+; Default Background
+"Colour2"="40,40,40"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="40,40,40"
+
+; Cursor Text -- equals to default background
+"Colour4"="40,40,40"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="238,238,238"
+
+; ANSI Black
+"Colour6"="40,40,40"
+
+; ANSI Black Bold
+"Colour7"="76,76,76"
+
+; ANSI Red
+"Colour8"="244,55,83"
+
+; ANSI Red Bold
+"Colour9"="220,150,86"
+
+; ANSI Green
+"Colour10"="201,208,92"
+
+; ANSI Green Bold
+"Colour11"="56,56,56"
+
+; ANSI Yellow
+"Colour12"="255,194,75"
+
+; ANSI Yellow Bold
+"Colour13"="72,72,72"
+
+; ANSI Blue
+"Colour14"="179,222,239"
+
+; ANSI Blue Bold
+"Colour15"="184,184,184"
+
+; ANSI Magenta
+"Colour16"="211,185,135"
+
+; ANSI Magenta Bold
+"Colour17"="232,232,232"
+
+; ANSI Cyan
+"Colour18"="115,206,244"
+
+; ANSI Cyan Bold
+"Colour19"="161,105,70"
+
+; ANSI White
+"Colour20"="238,238,238"
+
+; ANSI White Bold
+"Colour21"="254,255,255"
+

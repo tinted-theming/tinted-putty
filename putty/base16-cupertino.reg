@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Cupertino
+; schema by Defman21
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\cupertino]
+
+; Default Foreground
+"Colour0"="64,64,64"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="64,64,64"
+
+; Default Background
+"Colour2"="255,255,255"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="255,255,255"
+
+; Cursor Text -- equals to default background
+"Colour4"="255,255,255"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="64,64,64"
+
+; ANSI Black
+"Colour6"="255,255,255"
+
+; ANSI Black Bold
+"Colour7"="128,128,128"
+
+; ANSI Red
+"Colour8"="196,26,21"
+
+; ANSI Red Bold
+"Colour9"="235,133,0"
+
+; ANSI Green
+"Colour10"="0,116,0"
+
+; ANSI Green Bold
+"Colour11"="192,192,192"
+
+; ANSI Yellow
+"Colour12"="130,107,40"
+
+; ANSI Yellow Bold
+"Colour13"="192,192,192"
+
+; ANSI Blue
+"Colour14"="0,0,255"
+
+; ANSI Blue Bold
+"Colour15"="128,128,128"
+
+; ANSI Magenta
+"Colour16"="169,13,145"
+
+; ANSI Magenta Bold
+"Colour17"="64,64,64"
+
+; ANSI Cyan
+"Colour18"="49,132,149"
+
+; ANSI Cyan Bold
+"Colour19"="130,107,40"
+
+; ANSI White
+"Colour20"="64,64,64"
+
+; ANSI White Bold
+"Colour21"="94,94,94"
+

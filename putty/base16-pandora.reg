@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 pandora
+; schema by Cassandra Fox
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pandora]
+
+; Default Foreground
+"Colour0"="241,92,153"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="241,92,153"
+
+; Default Background
+"Colour2"="19,18,19"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="19,18,19"
+
+; Cursor Text -- equals to default background
+"Colour4"="19,18,19"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="241,92,153"
+
+; ANSI Black
+"Colour6"="19,18,19"
+
+; ANSI Black Bold
+"Colour7"="255,190,227"
+
+; ANSI Red
+"Colour8"="176,11,105"
+
+; ANSI Red Bold
+"Colour9"="255,145,83"
+
+; ANSI Green
+"Colour10"="157,223,105"
+
+; ANSI Green Bold
+"Colour11"="47,24,35"
+
+; ANSI Yellow
+"Colour12"="255,204,0"
+
+; ANSI Yellow Bold
+"Colour13"="71,34,52"
+
+; ANSI Blue
+"Colour14"="0,128,128"
+
+; ANSI Blue Bold
+"Colour15"="155,42,70"
+
+; ANSI Magenta
+"Colour16"="162,64,48"
+
+; ANSI Magenta Bold
+"Colour17"="129,80,106"
+
+; ANSI Cyan
+"Colour18"="113,76,166"
+
+; ANSI Cyan Bold
+"Colour19"="162,64,48"
+
+; ANSI White
+"Colour20"="241,92,153"
+
+; ANSI White Bold
+"Colour21"="99,34,39"
+

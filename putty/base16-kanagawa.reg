@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Kanagawa
+; schema by Tommaso Laurenzi (https://github.com/rebelot)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\kanagawa]
+
+; Default Foreground
+"Colour0"="220,215,186"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="220,215,186"
+
+; Default Background
+"Colour2"="31,31,40"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="31,31,40"
+
+; Cursor Text -- equals to default background
+"Colour4"="31,31,40"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="220,215,186"
+
+; ANSI Black
+"Colour6"="31,31,40"
+
+; ANSI Black Bold
+"Colour7"="84,84,109"
+
+; ANSI Red
+"Colour8"="195,64,67"
+
+; ANSI Red Bold
+"Colour9"="255,160,102"
+
+; ANSI Green
+"Colour10"="118,148,106"
+
+; ANSI Green Bold
+"Colour11"="22,22,29"
+
+; ANSI Yellow
+"Colour12"="192,163,110"
+
+; ANSI Yellow Bold
+"Colour13"="34,50,73"
+
+; ANSI Blue
+"Colour14"="126,156,216"
+
+; ANSI Blue Bold
+"Colour15"="114,113,105"
+
+; ANSI Magenta
+"Colour16"="149,127,184"
+
+; ANSI Magenta Bold
+"Colour17"="200,192,147"
+
+; ANSI Cyan
+"Colour18"="106,149,137"
+
+; ANSI Cyan Bold
+"Colour19"="210,126,153"
+
+; ANSI White
+"Colour20"="220,215,186"
+
+; ANSI White Bold
+"Colour21"="113,124,124"
+

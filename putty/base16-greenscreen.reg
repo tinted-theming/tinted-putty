@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Green Screen
+; schema by Chris Kempson (http://chriskempson.com)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\greenscreen]
+
+; Default Foreground
+"Colour0"="0,187,0"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="0,187,0"
+
+; Default Background
+"Colour2"="0,17,0"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="0,17,0"
+
+; Cursor Text -- equals to default background
+"Colour4"="0,17,0"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="0,187,0"
+
+; ANSI Black
+"Colour6"="0,17,0"
+
+; ANSI Black Bold
+"Colour7"="0,119,0"
+
+; ANSI Red
+"Colour8"="0,119,0"
+
+; ANSI Red Bold
+"Colour9"="0,153,0"
+
+; ANSI Green
+"Colour10"="0,187,0"
+
+; ANSI Green Bold
+"Colour11"="0,51,0"
+
+; ANSI Yellow
+"Colour12"="0,119,0"
+
+; ANSI Yellow Bold
+"Colour13"="0,85,0"
+
+; ANSI Blue
+"Colour14"="0,153,0"
+
+; ANSI Blue Bold
+"Colour15"="0,153,0"
+
+; ANSI Magenta
+"Colour16"="0,187,0"
+
+; ANSI Magenta Bold
+"Colour17"="0,221,0"
+
+; ANSI Cyan
+"Colour18"="0,85,0"
+
+; ANSI Cyan Bold
+"Colour19"="0,85,0"
+
+; ANSI White
+"Colour20"="0,187,0"
+
+; ANSI White Bold
+"Colour21"="0,255,0"
+

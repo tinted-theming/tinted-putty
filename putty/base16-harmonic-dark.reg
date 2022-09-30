@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Harmonic16 Dark
+; schema by Jannik Siebert (https://github.com/janniks)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\harmonic-dark]
+
+; Default Foreground
+"Colour0"="203,214,226"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="203,214,226"
+
+; Default Background
+"Colour2"="11,28,44"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="11,28,44"
+
+; Cursor Text -- equals to default background
+"Colour4"="11,28,44"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="203,214,226"
+
+; ANSI Black
+"Colour6"="11,28,44"
+
+; ANSI Black Bold
+"Colour7"="98,126,153"
+
+; ANSI Red
+"Colour8"="191,139,86"
+
+; ANSI Red Bold
+"Colour9"="191,191,86"
+
+; ANSI Green
+"Colour10"="86,191,139"
+
+; ANSI Green Bold
+"Colour11"="34,59,84"
+
+; ANSI Yellow
+"Colour12"="139,191,86"
+
+; ANSI Yellow Bold
+"Colour13"="64,92,121"
+
+; ANSI Blue
+"Colour14"="139,86,191"
+
+; ANSI Blue Bold
+"Colour15"="170,188,206"
+
+; ANSI Magenta
+"Colour16"="191,86,139"
+
+; ANSI Magenta Bold
+"Colour17"="229,235,241"
+
+; ANSI Cyan
+"Colour18"="86,139,191"
+
+; ANSI Cyan Bold
+"Colour19"="191,86,86"
+
+; ANSI White
+"Colour20"="203,214,226"
+
+; ANSI White Bold
+"Colour21"="247,249,251"
+

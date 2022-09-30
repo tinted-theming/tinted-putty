@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 EverForest
+; schema by sainnhe
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\everforest]
+
+; Default Foreground
+"Colour0"="211,198,170"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="211,198,170"
+
+; Default Background
+"Colour2"="43,51,57"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="43,51,57"
+
+; Cursor Text -- equals to default background
+"Colour4"="43,51,57"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="211,198,170"
+
+; ANSI Black
+"Colour6"="43,51,57"
+
+; ANSI Black Bold
+"Colour7"="134,141,128"
+
+; ANSI Red
+"Colour8"="230,126,128"
+
+; ANSI Red Bold
+"Colour9"="230,152,117"
+
+; ANSI Green
+"Colour10"="167,192,128"
+
+; ANSI Green Bold
+"Colour11"="50,60,65"
+
+; ANSI Yellow
+"Colour12"="219,188,127"
+
+; ANSI Yellow Bold
+"Colour13"="58,66,72"
+
+; ANSI Blue
+"Colour14"="127,187,179"
+
+; ANSI Blue Bold
+"Colour15"="165,149,114"
+
+; ANSI Magenta
+"Colour16"="214,153,182"
+
+; ANSI Magenta Bold
+"Colour17"="233,232,210"
+
+; ANSI Cyan
+"Colour18"="131,192,146"
+
+; ANSI Cyan Bold
+"Colour19"="214,153,182"
+
+; ANSI White
+"Colour20"="211,198,170"
+
+; ANSI White Bold
+"Colour21"="255,249,232"
+

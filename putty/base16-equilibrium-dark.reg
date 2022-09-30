@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Equilibrium Dark
+; schema by Carlo Abelli
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\equilibrium-dark]
+
+; Default Foreground
+"Colour0"="175,171,162"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="175,171,162"
+
+; Default Background
+"Colour2"="12,17,24"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="12,17,24"
+
+; Cursor Text -- equals to default background
+"Colour4"="12,17,24"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="175,171,162"
+
+; ANSI Black
+"Colour6"="12,17,24"
+
+; ANSI Black Bold
+"Colour7"="123,119,110"
+
+; ANSI Red
+"Colour8"="240,67,57"
+
+; ANSI Red Bold
+"Colour9"="223,89,35"
+
+; ANSI Green
+"Colour10"="127,139,0"
+
+; ANSI Green Bold
+"Colour11"="24,28,34"
+
+; ANSI Yellow
+"Colour12"="187,136,1"
+
+; ANSI Yellow Bold
+"Colour13"="34,38,45"
+
+; ANSI Blue
+"Colour14"="0,141,209"
+
+; ANSI Blue Bold
+"Colour15"="148,144,136"
+
+; ANSI Magenta
+"Colour16"="106,127,210"
+
+; ANSI Magenta Bold
+"Colour17"="202,198,189"
+
+; ANSI Cyan
+"Colour18"="0,148,139"
+
+; ANSI Cyan Bold
+"Colour19"="227,72,142"
+
+; ANSI White
+"Colour20"="175,171,162"
+
+; ANSI White Bold
+"Colour21"="231,226,217"
+

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Nebula
+; schema by Gabriel Fontes (https://github.com/Misterio77)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\nebula]
+
+; Default Foreground
+"Colour0"="164,166,169"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="164,166,169"
+
+; Default Background
+"Colour2"="34,39,59"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="34,39,59"
+
+; Cursor Text -- equals to default background
+"Colour4"="34,39,59"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="164,166,169"
+
+; ANSI Black
+"Colour6"="34,39,59"
+
+; ANSI Black Bold
+"Colour7"="110,111,114"
+
+; ANSI Red
+"Colour8"="119,122,188"
+
+; ANSI Red Bold
+"Colour9"="148,146,158"
+
+; ANSI Green
+"Colour10"="101,98,168"
+
+; ANSI Green Bold
+"Colour11"="65,79,96"
+
+; ANSI Yellow
+"Colour12"="79,144,98"
+
+; ANSI Yellow Bold
+"Colour13"="90,131,128"
+
+; ANSI Blue
+"Colour14"="77,107,182"
+
+; ANSI Blue Bold
+"Colour15"="135,136,139"
+
+; ANSI Magenta
+"Colour16"="113,108,174"
+
+; ANSI Magenta Bold
+"Colour17"="199,201,205"
+
+; ANSI Cyan
+"Colour18"="34,111,104"
+
+; ANSI Cyan Bold
+"Colour19"="140,112,167"
+
+; ANSI White
+"Colour20"="164,166,169"
+
+; ANSI White Bold
+"Colour21"="141,189,170"
+
