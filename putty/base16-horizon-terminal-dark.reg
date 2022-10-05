@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Horizon Dark
+; Base16 Horizon Terminal Dark
 ; schema by Michaël Ball (http://github.com/michael-ball/)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\horizon-terminal-dark]
 

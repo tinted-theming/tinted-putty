@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Gruvbox Material Dark, Medium
+; Base16 Gruvbox Material Dark, Hard
 ; schema by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-material-dark-hard]
 
