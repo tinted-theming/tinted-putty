@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Snazzy
-; schema by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+; Scheme author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\snazzy]
 
 ; Default Foreground

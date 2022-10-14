@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Gruvbox light, soft
-; schema by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+; Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-light-soft]
 
 ; Default Foreground

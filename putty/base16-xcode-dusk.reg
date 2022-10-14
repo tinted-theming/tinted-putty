@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 XCode Dusk
-; schema by Elsa Gonsiorowski (https://github.com/gonsie)
+; Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\xcode-dusk]
 
 ; Default Foreground

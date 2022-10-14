@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Windows 95
-; schema by Fergus Collins (https://github.com/C-Fergus)
+; Scheme author: Fergus Collins (https://github.com/C-Fergus)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\windows-95]
 
 ; Default Foreground

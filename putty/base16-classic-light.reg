@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Classic Light
-; schema by Jason Heeris (http://heeris.id.au)
+; Scheme author: Jason Heeris (http://heeris.id.au)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\classic-light]
 
 ; Default Foreground

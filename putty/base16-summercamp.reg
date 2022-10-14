@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 summercamp
-; schema by zoe firi (zoefiri.github.io)
+; Scheme author: zoe firi (zoefiri.github.io)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\summercamp]
 
 ; Default Foreground

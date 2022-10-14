@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Primer Dark Dimmed
-; schema by Jimmy Lin
+; Scheme author: Jimmy Lin
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\primer-dark-dimmed]
 
 ; Default Foreground

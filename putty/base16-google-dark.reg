@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Google Dark
-; schema by Seth Wright (http://sethawright.com)
+; Scheme author: Seth Wright (http://sethawright.com)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\google-dark]
 
 ; Default Foreground

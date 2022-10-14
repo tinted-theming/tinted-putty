@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Gotham
-; schema by Andrea Leopardi (arranged by Brett Jones)
+; Scheme author: Andrea Leopardi (arranged by Brett Jones)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gotham]
 
 ; Default Foreground
