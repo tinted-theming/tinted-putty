@@ -19,7 +19,7 @@ Usage
    [configured](http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/)
    to [provide](https://sanctum.geek.nz/arabesque/putty-configuration/)
    256 colors support;
-3. Choose your theme from the [base16-gallery](https://base16-project.github.io/base16-gallery/);
+3. Choose your theme from the [base16-gallery](https://tinted-theming.github.io/base16-gallery/);
 4. Locate the corresponding file in `putty` directory and download it;
 5. Edit the file, and change session name in
    `[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\` **`{{SESSION_NAME}}`** `]`
@@ -36,10 +36,10 @@ keep up to date with the latest changes.
 If you're you're looking to build the colorschemes manually to test out
 a change:
 
-1. Install [base16-builder-go](https://github.com/base16-project/base16-builder-go)
+1. Install [base16-builder-go](https://github.com/tinted-theming/base16-builder-go)
    or a compatible tool.
    (Note that in the case of `base16-builder-go`
-   the [releases' page](https://github.com/base16-project/base16-builder-go/releases)
+   the [releases' page](https://github.com/tinted-theming/base16-builder-go/releases)
    contains pre-built binaries that can be simply downloaded and executed).
 2. Execute the `builder` binary from the `base16-putty` directory.
    In the case of `base16-builder-go` no argument is required.
@@ -52,4 +52,4 @@ Thanks
 
 - @staticaland for the [original material](https://github.com/staticaland/base16-putty);
 - @iamthad and @ticky for [mapping](https://github.com/iamthad/base16-mintty) `base16` vars into color names used by PuTTY;
-- @chriskempson for the original conception of the [base16 project](https://github.com/base16-project/home).
+- @chriskempson for the original conception of the [tinted-theming](https://github.com/tinted-theming/home).
