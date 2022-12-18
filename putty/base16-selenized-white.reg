@@ -1,0 +1,73 @@
+Windows Registry Editor Version 5.00
+
+; Base16 selenized-white
+; Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\selenized-white]
+
+; Default Foreground
+"Colour0"="71,71,71"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="71,71,71"
+
+; Default Background
+"Colour2"="255,255,255"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="255,255,255"
+
+; Cursor Text -- equals to default background
+"Colour4"="255,255,255"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="71,71,71"
+
+; ANSI Black
+"Colour6"="255,255,255"
+
+; ANSI Black Bold
+"Colour7"="135,135,135"
+
+; ANSI Red
+"Colour8"="191,0,0"
+
+; ANSI Red Bold
+"Colour9"="186,55,0"
+
+; ANSI Green
+"Colour10"="0,132,0"
+
+; ANSI Green Bold
+"Colour11"="235,235,235"
+
+; ANSI Yellow
+"Colour12"="175,133,0"
+
+; ANSI Yellow Bold
+"Colour13"="205,205,205"
+
+; ANSI Blue
+"Colour14"="0,84,207"
+
+; ANSI Blue Bold
+"Colour15"="135,135,135"
+
+; ANSI Magenta
+"Colour16"="107,64,195"
+
+; ANSI Magenta Bold
+"Colour17"="40,40,40"
+
+; ANSI Cyan
+"Colour18"="0,154,138"
+
+; ANSI Cyan Bold
+"Colour19"="221,15,157"
+
+; ANSI White
+"Colour20"="71,71,71"
+
+; ANSI White Bold
+"Colour21"="40,40,40"
+
