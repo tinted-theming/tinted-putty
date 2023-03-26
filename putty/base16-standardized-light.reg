@@ -1,0 +1,73 @@
+Windows Registry Editor Version 5.00
+
+; Base16 standardized-light
+; Scheme author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\standardized-light]
+
+; Default Foreground
+"Colour0"="68,68,68"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="68,68,68"
+
+; Default Background
+"Colour2"="255,255,255"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="255,255,255"
+
+; Cursor Text -- equals to default background
+"Colour4"="255,255,255"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="68,68,68"
+
+; ANSI Black
+"Colour6"="255,255,255"
+
+; ANSI Black Bold
+"Colour7"="118,118,118"
+
+; ANSI Red
+"Colour8"="208,62,62"
+
+; ANSI Red Bold
+"Colour9"="215,105,29"
+
+; ANSI Green
+"Colour10"="49,134,31"
+
+; ANSI Green Bold
+"Colour11"="238,238,238"
+
+; ANSI Yellow
+"Colour12"="173,130,0"
+
+; ANSI Yellow Bold
+"Colour13"="204,204,204"
+
+; ANSI Blue
+"Colour14"="49,115,197"
+
+; ANSI Blue Bold
+"Colour15"="118,118,118"
+
+; ANSI Magenta
+"Colour16"="158,87,194"
+
+; ANSI Magenta Bold
+"Colour17"="51,51,51"
+
+; ANSI Cyan
+"Colour18"="0,153,143"
+
+; ANSI Cyan Bold
+"Colour19"="137,80,37"
+
+; ANSI White
+"Colour20"="68,68,68"
+
+; ANSI White Bold
+"Colour21"="34,34,34"
+

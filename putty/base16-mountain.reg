@@ -1,15 +1,15 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Mountain
-; Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+; Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\mountain]
 
 ; Default Foreground
-"Colour0"="240,240,240"
+"Colour0"="202,202,202"
 
 ; Default Bold Foreground  -- equals to non-bold
-"Colour1"="240,240,240"
+"Colour1"="202,202,202"
 
 ; Default Background
 "Colour2"="15,15,15"
@@ -21,7 +21,7 @@ Windows Registry Editor Version 5.00
 "Colour4"="15,15,15"
 
 ; Cursor Colour -- equals to default foreground
-"Colour5"="240,240,240"
+"Colour5"="202,202,202"
 
 ; ANSI Black
 "Colour6"="15,15,15"
@@ -66,8 +66,8 @@ Windows Registry Editor Version 5.00
 "Colour19"="172,138,140"
 
 ; ANSI White
-"Colour20"="240,240,240"
+"Colour20"="202,202,202"
 
 ; ANSI White Bold
-"Colour21"="202,202,202"
+"Colour21"="240,240,240"
 
