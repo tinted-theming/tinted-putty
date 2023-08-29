@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Rosé Pine Moon
-; Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+; Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rose-pine-moon]
 
@@ -27,47 +27,47 @@ Windows Registry Editor Version 5.00
 "Colour6"="35,33,54"
 
 ; ANSI Black Bold
-"Colour7"="89,84,109"
+"Colour7"="110,106,134"
 
 ; ANSI Red
-"Colour8"="236,235,240"
+"Colour8"="235,111,146"
 
 ; ANSI Red Bold
-"Colour9"="235,111,146"
+"Colour9"="246,193,119"
 
 ; ANSI Green
-"Colour10"="234,154,151"
+"Colour10"="62,143,176"
 
 ; ANSI Green Bold
 "Colour11"="42,39,63"
 
 ; ANSI Yellow
-"Colour12"="246,193,119"
+"Colour12"="234,154,151"
 
 ; ANSI Yellow Bold
 "Colour13"="57,53,82"
 
 ; ANSI Blue
-"Colour14"="156,207,216"
+"Colour14"="196,167,231"
 
 ; ANSI Blue Bold
-"Colour15"="129,124,156"
+"Colour15"="144,140,170"
 
 ; ANSI Magenta
-"Colour16"="196,167,231"
+"Colour16"="246,193,119"
 
 ; ANSI Magenta Bold
-"Colour17"="245,245,247"
+"Colour17"="224,222,244"
 
 ; ANSI Cyan
-"Colour18"="62,143,176"
+"Colour18"="156,207,216"
 
 ; ANSI Cyan Bold
-"Colour19"="185,185,188"
+"Colour19"="86,82,110"
 
 ; ANSI White
 "Colour20"="224,222,244"
 
 ; ANSI White Bold
-"Colour21"="217,215,225"
+"Colour21"="86,82,110"
 

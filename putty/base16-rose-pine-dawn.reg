@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Rosé Pine Dawn
-; Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+; Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rose-pine-dawn]
 
@@ -30,44 +30,44 @@ Windows Registry Editor Version 5.00
 "Colour7"="152,147,165"
 
 ; ANSI Red
-"Colour8"="31,29,46"
+"Colour8"="180,99,122"
 
 ; ANSI Red Bold
-"Colour9"="180,99,122"
+"Colour9"="234,157,52"
 
 ; ANSI Green
-"Colour10"="215,130,126"
+"Colour10"="40,105,131"
 
 ; ANSI Green Bold
 "Colour11"="255,250,243"
 
 ; ANSI Yellow
-"Colour12"="234,157,52"
+"Colour12"="215,130,126"
 
 ; ANSI Yellow Bold
 "Colour13"="242,233,222"
 
 ; ANSI Blue
-"Colour14"="86,148,159"
+"Colour14"="144,122,169"
 
 ; ANSI Blue Bold
-"Colour15"="110,106,134"
+"Colour15"="121,117,147"
 
 ; ANSI Magenta
-"Colour16"="144,122,169"
+"Colour16"="234,157,52"
 
 ; ANSI Magenta Bold
-"Colour17"="85,81,105"
+"Colour17"="87,82,121"
 
 ; ANSI Cyan
-"Colour18"="40,105,131"
+"Colour18"="86,148,159"
 
 ; ANSI Cyan Bold
-"Colour19"="197,195,206"
+"Colour19"="206,202,205"
 
 ; ANSI White
 "Colour20"="87,82,121"
 
 ; ANSI White Bold
-"Colour21"="38,35,58"
+"Colour21"="206,202,205"
 
