@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\heetch-light]
 
 ; Default Foreground
+; base05 #5a496e
 "Colour0"="90,73,110"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #5a496e
 "Colour1"="90,73,110"
 
 ; Default Background
+; base00 #feffff
 "Colour2"="254,255,255"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #feffff
 "Colour3"="254,255,255"
 
 ; Cursor Text -- equals to default background
+; base00 #feffff
 "Colour4"="254,255,255"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #5a496e
 "Colour5"="90,73,110"
 
 ; ANSI Black
+; base00 #feffff
 "Colour6"="254,255,255"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #9c92a8
 "Colour7"="156,146,168"
 
 ; ANSI Red
+; base08 #27d9d5
 "Colour8"="39,217,213"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #bdb6c5
 "Colour9"="189,182,197"
 
 ; ANSI Green
+; base0B #f80059
 "Colour10"="248,0,89"
 
-; ANSI Green Bold
-"Colour11"="57,37,81"
+; ANSI Green Bright
+; base0B #f80059
+"Colour11"="248,0,89"
 
 ; ANSI Yellow
+; base0A #5ba2b6
 "Colour12"="91,162,182"
 
-; ANSI Yellow Bold
-"Colour13"="123,109,139"
+; ANSI Yellow Bright
+; base0A #5ba2b6
+"Colour13"="91,162,182"
 
 ; ANSI Blue
+; base0D #47f9f5
 "Colour14"="71,249,245"
 
-; ANSI Blue Bold
-"Colour15"="221,214,229"
+; ANSI Blue Bright
+; base0D #47f9f5
+"Colour15"="71,249,245"
 
 ; ANSI Magenta
+; base0E #bd0152
 "Colour16"="189,1,82"
 
-; ANSI Magenta Bold
-"Colour17"="71,5,70"
+; ANSI Magenta Bright
+; base0E #bd0152
+"Colour17"="189,1,82"
 
 ; ANSI Cyan
+; base0C #c33678
 "Colour18"="195,54,120"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #dedae2
 "Colour19"="222,218,226"
 
 ; ANSI White
+; base05 #5a496e
 "Colour20"="90,73,110"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 190134
 "Colour21"="25,1,52"
-

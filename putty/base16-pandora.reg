@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pandora]
 
 ; Default Foreground
+; base05 #f15c99
 "Colour0"="241,92,153"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #f15c99
 "Colour1"="241,92,153"
 
 ; Default Background
+; base00 #131213
 "Colour2"="19,18,19"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #131213
 "Colour3"="19,18,19"
 
 ; Cursor Text -- equals to default background
+; base00 #131213
 "Colour4"="19,18,19"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #f15c99
 "Colour5"="241,92,153"
 
 ; ANSI Black
+; base00 #131213
 "Colour6"="19,18,19"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #ffbee3
 "Colour7"="255,190,227"
 
 ; ANSI Red
+; base08 #b00b69
 "Colour8"="176,11,105"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #ff9153
 "Colour9"="255,145,83"
 
 ; ANSI Green
+; base0B #9ddf69
 "Colour10"="157,223,105"
 
-; ANSI Green Bold
-"Colour11"="47,24,35"
+; ANSI Green Bright
+; base0B #9ddf69
+"Colour11"="157,223,105"
 
 ; ANSI Yellow
+; base0A #ffcc00
 "Colour12"="255,204,0"
 
-; ANSI Yellow Bold
-"Colour13"="71,34,52"
+; ANSI Yellow Bright
+; base0A #ffcc00
+"Colour13"="255,204,0"
 
 ; ANSI Blue
+; base0D #008080
 "Colour14"="0,128,128"
 
-; ANSI Blue Bold
-"Colour15"="155,42,70"
+; ANSI Blue Bright
+; base0D #008080
+"Colour15"="0,128,128"
 
 ; ANSI Magenta
+; base0E #a24030
 "Colour16"="162,64,48"
 
-; ANSI Magenta Bold
-"Colour17"="129,80,106"
+; ANSI Magenta Bright
+; base0E #a24030
+"Colour17"="162,64,48"
 
 ; ANSI Cyan
+; base0C #714ca6
 "Colour18"="113,76,166"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #a24030
 "Colour19"="162,64,48"
 
 ; ANSI White
+; base05 #f15c99
 "Colour20"="241,92,153"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 632227
 "Colour21"="99,34,39"
-

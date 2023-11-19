@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\dracula]
 
 ; Default Foreground
+; base05 #e9e9f4
 "Colour0"="233,233,244"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #e9e9f4
 "Colour1"="233,233,244"
 
 ; Default Background
+; base00 #282936
 "Colour2"="40,41,54"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #282936
 "Colour3"="40,41,54"
 
 ; Cursor Text -- equals to default background
+; base00 #282936
 "Colour4"="40,41,54"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #e9e9f4
 "Colour5"="233,233,244"
 
 ; ANSI Black
+; base00 #282936
 "Colour6"="40,41,54"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #626483
 "Colour7"="98,100,131"
 
 ; ANSI Red
+; base08 #ea51b2
 "Colour8"="234,81,178"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #b45bcf
 "Colour9"="180,91,207"
 
 ; ANSI Green
+; base0B #ebff87
 "Colour10"="235,255,135"
 
-; ANSI Green Bold
-"Colour11"="58,60,78"
+; ANSI Green Bright
+; base0B #ebff87
+"Colour11"="235,255,135"
 
 ; ANSI Yellow
+; base0A #00f769
 "Colour12"="0,247,105"
 
-; ANSI Yellow Bold
-"Colour13"="77,79,104"
+; ANSI Yellow Bright
+; base0A #00f769
+"Colour13"="0,247,105"
 
 ; ANSI Blue
+; base0D #62d6e8
 "Colour14"="98,214,232"
 
-; ANSI Blue Bold
+; ANSI Blue Bright
+; base0D #62d6e8
 "Colour15"="98,214,232"
 
 ; ANSI Magenta
+; base0E #b45bcf
 "Colour16"="180,91,207"
 
-; ANSI Magenta Bold
-"Colour17"="241,242,248"
+; ANSI Magenta Bright
+; base0E #b45bcf
+"Colour17"="180,91,207"
 
 ; ANSI Cyan
+; base0C #a1efe4
 "Colour18"="161,239,228"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #00f769
 "Colour19"="0,247,105"
 
 ; ANSI White
+; base05 #e9e9f4
 "Colour20"="233,233,244"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 f7f7fb
 "Colour21"="247,247,251"
-

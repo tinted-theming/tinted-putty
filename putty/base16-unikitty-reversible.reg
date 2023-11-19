@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\unikitty-reversible]
 
 ; Default Foreground
+; base05 #c3c2c4
 "Colour0"="195,194,196"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #c3c2c4
 "Colour1"="195,194,196"
 
 ; Default Background
+; base00 #2e2a31
 "Colour2"="46,42,49"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #2e2a31
 "Colour3"="46,42,49"
 
 ; Cursor Text -- equals to default background
+; base00 #2e2a31
 "Colour4"="46,42,49"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #c3c2c4
 "Colour5"="195,194,196"
 
 ; ANSI Black
+; base00 #2e2a31
 "Colour6"="46,42,49"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #878589
 "Colour7"="135,133,137"
 
 ; ANSI Red
+; base08 #d8137f
 "Colour8"="216,19,127"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #d65407
 "Colour9"="214,84,7"
 
 ; ANSI Green
+; base0B #17ad98
 "Colour10"="23,173,152"
 
-; ANSI Green Bold
-"Colour11"="75,72,78"
+; ANSI Green Bright
+; base0B #17ad98
+"Colour11"="23,173,152"
 
 ; ANSI Yellow
+; base0A #dc8a0e
 "Colour12"="220,138,14"
 
-; ANSI Yellow Bold
-"Colour13"="105,102,107"
+; ANSI Yellow Bright
+; base0A #dc8a0e
+"Colour13"="220,138,14"
 
 ; ANSI Blue
+; base0D #7864fa
 "Colour14"="120,100,250"
 
-; ANSI Blue Bold
-"Colour15"="165,163,166"
+; ANSI Blue Bright
+; base0D #7864fa
+"Colour15"="120,100,250"
 
 ; ANSI Magenta
+; base0E #b33ce8
 "Colour16"="179,60,232"
 
-; ANSI Magenta Bold
-"Colour17"="225,224,225"
+; ANSI Magenta Bright
+; base0E #b33ce8
+"Colour17"="179,60,232"
 
 ; ANSI Cyan
+; base0C #149bda
 "Colour18"="20,155,218"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #d41acd
 "Colour19"="212,26,205"
 
 ; ANSI White
+; base05 #c3c2c4
 "Colour20"="195,194,196"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 ffffff
 "Colour21"="255,255,255"
-

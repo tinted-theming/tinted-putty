@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-plateau-light]
 
 ; Default Foreground
+; base05 #585050
 "Colour0"="88,80,80"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #585050
 "Colour1"="88,80,80"
 
 ; Default Background
+; base00 #f4ecec
 "Colour2"="244,236,236"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #f4ecec
 "Colour3"="244,236,236"
 
 ; Cursor Text -- equals to default background
+; base00 #f4ecec
 "Colour4"="244,236,236"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #585050
 "Colour5"="88,80,80"
 
 ; ANSI Black
+; base00 #f4ecec
 "Colour6"="244,236,236"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #7e7777
 "Colour7"="126,119,119"
 
 ; ANSI Red
+; base08 #ca4949
 "Colour8"="202,73,73"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #b45a3c
 "Colour9"="180,90,60"
 
 ; ANSI Green
+; base0B #4b8b8b
 "Colour10"="75,139,139"
 
-; ANSI Green Bold
-"Colour11"="231,223,223"
+; ANSI Green Bright
+; base0B #4b8b8b
+"Colour11"="75,139,139"
 
 ; ANSI Yellow
+; base0A #a06e3b
 "Colour12"="160,110,59"
 
-; ANSI Yellow Bold
-"Colour13"="138,133,133"
+; ANSI Yellow Bright
+; base0A #a06e3b
+"Colour13"="160,110,59"
 
 ; ANSI Blue
+; base0D #7272ca
 "Colour14"="114,114,202"
 
-; ANSI Blue Bold
-"Colour15"="101,93,93"
+; ANSI Blue Bright
+; base0D #7272ca
+"Colour15"="114,114,202"
 
 ; ANSI Magenta
+; base0E #8464c4
 "Colour16"="132,100,196"
 
-; ANSI Magenta Bold
-"Colour17"="41,36,36"
+; ANSI Magenta Bright
+; base0E #8464c4
+"Colour17"="132,100,196"
 
 ; ANSI Cyan
+; base0C #5485b6
 "Colour18"="84,133,182"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #bd5187
 "Colour19"="189,81,135"
 
 ; ANSI White
+; base05 #585050
 "Colour20"="88,80,80"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 1b1818
 "Colour21"="27,24,24"
-

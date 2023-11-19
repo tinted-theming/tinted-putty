@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\outrun-dark]
 
 ; Default Foreground
+; base05 #d0d0fa
 "Colour0"="208,208,250"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #d0d0fa
 "Colour1"="208,208,250"
 
 ; Default Background
+; base00 #00002a
 "Colour2"="0,0,42"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #00002a
 "Colour3"="0,0,42"
 
 ; Cursor Text -- equals to default background
+; base00 #00002a
 "Colour4"="0,0,42"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #d0d0fa
 "Colour5"="208,208,250"
 
 ; ANSI Black
+; base00 #00002a
 "Colour6"="0,0,42"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #50507a
 "Colour7"="80,80,122"
 
 ; ANSI Red
+; base08 #ff4242
 "Colour8"="255,66,66"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #fc8d28
 "Colour9"="252,141,40"
 
 ; ANSI Green
+; base0B #59f176
 "Colour10"="89,241,118"
 
-; ANSI Green Bold
-"Colour11"="32,32,74"
+; ANSI Green Bright
+; base0B #59f176
+"Colour11"="89,241,118"
 
 ; ANSI Yellow
+; base0A #f3e877
 "Colour12"="243,232,119"
 
-; ANSI Yellow Bold
-"Colour13"="48,48,90"
+; ANSI Yellow Bright
+; base0A #f3e877
+"Colour13"="243,232,119"
 
 ; ANSI Blue
+; base0D #66b0ff
 "Colour14"="102,176,255"
 
-; ANSI Blue Bold
-"Colour15"="176,176,218"
+; ANSI Blue Bright
+; base0D #66b0ff
+"Colour15"="102,176,255"
 
 ; ANSI Magenta
+; base0E #f10596
 "Colour16"="241,5,150"
 
-; ANSI Magenta Bold
-"Colour17"="224,224,255"
+; ANSI Magenta Bright
+; base0E #f10596
+"Colour17"="241,5,150"
 
 ; ANSI Cyan
+; base0C #0ef0f0
 "Colour18"="14,240,240"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #f003ef
 "Colour19"="240,3,239"
 
 ; ANSI White
+; base05 #d0d0fa
 "Colour20"="208,208,250"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 f5f5ff
 "Colour21"="245,245,255"
-

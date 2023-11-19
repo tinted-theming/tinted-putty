@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\purpledream]
 
 ; Default Foreground
+; base05 #ddd0dd
 "Colour0"="221,208,221"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #ddd0dd
 "Colour1"="221,208,221"
 
 ; Default Background
+; base00 #100510
 "Colour2"="16,5,16"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #100510
 "Colour3"="16,5,16"
 
 ; Cursor Text -- equals to default background
+; base00 #100510
 "Colour4"="16,5,16"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #ddd0dd
 "Colour5"="221,208,221"
 
 ; ANSI Black
+; base00 #100510
 "Colour6"="16,5,16"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #605060
 "Colour7"="96,80,96"
 
 ; ANSI Red
+; base08 #ff1d0d
 "Colour8"="255,29,13"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #ccae14
 "Colour9"="204,174,20"
 
 ; ANSI Green
+; base0B #14cc64
 "Colour10"="20,204,100"
 
-; ANSI Green Bold
-"Colour11"="48,32,48"
+; ANSI Green Bright
+; base0B #14cc64
+"Colour11"="20,204,100"
 
 ; ANSI Yellow
+; base0A #f000a0
 "Colour12"="240,0,160"
 
-; ANSI Yellow Bold
-"Colour13"="64,48,64"
+; ANSI Yellow Bright
+; base0A #f000a0
+"Colour13"="240,0,160"
 
 ; ANSI Blue
+; base0D #00a0f0
 "Colour14"="0,160,240"
 
-; ANSI Blue Bold
-"Colour15"="187,176,187"
+; ANSI Blue Bright
+; base0D #00a0f0
+"Colour15"="0,160,240"
 
 ; ANSI Magenta
+; base0E #b000d0
 "Colour16"="176,0,208"
 
-; ANSI Magenta Bold
-"Colour17"="238,224,238"
+; ANSI Magenta Bright
+; base0E #b000d0
+"Colour17"="176,0,208"
 
 ; ANSI Cyan
+; base0C #0075b0
 "Colour18"="0,117,176"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #6a2a3c
 "Colour19"="106,42,60"
 
 ; ANSI White
+; base05 #ddd0dd
 "Colour20"="221,208,221"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 fff0ff
 "Colour21"="255,240,255"
-

@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\katy]
 
 ; Default Foreground
+; base05 #959dcb
 "Colour0"="149,157,203"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #959dcb
 "Colour1"="149,157,203"
 
 ; Default Background
+; base00 #292d3e
 "Colour2"="41,45,62"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #292d3e
 "Colour3"="41,45,62"
 
 ; Cursor Text -- equals to default background
+; base00 #292d3e
 "Colour4"="41,45,62"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #959dcb
 "Colour5"="149,157,203"
 
 ; ANSI Black
+; base00 #292d3e
 "Colour6"="41,45,62"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #676e95
 "Colour7"="103,110,149"
 
 ; ANSI Red
+; base08 #6e98e1
 "Colour8"="110,152,225"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #f78c6c
 "Colour9"="247,140,108"
 
 ; ANSI Green
+; base0B #78c06e
 "Colour10"="120,192,110"
 
-; ANSI Green Bold
-"Colour11"="68,66,103"
+; ANSI Green Bright
+; base0B #78c06e
+"Colour11"="120,192,110"
 
 ; ANSI Yellow
+; base0A #e0a557
 "Colour12"="224,165,87"
 
-; ANSI Yellow Bold
-"Colour13"="92,89,139"
+; ANSI Yellow Bright
+; base0A #e0a557
+"Colour13"="224,165,87"
 
 ; ANSI Blue
+; base0D #82aaff
 "Colour14"="130,170,255"
 
-; ANSI Blue Bold
-"Colour15"="135,150,176"
+; ANSI Blue Bright
+; base0D #82aaff
+"Colour15"="130,170,255"
 
 ; ANSI Magenta
+; base0E #c792ea
 "Colour16"="199,146,234"
 
-; ANSI Magenta Bold
-"Colour17"="149,157,203"
+; ANSI Magenta Bright
+; base0E #c792ea
+"Colour17"="199,146,234"
 
 ; ANSI Cyan
+; base0C #83b7e5
 "Colour18"="131,183,229"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #ff5370
 "Colour19"="255,83,112"
 
 ; ANSI White
+; base05 #959dcb
 "Colour20"="149,157,203"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 ffffff
 "Colour21"="255,255,255"
-

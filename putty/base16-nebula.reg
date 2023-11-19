@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\nebula]
 
 ; Default Foreground
+; base05 #a4a6a9
 "Colour0"="164,166,169"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #a4a6a9
 "Colour1"="164,166,169"
 
 ; Default Background
+; base00 #22273b
 "Colour2"="34,39,59"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #22273b
 "Colour3"="34,39,59"
 
 ; Cursor Text -- equals to default background
+; base00 #22273b
 "Colour4"="34,39,59"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #a4a6a9
 "Colour5"="164,166,169"
 
 ; ANSI Black
+; base00 #22273b
 "Colour6"="34,39,59"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #6e6f72
 "Colour7"="110,111,114"
 
 ; ANSI Red
+; base08 #777abc
 "Colour8"="119,122,188"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #94929e
 "Colour9"="148,146,158"
 
 ; ANSI Green
+; base0B #6562a8
 "Colour10"="101,98,168"
 
-; ANSI Green Bold
-"Colour11"="65,79,96"
+; ANSI Green Bright
+; base0B #6562a8
+"Colour11"="101,98,168"
 
 ; ANSI Yellow
+; base0A #4f9062
 "Colour12"="79,144,98"
 
-; ANSI Yellow Bold
-"Colour13"="90,131,128"
+; ANSI Yellow Bright
+; base0A #4f9062
+"Colour13"="79,144,98"
 
 ; ANSI Blue
+; base0D #4d6bb6
 "Colour14"="77,107,182"
 
-; ANSI Blue Bold
-"Colour15"="135,136,139"
+; ANSI Blue Bright
+; base0D #4d6bb6
+"Colour15"="77,107,182"
 
 ; ANSI Magenta
+; base0E #716cae
 "Colour16"="113,108,174"
 
-; ANSI Magenta Bold
-"Colour17"="199,201,205"
+; ANSI Magenta Bright
+; base0E #716cae
+"Colour17"="113,108,174"
 
 ; ANSI Cyan
+; base0C #226f68
 "Colour18"="34,111,104"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #8c70a7
 "Colour19"="140,112,167"
 
 ; ANSI White
+; base05 #a4a6a9
 "Colour20"="164,166,169"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 8dbdaa
 "Colour21"="141,189,170"
-

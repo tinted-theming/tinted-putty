@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\catppuccin-frappe]
 
 ; Default Foreground
+; base05 #c6d0f5
 "Colour0"="198,208,245"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #c6d0f5
 "Colour1"="198,208,245"
 
 ; Default Background
+; base00 #303446
 "Colour2"="48,52,70"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #303446
 "Colour3"="48,52,70"
 
 ; Cursor Text -- equals to default background
+; base00 #303446
 "Colour4"="48,52,70"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #c6d0f5
 "Colour5"="198,208,245"
 
 ; ANSI Black
+; base00 #303446
 "Colour6"="48,52,70"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #51576d
 "Colour7"="81,87,109"
 
 ; ANSI Red
+; base08 #e78284
 "Colour8"="231,130,132"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #ef9f76
 "Colour9"="239,159,118"
 
 ; ANSI Green
+; base0B #a6d189
 "Colour10"="166,209,137"
 
-; ANSI Green Bold
-"Colour11"="41,44,60"
+; ANSI Green Bright
+; base0B #a6d189
+"Colour11"="166,209,137"
 
 ; ANSI Yellow
+; base0A #e5c890
 "Colour12"="229,200,144"
 
-; ANSI Yellow Bold
-"Colour13"="65,69,89"
+; ANSI Yellow Bright
+; base0A #e5c890
+"Colour13"="229,200,144"
 
 ; ANSI Blue
+; base0D #8caaee
 "Colour14"="140,170,238"
 
-; ANSI Blue Bold
-"Colour15"="98,104,128"
+; ANSI Blue Bright
+; base0D #8caaee
+"Colour15"="140,170,238"
 
 ; ANSI Magenta
+; base0E #ca9ee6
 "Colour16"="202,158,230"
 
-; ANSI Magenta Bold
-"Colour17"="242,213,207"
+; ANSI Magenta Bright
+; base0E #ca9ee6
+"Colour17"="202,158,230"
 
 ; ANSI Cyan
+; base0C #81c8be
 "Colour18"="129,200,190"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #eebebe
 "Colour19"="238,190,190"
 
 ; ANSI White
+; base05 #c6d0f5
 "Colour20"="198,208,245"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 babbf1
 "Colour21"="186,187,241"
-

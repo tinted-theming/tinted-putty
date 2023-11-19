@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-cave]
 
 ; Default Foreground
+; base05 #8b8792
 "Colour0"="139,135,146"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #8b8792
 "Colour1"="139,135,146"
 
 ; Default Background
+; base00 #19171c
 "Colour2"="25,23,28"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #19171c
 "Colour3"="25,23,28"
 
 ; Cursor Text -- equals to default background
+; base00 #19171c
 "Colour4"="25,23,28"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #8b8792
 "Colour5"="139,135,146"
 
 ; ANSI Black
+; base00 #19171c
 "Colour6"="25,23,28"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #655f6d
 "Colour7"="101,95,109"
 
 ; ANSI Red
+; base08 #be4678
 "Colour8"="190,70,120"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #aa573c
 "Colour9"="170,87,60"
 
 ; ANSI Green
+; base0B #2a9292
 "Colour10"="42,146,146"
 
-; ANSI Green Bold
-"Colour11"="38,35,42"
+; ANSI Green Bright
+; base0B #2a9292
+"Colour11"="42,146,146"
 
 ; ANSI Yellow
+; base0A #a06e3b
 "Colour12"="160,110,59"
 
-; ANSI Yellow Bold
-"Colour13"="88,82,96"
+; ANSI Yellow Bright
+; base0A #a06e3b
+"Colour13"="160,110,59"
 
 ; ANSI Blue
+; base0D #576ddb
 "Colour14"="87,109,219"
 
-; ANSI Blue Bold
-"Colour15"="126,120,135"
+; ANSI Blue Bright
+; base0D #576ddb
+"Colour15"="87,109,219"
 
 ; ANSI Magenta
+; base0E #955ae7
 "Colour16"="149,90,231"
 
-; ANSI Magenta Bold
-"Colour17"="226,223,231"
+; ANSI Magenta Bright
+; base0E #955ae7
+"Colour17"="149,90,231"
 
 ; ANSI Cyan
+; base0C #398bc6
 "Colour18"="57,139,198"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #bf40bf
 "Colour19"="191,64,191"
 
 ; ANSI White
+; base05 #8b8792
 "Colour20"="139,135,146"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 efecf4
 "Colour21"="239,236,244"
-

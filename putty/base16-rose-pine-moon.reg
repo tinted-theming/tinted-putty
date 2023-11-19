@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rose-pine-moon]
 
 ; Default Foreground
+; base05 #e0def4
 "Colour0"="224,222,244"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #e0def4
 "Colour1"="224,222,244"
 
 ; Default Background
+; base00 #232136
 "Colour2"="35,33,54"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #232136
 "Colour3"="35,33,54"
 
 ; Cursor Text -- equals to default background
+; base00 #232136
 "Colour4"="35,33,54"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #e0def4
 "Colour5"="224,222,244"
 
 ; ANSI Black
+; base00 #232136
 "Colour6"="35,33,54"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #6e6a86
 "Colour7"="110,106,134"
 
 ; ANSI Red
+; base08 #eb6f92
 "Colour8"="235,111,146"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #f6c177
 "Colour9"="246,193,119"
 
 ; ANSI Green
+; base0B #3e8fb0
 "Colour10"="62,143,176"
 
-; ANSI Green Bold
-"Colour11"="42,39,63"
+; ANSI Green Bright
+; base0B #3e8fb0
+"Colour11"="62,143,176"
 
 ; ANSI Yellow
+; base0A #ea9a97
 "Colour12"="234,154,151"
 
-; ANSI Yellow Bold
-"Colour13"="57,53,82"
+; ANSI Yellow Bright
+; base0A #ea9a97
+"Colour13"="234,154,151"
 
 ; ANSI Blue
+; base0D #c4a7e7
 "Colour14"="196,167,231"
 
-; ANSI Blue Bold
-"Colour15"="144,140,170"
+; ANSI Blue Bright
+; base0D #c4a7e7
+"Colour15"="196,167,231"
 
 ; ANSI Magenta
+; base0E #f6c177
 "Colour16"="246,193,119"
 
-; ANSI Magenta Bold
-"Colour17"="224,222,244"
+; ANSI Magenta Bright
+; base0E #f6c177
+"Colour17"="246,193,119"
 
 ; ANSI Cyan
+; base0C #9ccfd8
 "Colour18"="156,207,216"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #56526e
 "Colour19"="86,82,110"
 
 ; ANSI White
+; base05 #e0def4
 "Colour20"="224,222,244"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 56526e
 "Colour21"="86,82,110"
-

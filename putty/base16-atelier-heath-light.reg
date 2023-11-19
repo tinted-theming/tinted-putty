@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-heath-light]
 
 ; Default Foreground
+; base05 #695d69
 "Colour0"="105,93,105"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #695d69
 "Colour1"="105,93,105"
 
 ; Default Background
+; base00 #f7f3f7
 "Colour2"="247,243,247"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #f7f3f7
 "Colour3"="247,243,247"
 
 ; Cursor Text -- equals to default background
+; base00 #f7f3f7
 "Colour4"="247,243,247"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #695d69
 "Colour5"="105,93,105"
 
 ; ANSI Black
+; base00 #f7f3f7
 "Colour6"="247,243,247"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #9e8f9e
 "Colour7"="158,143,158"
 
 ; ANSI Red
+; base08 #ca402b
 "Colour8"="202,64,43"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #a65926
 "Colour9"="166,89,38"
 
 ; ANSI Green
+; base0B #918b3b
 "Colour10"="145,139,59"
 
-; ANSI Green Bold
-"Colour11"="216,202,216"
+; ANSI Green Bright
+; base0B #918b3b
+"Colour11"="145,139,59"
 
 ; ANSI Yellow
+; base0A #bb8a35
 "Colour12"="187,138,53"
 
-; ANSI Yellow Bold
-"Colour13"="171,155,171"
+; ANSI Yellow Bright
+; base0A #bb8a35
+"Colour13"="187,138,53"
 
 ; ANSI Blue
+; base0D #516aec
 "Colour14"="81,106,236"
 
-; ANSI Blue Bold
-"Colour15"="119,105,119"
+; ANSI Blue Bright
+; base0D #516aec
+"Colour15"="81,106,236"
 
 ; ANSI Magenta
+; base0E #7b59c0
 "Colour16"="123,89,192"
 
-; ANSI Magenta Bold
-"Colour17"="41,35,41"
+; ANSI Magenta Bright
+; base0E #7b59c0
+"Colour17"="123,89,192"
 
 ; ANSI Cyan
+; base0C #159393
 "Colour18"="21,147,147"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #cc33cc
 "Colour19"="204,51,204"
 
 ; ANSI White
+; base05 #695d69
 "Colour20"="105,93,105"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 1b181b
 "Colour21"="27,24,27"
-

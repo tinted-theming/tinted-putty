@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\oceanicnext]
 
 ; Default Foreground
+; base05 #c0c5ce
 "Colour0"="192,197,206"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #c0c5ce
 "Colour1"="192,197,206"
 
 ; Default Background
+; base00 #1b2b34
 "Colour2"="27,43,52"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #1b2b34
 "Colour3"="27,43,52"
 
 ; Cursor Text -- equals to default background
+; base00 #1b2b34
 "Colour4"="27,43,52"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #c0c5ce
 "Colour5"="192,197,206"
 
 ; ANSI Black
+; base00 #1b2b34
 "Colour6"="27,43,52"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #65737e
 "Colour7"="101,115,126"
 
 ; ANSI Red
+; base08 #ec5f67
 "Colour8"="236,95,103"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #f99157
 "Colour9"="249,145,87"
 
 ; ANSI Green
+; base0B #99c794
 "Colour10"="153,199,148"
 
-; ANSI Green Bold
-"Colour11"="52,61,70"
+; ANSI Green Bright
+; base0B #99c794
+"Colour11"="153,199,148"
 
 ; ANSI Yellow
+; base0A #fac863
 "Colour12"="250,200,99"
 
-; ANSI Yellow Bold
-"Colour13"="79,91,102"
+; ANSI Yellow Bright
+; base0A #fac863
+"Colour13"="250,200,99"
 
 ; ANSI Blue
+; base0D #6699cc
 "Colour14"="102,153,204"
 
-; ANSI Blue Bold
-"Colour15"="167,173,186"
+; ANSI Blue Bright
+; base0D #6699cc
+"Colour15"="102,153,204"
 
 ; ANSI Magenta
+; base0E #c594c5
 "Colour16"="197,148,197"
 
-; ANSI Magenta Bold
-"Colour17"="205,211,222"
+; ANSI Magenta Bright
+; base0E #c594c5
+"Colour17"="197,148,197"
 
 ; ANSI Cyan
+; base0C #5fb3b3
 "Colour18"="95,179,179"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #ab7967
 "Colour19"="171,121,103"
 
 ; ANSI White
+; base05 #c0c5ce
 "Colour20"="192,197,206"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 d8dee9
 "Colour21"="216,222,233"
-

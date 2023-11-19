@@ -6,68 +6,89 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-sulphurpool]
 
 ; Default Foreground
+; base05 #979db4
 "Colour0"="151,157,180"
 
 ; Default Bold Foreground  -- equals to non-bold
+; base05 #979db4
 "Colour1"="151,157,180"
 
 ; Default Background
+; base00 #202746
 "Colour2"="32,39,70"
 
 ; Default Bold Background  -- equals to non-bold
+; base00 #202746
 "Colour3"="32,39,70"
 
 ; Cursor Text -- equals to default background
+; base00 #202746
 "Colour4"="32,39,70"
 
 ; Cursor Colour -- equals to default foreground
+; base05 #979db4
 "Colour5"="151,157,180"
 
 ; ANSI Black
+; base00 #202746
 "Colour6"="32,39,70"
 
-; ANSI Black Bold
+; ANSI Black Bright
+; base03 #6b7394
 "Colour7"="107,115,148"
 
 ; ANSI Red
+; base08 #c94922
 "Colour8"="201,73,34"
 
-; ANSI Red Bold
+; ANSI Red Bright
+; base09 #c76b29
 "Colour9"="199,107,41"
 
 ; ANSI Green
+; base0B #ac9739
 "Colour10"="172,151,57"
 
-; ANSI Green Bold
-"Colour11"="41,50,86"
+; ANSI Green Bright
+; base0B #ac9739
+"Colour11"="172,151,57"
 
 ; ANSI Yellow
+; base0A #c08b30
 "Colour12"="192,139,48"
 
-; ANSI Yellow Bold
-"Colour13"="94,102,135"
+; ANSI Yellow Bright
+; base0A #c08b30
+"Colour13"="192,139,48"
 
 ; ANSI Blue
+; base0D #3d8fd1
 "Colour14"="61,143,209"
 
-; ANSI Blue Bold
-"Colour15"="137,142,164"
+; ANSI Blue Bright
+; base0D #3d8fd1
+"Colour15"="61,143,209"
 
 ; ANSI Magenta
+; base0E #6679cc
 "Colour16"="102,121,204"
 
-; ANSI Magenta Bold
-"Colour17"="223,226,241"
+; ANSI Magenta Bright
+; base0E #6679cc
+"Colour17"="102,121,204"
 
 ; ANSI Cyan
+; base0C #22a2c9
 "Colour18"="34,162,201"
 
-; ANSI Cyan Bold
+; ANSI Cyan Bright
+; base0F #9c637a
 "Colour19"="156,99,122"
 
 ; ANSI White
+; base05 #979db4
 "Colour20"="151,157,180"
 
-; ANSI White Bold
+; ANSI White Bright
+; base07 f5f7ff
 "Colour21"="245,247,255"
-
