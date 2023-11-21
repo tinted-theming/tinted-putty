@@ -16,7 +16,7 @@ Usage
 
 1. Make sure to have the most recent stable version of PuTTY;
 2. Make sure that your version is
-   [configured](http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/)
+   [configured](https://web.archive.org/web/20140803065929/http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/)
    to [provide](https://sanctum.geek.nz/arabesque/putty-configuration/)
    256 colors support;
 3. Choose your theme from the [base16-gallery](https://tinted-theming.github.io/base16-gallery/);
