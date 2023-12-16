@@ -1,0 +1,94 @@
+Windows Registry Editor Version 5.00
+
+; Base16 caroline
+; Scheme author: ed (https://codeberg.org/ed)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\caroline]
+
+; Default Foreground
+; base05 #a87569
+"Colour0"="168,117,105"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #a87569
+"Colour1"="168,117,105"
+
+; Default Background
+; base00 #1c1213
+"Colour2"="28,18,19"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #1c1213
+"Colour3"="28,18,19"
+
+; Cursor Text -- equals to default background
+; base00 #1c1213
+"Colour4"="28,18,19"
+
+; Cursor Colour -- equals to default foreground
+; base05 #a87569
+"Colour5"="168,117,105"
+
+; ANSI Black
+; base00 #1c1213
+"Colour6"="28,18,19"
+
+; ANSI Black Bright
+; base03 #6d4745
+"Colour7"="109,71,69"
+
+; ANSI Red
+; base08 #c24f57
+"Colour8"="194,79,87"
+
+; ANSI Red Bright
+; base09 #a63650
+"Colour9"="166,54,80"
+
+; ANSI Green
+; base0B #806c61
+"Colour10"="128,108,97"
+
+; ANSI Green Bright
+; base0B #806c61
+"Colour11"="128,108,97"
+
+; ANSI Yellow
+; base0A #f28171
+"Colour12"="242,129,113"
+
+; ANSI Yellow Bright
+; base0A #f28171
+"Colour13"="242,129,113"
+
+; ANSI Blue
+; base0D #684c59
+"Colour14"="104,76,89"
+
+; ANSI Blue Bright
+; base0D #684c59
+"Colour15"="104,76,89"
+
+; ANSI Magenta
+; base0E #a63650
+"Colour16"="166,54,80"
+
+; ANSI Magenta Bright
+; base0E #a63650
+"Colour17"="166,54,80"
+
+; ANSI Cyan
+; base0C #6b6566
+"Colour18"="107,101,102"
+
+; ANSI Cyan Bright
+; base0F #893f45
+"Colour19"="137,63,69"
+
+; ANSI White
+; base05 #a87569
+"Colour20"="168,117,105"
+
+; ANSI White Bright
+; base07 e3a68c
+"Colour21"="227,166,140"
