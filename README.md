@@ -1,25 +1,28 @@
-base16-putty
+tinted-putty
 ============
 
-Base16 colors for PuTTY
+[Base16] and [Base24] colors for [PuTTY]
 
 
 Introduction
 ------------
 
 This project provides `.reg` files for configuring PuTTY colors
-according to the `base16 system`.
+according to the `base16 system` and `base24 system`.
+
+This repo was originally named `base16-putty`, but since we've now got
+the added [Base24] template and theme support, and maybe different ones
+in future, we renamed to `tinted-putty` so we don't lock ourselves into
+a single scheme system.
 
 
 Usage
 -----
 
 1. Make sure to have the most recent stable version of PuTTY;
-2. Make sure that your version is
-   [configured](https://web.archive.org/web/20140803065929/http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/)
-   to [provide](https://sanctum.geek.nz/arabesque/putty-configuration/)
-   256 colors support;
-3. Choose your theme from the [base16-gallery](https://tinted-theming.github.io/base16-gallery/);
+2. Make sure that your version is [configured] to [provide] 256 colors
+   support;
+3. Choose your theme from the [base16-gallery];
 4. Locate the corresponding file in `putty` directory and download it;
 5. Edit the file, and change session name in
    `[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\` **`{{SESSION_NAME}}`** `]`
@@ -28,7 +31,7 @@ Usage
 
 
 Issues or Contributions
-------------------------
+-----------------------
 
 This repo rebuilds the colorschemes every week, so make sure to pull to
 keep up to date with the latest changes.
@@ -36,16 +39,14 @@ keep up to date with the latest changes.
 If you're you're looking to build the colorschemes manually to test out
 a change:
 
-1. Install [base16-builder-go](https://github.com/tinted-theming/base16-builder-go)
-   or a compatible tool.
-   (Note that in the case of `base16-builder-go`
-   the [releases' page](https://github.com/tinted-theming/base16-builder-go/releases)
-   contains pre-built binaries that can be simply downloaded and executed).
-2. Execute the `builder` binary from the `base16-putty` directory.
-   In the case of `base16-builder-go` no argument is required.
+1. Install [builder-go] or a compatible tool. (Note that in the case of
+   `builder-go` the [releases' page] contains pre-built binaries
+   that can be simply downloaded and executed).
+2. Execute the `builder` binary from the `tinted-putty` directory.
+   In the case of `builder-go` no argument is required.
 3. Check if updates took place (new/modified files are placed inside the `/putty` directory).
 
-Have a look at [these guides](https://opensource.guide/how-to-contribute/) for more information.
+Have a look at [these guides] for more information.
 
 Thanks
 ------
@@ -53,3 +54,13 @@ Thanks
 - @staticaland for the [original material](https://github.com/staticaland/base16-putty);
 - @iamthad and @ticky for [mapping](https://github.com/iamthad/base16-mintty) `base16` vars into color names used by PuTTY;
 - @chriskempson for the original conception of the [tinted-theming](https://github.com/tinted-theming/home).
+
+[Base16]: https://github.com/tinted-theming/home
+[Base24]: https://github.com/tinted-theming/base24
+[PuTTY]: https://en.wikipedia.org/wiki/PuTTY
+[base16-gallery]: https://tinted-theming.github.io/base16-gallery/
+[configured]: https://web.archive.org/web/20140803065929/http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/
+[provide]: https://sanctum.geek.nz/arabesque/putty-configuration/
+[these guides]: https://opensource.guide/how-to-contribute/
+[builder-go]: https://github.com/tinted-theming/base16-builder-go
+[releases' page]: https://github.com/tinted-theming/base16-builder-go/releases
