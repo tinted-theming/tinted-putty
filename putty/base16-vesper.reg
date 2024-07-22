@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Vesper
+; Scheme name: Vesper
+; Scheme system: base16
 ; Scheme author: FormalSnake (https://github.com/formalsnake)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\vesper]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-vesper]
 
 ; Default Foreground
 ; base05 #b7b7b7

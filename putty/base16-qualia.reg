@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Qualia
+; Scheme name: Qualia
+; Scheme system: base16
 ; Scheme author: isaacwhanson
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\qualia]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-qualia]
 
 ; Default Foreground
 ; base05 #c0c0c0

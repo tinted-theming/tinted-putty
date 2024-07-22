@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Paraiso
+; Scheme name: Paraiso
+; Scheme system: base16
 ; Scheme author: Jan T. Sott
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\paraiso]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-paraiso]
 
 ; Default Foreground
 ; base05 #a39e9b

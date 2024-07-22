@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Google Dark
+; Scheme name: Google Dark
+; Scheme system: base16
 ; Scheme author: Seth Wright (http://sethawright.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\google-dark]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-google-dark]
 
 ; Default Foreground
 ; base05 #c5c8c6

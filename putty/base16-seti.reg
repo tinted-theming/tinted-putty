@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Seti UI
+; Scheme name: Seti UI
+; Scheme system: base16
 ; Scheme author: 
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\seti]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-seti]
 
 ; Default Foreground
 ; base05 #d6d6d6

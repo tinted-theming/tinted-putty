@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Atelier Lakeside
+; Scheme name: Atelier Lakeside
+; Scheme system: base16
 ; Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-lakeside]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-atelier-lakeside]
 
 ; Default Foreground
 ; base05 #7ea2b4

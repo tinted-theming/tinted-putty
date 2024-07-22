@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 lime
+; Scheme name: lime
+; Scheme system: base16
 ; Scheme author: limelier
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\lime]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-lime]
 
 ; Default Foreground
 ; base05 #818175

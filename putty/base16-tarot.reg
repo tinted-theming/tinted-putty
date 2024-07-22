@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 tarot
+; Scheme name: tarot
+; Scheme system: base16
 ; Scheme author: ed (https://codeberg.org/ed)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tarot]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-tarot]
 
 ; Default Foreground
 ; base05 #aa556f

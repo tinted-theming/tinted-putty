@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 iA Light
+; Scheme name: iA Light
+; Scheme system: base16
 ; Scheme author: iA Inc. (modified by aramisgithub)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ia-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-ia-light]
 
 ; Default Foreground
 ; base05 #181818

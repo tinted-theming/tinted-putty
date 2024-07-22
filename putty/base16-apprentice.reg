@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Apprentice
+; Scheme name: Apprentice
+; Scheme system: base16
 ; Scheme author: romainl
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\apprentice]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-apprentice]
 
 ; Default Foreground
 ; base05 #5f5f87

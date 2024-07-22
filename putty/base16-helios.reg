@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Helios
+; Scheme name: Helios
+; Scheme system: base16
 ; Scheme author: Alex Meyer (https://github.com/reyemxela)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\helios]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-helios]
 
 ; Default Foreground
 ; base05 #d5d5d5

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Zenbones
+; Scheme name: Zenbones
+; Scheme system: base16
 ; Scheme author: mcchrish
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\zenbones]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-zenbones]
 
 ; Default Foreground
 ; base05 #b279a7

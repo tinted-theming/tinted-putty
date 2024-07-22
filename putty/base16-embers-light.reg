@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Embers Light
+; Scheme name: Embers Light
+; Scheme system: base16
 ; Scheme author: Jannik Siebert (https://github.com/janniks)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\embers-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-embers-light]
 
 ; Default Foreground
 ; base05 #323b43

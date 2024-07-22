@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Decaf
+; Scheme name: Decaf
+; Scheme system: base16
 ; Scheme author: Alex Mirrington (https://github.com/alexmirrington)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\decaf]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-decaf]
 
 ; Default Foreground
 ; base05 #cccccc

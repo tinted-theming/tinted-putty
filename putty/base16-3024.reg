@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 3024
+; Scheme name: 3024
+; Scheme system: base16
 ; Scheme author: Jan T. Sott (http://github.com/idleberg)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\3024]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-3024]
 
 ; Default Foreground
 ; base05 #a5a2a2

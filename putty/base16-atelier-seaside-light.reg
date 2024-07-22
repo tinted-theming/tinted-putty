@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Atelier Seaside Light
+; Scheme name: Atelier Seaside Light
+; Scheme system: base16
 ; Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-seaside-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-atelier-seaside-light]
 
 ; Default Foreground
 ; base05 #5e6e5e

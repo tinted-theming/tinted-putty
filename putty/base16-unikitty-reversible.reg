@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Unikitty Reversible
+; Scheme name: Unikitty Reversible
+; Scheme system: base16
 ; Scheme author: Josh W Lewis (@joshwlewis)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\unikitty-reversible]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-unikitty-reversible]
 
 ; Default Foreground
 ; base05 #c3c2c4

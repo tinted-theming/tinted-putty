@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Catppuccin Frappe
+; Scheme name: Catppuccin Frappe
+; Scheme system: base16
 ; Scheme author: https://github.com/catppuccin/catppuccin
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\catppuccin-frappe]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-catppuccin-frappe]
 
 ; Default Foreground
 ; base05 #c6d0f5

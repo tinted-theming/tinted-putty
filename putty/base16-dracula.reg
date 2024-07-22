@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Dracula
+; Scheme name: Dracula
+; Scheme system: base16
 ; Scheme author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\dracula]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-dracula]
 
 ; Default Foreground
 ; base05 #e9e9f4

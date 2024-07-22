@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Oxocarbon Light
+; Scheme name: Oxocarbon Light
+; Scheme system: base16
 ; Scheme author: shaunsingh/IBM
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\oxocarbon-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-oxocarbon-light]
 
 ; Default Foreground
 ; base05 #393939

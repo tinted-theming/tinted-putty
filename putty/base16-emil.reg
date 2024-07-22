@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 emil
+; Scheme name: emil
+; Scheme system: base16
 ; Scheme author: limelier
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\emil]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-emil]
 
 ; Default Foreground
 ; base05 #313145

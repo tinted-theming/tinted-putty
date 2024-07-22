@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 eris
+; Scheme name: eris
+; Scheme system: base16
 ; Scheme author: ed (https://codeberg.org/ed)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\eris]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-eris]
 
 ; Default Foreground
 ; base05 #606bac

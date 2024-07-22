@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Rebecca
+; Scheme name: Rebecca
+; Scheme system: base16
 ; Scheme author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rebecca]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-rebecca]
 
 ; Default Foreground
 ; base05 #f1eff8

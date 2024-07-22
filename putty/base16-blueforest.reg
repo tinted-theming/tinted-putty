@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Blue Forest
+; Scheme name: Blue Forest
+; Scheme system: base16
 ; Scheme author: alonsodomin (https://github.com/alonsodomin)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\blueforest]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-blueforest]
 
 ; Default Foreground
 ; base05 #ffcc33

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Brogrammer
+; Scheme name: Brogrammer
+; Scheme system: base16
 ; Scheme author: Vik Ramanujam (http://github.com/piggyslasher)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\brogrammer]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-brogrammer]
 
 ; Default Foreground
 ; base05 #4e5ab7

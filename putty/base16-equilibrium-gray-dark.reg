@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Equilibrium Gray Dark
+; Scheme name: Equilibrium Gray Dark
+; Scheme system: base16
 ; Scheme author: Carlo Abelli
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\equilibrium-gray-dark]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-equilibrium-gray-dark]
 
 ; Default Foreground
 ; base05 #ababab

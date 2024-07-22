@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Solar Flare
+; Scheme name: Solar Flare
+; Scheme system: base16
 ; Scheme author: Chuck Harmston (https://chuck.harmston.ch)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarflare]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-solarflare]
 
 ; Default Foreground
 ; base05 #a6afb8

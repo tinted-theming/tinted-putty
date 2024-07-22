@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Tokyo Night Storm
+; Scheme name: Tokyo Night Storm
+; Scheme system: base16
 ; Scheme author: Michaël Ball
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tokyo-night-storm]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-tokyo-night-storm]
 
 ; Default Foreground
 ; base05 #a9b1d6

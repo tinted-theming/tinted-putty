@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 pinky
+; Scheme name: pinky
+; Scheme system: base16
 ; Scheme author: Benjamin (https://github.com/b3nj5m1n)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\pinky]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-pinky]
 
 ; Default Foreground
 ; base05 #f5f5f5

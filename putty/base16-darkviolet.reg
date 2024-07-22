@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Dark Violet
+; Scheme name: Dark Violet
+; Scheme system: base16
 ; Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\darkviolet]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-darkviolet]
 
 ; Default Foreground
 ; base05 #b08ae6

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Google Light
+; Scheme name: Google Light
+; Scheme system: base16
 ; Scheme author: Seth Wright (http://sethawright.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\google-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-google-light]
 
 ; Default Foreground
 ; base05 #373b41

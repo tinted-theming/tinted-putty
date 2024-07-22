@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Brewer
+; Scheme name: Brewer
+; Scheme system: base16
 ; Scheme author: Timothée Poisot (http://github.com/tpoisot)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\brewer]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-brewer]
 
 ; Default Foreground
 ; base05 #b7b8b9

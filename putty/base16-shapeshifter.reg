@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Shapeshifter
+; Scheme name: Shapeshifter
+; Scheme system: base16
 ; Scheme author: Tyler Benziger (http://tybenz.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\shapeshifter]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-shapeshifter]
 
 ; Default Foreground
 ; base05 #102015

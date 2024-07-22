@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Tango
+; Scheme name: Tango
+; Scheme system: base16
 ; Scheme author: @Schnouki, based on the Tango Desktop Project
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tango]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-tango]
 
 ; Default Foreground
 ; base05 #d3d7cf

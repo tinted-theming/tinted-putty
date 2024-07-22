@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Kanagawa
+; Scheme name: Kanagawa
+; Scheme system: base16
 ; Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\kanagawa]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-kanagawa]
 
 ; Default Foreground
 ; base05 #dcd7ba

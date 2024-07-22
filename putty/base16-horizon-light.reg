@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Horizon Light
+; Scheme name: Horizon Light
+; Scheme system: base16
 ; Scheme author: Michaël Ball (http://github.com/michael-ball/)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\horizon-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-horizon-light]
 
 ; Default Foreground
 ; base05 #403c3d

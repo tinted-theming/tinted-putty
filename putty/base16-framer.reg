@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Framer
+; Scheme name: Framer
+; Scheme system: base16
 ; Scheme author: Framer (Maintained by Jesse Hoyos)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\framer]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-framer]
 
 ; Default Foreground
 ; base05 #d0d0d0

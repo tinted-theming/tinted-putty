@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Spacemacs
+; Scheme name: Spacemacs
+; Scheme system: base16
 ; Scheme author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\spacemacs]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-spacemacs]
 
 ; Default Foreground
 ; base05 #a3a3a3
