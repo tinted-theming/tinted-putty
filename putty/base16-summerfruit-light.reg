@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Summerfruit Light
+; Scheme name: Summerfruit Light
+; Scheme system: base16
 ; Scheme author: Christopher Corley (http://christop.club/)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\summerfruit-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-summerfruit-light]
 
 ; Default Foreground
 ; base05 #101010

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Gruvbox light, hard
+; Scheme name: Gruvbox light, hard
+; Scheme system: base16
 ; Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-light-hard]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-gruvbox-light-hard]
 
 ; Default Foreground
 ; base05 #504945

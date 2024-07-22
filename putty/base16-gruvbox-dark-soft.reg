@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Gruvbox dark, soft
+; Scheme name: Gruvbox dark, soft
+; Scheme system: base16
 ; Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-dark-soft]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-gruvbox-dark-soft]
 
 ; Default Foreground
 ; base05 #d5c4a1

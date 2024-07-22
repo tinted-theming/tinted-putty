@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Black Metal (Immortal)
+; Scheme name: Black Metal (Immortal)
+; Scheme system: base16
 ; Scheme author: metalelf0 (https://github.com/metalelf0)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\black-metal-immortal]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-black-metal-immortal]
 
 ; Default Foreground
 ; base05 #c1c1c1

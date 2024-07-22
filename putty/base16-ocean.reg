@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Ocean
+; Scheme name: Ocean
+; Scheme system: base16
 ; Scheme author: Chris Kempson (http://chriskempson.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ocean]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-ocean]
 
 ; Default Foreground
 ; base05 #c0c5ce

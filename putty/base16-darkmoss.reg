@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 darkmoss
+; Scheme name: darkmoss
+; Scheme system: base16
 ; Scheme author: Gabriel Avanzi (https://github.com/avanzzzi)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\darkmoss]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-darkmoss]
 
 ; Default Foreground
 ; base05 #c7c7a5

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 caroline
+; Scheme name: caroline
+; Scheme system: base16
 ; Scheme author: ed (https://codeberg.org/ed)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\caroline]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-caroline]
 
 ; Default Foreground
 ; base05 #a87569

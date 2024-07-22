@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 IR Black
+; Scheme name: IR Black
+; Scheme system: base16
 ; Scheme author: Timothée Poisot (http://timotheepoisot.fr)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\irblack]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-irblack]
 
 ; Default Foreground
 ; base05 #b5b3aa

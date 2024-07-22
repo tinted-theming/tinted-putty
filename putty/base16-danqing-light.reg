@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 DanQing Light
+; Scheme name: DanQing Light
+; Scheme system: base16
 ; Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\danqing-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-danqing-light]
 
 ; Default Foreground
 ; base05 #5a605d

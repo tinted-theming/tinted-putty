@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Everforest Dark Hard
+; Scheme name: Everforest Dark Hard
+; Scheme system: base16
 ; Scheme author: Oskar Liew (https://github.com/OskarLiew)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\everforest-dark-hard]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-everforest-dark-hard]
 
 ; Default Foreground
 ; base05 #d3c6aa

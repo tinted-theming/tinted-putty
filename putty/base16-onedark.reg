@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 OneDark
+; Scheme name: OneDark
+; Scheme system: base16
 ; Scheme author: Lalit Magant (http://github.com/tilal6991)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\onedark]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-onedark]
 
 ; Default Foreground
 ; base05 #abb2bf

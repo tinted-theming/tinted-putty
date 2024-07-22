@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Atelier Sulphurpool
+; Scheme name: Atelier Sulphurpool
+; Scheme system: base16
 ; Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\atelier-sulphurpool]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-atelier-sulphurpool]
 
 ; Default Foreground
 ; base05 #979db4

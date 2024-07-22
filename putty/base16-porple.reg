@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Porple
+; Scheme name: Porple
+; Scheme system: base16
 ; Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\porple]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-porple]
 
 ; Default Foreground
 ; base05 #d8d8d8

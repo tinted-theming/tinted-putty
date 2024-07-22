@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Bright
+; Scheme name: Bright
+; Scheme system: base16
 ; Scheme author: Chris Kempson (http://chriskempson.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\bright]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-bright]
 
 ; Default Foreground
 ; base05 #e0e0e0

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Darktooth
+; Scheme name: Darktooth
+; Scheme system: base16
 ; Scheme author: Jason Milkins (https://github.com/jasonm23)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\darktooth]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-darktooth]
 
 ; Default Foreground
 ; base05 #a89984

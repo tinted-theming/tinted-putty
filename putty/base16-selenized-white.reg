@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 selenized-white
+; Scheme name: selenized-white
+; Scheme system: base16
 ; Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\selenized-white]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-selenized-white]
 
 ; Default Foreground
 ; base05 #474747

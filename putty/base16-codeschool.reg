@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Codeschool
+; Scheme name: Codeschool
+; Scheme system: base16
 ; Scheme author: blockloop
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\codeschool]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-codeschool]
 
 ; Default Foreground
 ; base05 #9ea7a6

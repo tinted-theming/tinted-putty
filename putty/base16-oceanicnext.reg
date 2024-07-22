@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 OceanicNext
+; Scheme name: OceanicNext
+; Scheme system: base16
 ; Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\oceanicnext]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-oceanicnext]
 
 ; Default Foreground
 ; base05 #c0c5ce

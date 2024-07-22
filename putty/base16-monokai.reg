@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Monokai
+; Scheme name: Monokai
+; Scheme system: base16
 ; Scheme author: Wimer Hazenberg (http://www.monokai.nl)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\monokai]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-monokai]
 
 ; Default Foreground
 ; base05 #f8f8f2

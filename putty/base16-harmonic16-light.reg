@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Harmonic16 Light
+; Scheme name: Harmonic16 Light
+; Scheme system: base16
 ; Scheme author: Jannik Siebert (https://github.com/janniks)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\harmonic16-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-harmonic16-light]
 
 ; Default Foreground
 ; base05 #405c79

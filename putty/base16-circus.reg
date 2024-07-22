@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Circus
+; Scheme name: Circus
+; Scheme system: base16
 ; Scheme author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\circus]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-circus]
 
 ; Default Foreground
 ; base05 #a7a7a7

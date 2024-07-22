@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Windows 10 Light
+; Scheme name: Windows 10 Light
+; Scheme system: base16
 ; Scheme author: Fergus Collins (https://github.com/C-Fergus)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\windows-10-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-windows-10-light]
 
 ; Default Foreground
 ; base05 #767676

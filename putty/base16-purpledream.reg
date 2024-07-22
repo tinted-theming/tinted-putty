@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Purpledream
+; Scheme name: Purpledream
+; Scheme system: base16
 ; Scheme author: malet
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\purpledream]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-purpledream]
 
 ; Default Foreground
 ; base05 #ddd0dd

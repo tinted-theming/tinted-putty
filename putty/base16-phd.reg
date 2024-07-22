@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 PhD
+; Scheme name: PhD
+; Scheme system: base16
 ; Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\phd]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-phd]
 
 ; Default Foreground
 ; base05 #b8bbc2

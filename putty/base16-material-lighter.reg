@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Material Lighter
+; Scheme name: Material Lighter
+; Scheme system: base16
 ; Scheme author: Nate Peterson
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\material-lighter]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-material-lighter]
 
 ; Default Foreground
 ; base05 #80cbc4

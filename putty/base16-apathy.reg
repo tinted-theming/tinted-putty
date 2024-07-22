@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Apathy
+; Scheme name: Apathy
+; Scheme system: base16
 ; Scheme author: Jannik Siebert (https://github.com/janniks)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\apathy]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-apathy]
 
 ; Default Foreground
 ; base05 #81b5ac

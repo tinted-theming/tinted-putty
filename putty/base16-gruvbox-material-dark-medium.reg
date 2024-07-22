@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Gruvbox Material Dark, Medium
+; Scheme name: Gruvbox Material Dark, Medium
+; Scheme system: base16
 ; Scheme author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\gruvbox-material-dark-medium]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-gruvbox-material-dark-medium]
 
 ; Default Foreground
 ; base05 #ddc7a1

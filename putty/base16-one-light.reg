@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 One Light
+; Scheme name: One Light
+; Scheme system: base16
 ; Scheme author: Daniel Pfeifer (http://github.com/purpleKarrot)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\one-light]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-one-light]
 
 ; Default Foreground
 ; base05 #383a42

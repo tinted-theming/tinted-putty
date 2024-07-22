@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Rosé Pine Moon
+; Scheme name: Rosé Pine Moon
+; Scheme system: base16
 ; Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\rose-pine-moon]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-rose-pine-moon]
 
 ; Default Foreground
 ; base05 #e0def4

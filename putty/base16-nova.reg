@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Nova
+; Scheme name: Nova
+; Scheme system: base16
 ; Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\nova]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-nova]
 
 ; Default Foreground
 ; base05 #c5d4dd

@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Twilight
+; Scheme name: Twilight
+; Scheme system: base16
 ; Scheme author: David Hart (https://github.com/hartbit)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\twilight]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-twilight]
 
 ; Default Foreground
 ; base05 #a7a7a7
