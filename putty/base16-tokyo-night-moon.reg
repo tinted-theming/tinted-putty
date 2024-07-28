@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Tokyo Night Moon
+; Scheme name: Tokyo Night Moon
+; Scheme system: base16
 ; Scheme author: Ólafur Bjarki Bogason
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\tokyo-night-moon]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-tokyo-night-moon]
 
 ; Default Foreground
 ; base05 #3b4261

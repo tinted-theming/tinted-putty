@@ -1,9 +1,10 @@
 Windows Registry Editor Version 5.00
 
-; Base16 Precious Light Warm
+; Scheme name: Precious Light Warm
+; Scheme system: base16
 ; Scheme author: 4lex4 &lt;4lex49@zoho.com&gt;
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\precious-light-warm]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-precious-light-warm]
 
 ; Default Foreground
 ; base05 #4e5359
