@@ -39,11 +39,8 @@ keep up to date with the latest changes.
 If you're you're looking to build the colorschemes manually to test out
 a change:
 
-1. Install [builder-go] or a compatible tool. (Note that in the case of
-   `builder-go` the [releases' page] contains pre-built binaries
-   that can be simply downloaded and executed).
-2. Execute the `builder` binary from the `tinted-putty` directory.
-   In the case of `builder-go` no argument is required.
+1. Install [builder-rust] or a compatible tool.
+2. Execute `tinted-builder-rust build path/to/tinted-putty`
 3. Check if updates took place (new/modified files are placed inside the `/putty` directory).
 
 Have a look at [these guides] for more information.
@@ -62,5 +59,5 @@ Thanks
 [configured]: https://web.archive.org/web/20140803065929/http://www.grok2.com/blog/2013/12/01/putty-linux-terminal-xterm-emacs-256-colors/
 [provide]: https://sanctum.geek.nz/arabesque/putty-configuration/
 [these guides]: https://opensource.guide/how-to-contribute/
-[builder-go]: https://github.com/tinted-theming/base16-builder-go
-[releases' page]: https://github.com/tinted-theming/base16-builder-go/releases
+[builder-rust]: https://github.com/tinted-theming/tinted-builder-rust
+[releases' page]: https://github.com/tinted-theming/tinted-builder-rust/releases
