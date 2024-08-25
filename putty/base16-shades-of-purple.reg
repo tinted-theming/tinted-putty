@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ; Scheme name: Shades of Purple
 ; Scheme system: base16
-; Scheme author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+; Scheme author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-shades-of-purple]
 

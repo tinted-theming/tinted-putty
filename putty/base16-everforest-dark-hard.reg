@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ; Scheme name: Everforest Dark Hard
 ; Scheme system: base16
-; Scheme author: Oskar Liew (https://github.com/OskarLiew)
+; Scheme author: Sainnhe Park (https://github.com/sainnhe)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-everforest-dark-hard]
 
@@ -42,23 +42,23 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Red
 ; 31m
-; base08 #7fbbb3
-"Colour8"="127,187,179"
+; base08 #e67e80
+"Colour8"="230,126,128"
 
 ; ANSI Red Bright
 ; 1;31m
-; base09 #d699b6
-"Colour9"="214,153,182"
+; base09 #e69875
+"Colour9"="230,152,117"
 
 ; ANSI Green
 ; 32m
-; base0B #83c092
-"Colour10"="131,192,146"
+; base0B #a7c080
+"Colour10"="167,192,128"
 
 ; ANSI Green Bright
 ; 1;32m
-; base0B #83c092
-"Colour11"="131,192,146"
+; base0B #a7c080
+"Colour11"="167,192,128"
 
 ; ANSI Yellow
 ; 33m
@@ -72,33 +72,33 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Blue
 ; 34m
-; base0D #a7c080
-"Colour14"="167,192,128"
+; base0D #7fbbb3
+"Colour14"="127,187,179"
 
 ; ANSI Blue Bright
 ; 1;34m
-; base0D #a7c080
-"Colour15"="167,192,128"
+; base0D #7fbbb3
+"Colour15"="127,187,179"
 
 ; ANSI Magenta
 ; 35m
-; base0E #e67e80
-"Colour16"="230,126,128"
+; base0E #d699b6
+"Colour16"="214,153,182"
 
 ; ANSI Magenta Bright
 ; 1;35m
-; base0E #e67e80
-"Colour17"="230,126,128"
+; base0E #d699b6
+"Colour17"="214,153,182"
 
 ; ANSI Cyan
 ; 36m
-; base0C #e69875
-"Colour18"="230,152,117"
+; base0C #83c092
+"Colour18"="131,192,146"
 
 ; ANSI Cyan Bright
 ; 1;36m
-; base0F #4c3743
-"Colour19"="76,55,67"
+; base0F #9da9a0
+"Colour19"="157,169,160"
 
 ; ANSI White
 ; 37m
@@ -107,5 +107,5 @@ Windows Registry Editor Version 5.00
 
 ; ANSI White Bright
 ; 1;37m
-; base07 fdf6e3
-"Colour21"="253,246,227"
+; base07 fffbef
+"Colour21"="255,251,239"
