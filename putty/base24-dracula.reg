@@ -7,88 +7,88 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-dracula]
 
 ; Default Foreground
-; base05 #e9e9f4
-"Colour0"="233,233,244"
+; base05 #f8f8f2
+"Colour0"="248,248,242"
 
 ; Default Bold Foreground  -- equals to non-bold
-; base05 #e9e9f4
-"Colour1"="233,233,244"
+; base05 #f8f8f2
+"Colour1"="248,248,242"
 
 ; Default Background
-; base00 #21222c
-"Colour2"="33,34,44"
+; base00 #282a36
+"Colour2"="40,42,54"
 
 ; Default Bold Background  -- equals to non-bold
-; base00 #21222c
-"Colour3"="33,34,44"
+; base00 #282a36
+"Colour3"="40,42,54"
 
 ; Cursor Text -- equals to default background
-; base00 #21222c
-"Colour4"="33,34,44"
+; base00 #282a36
+"Colour4"="40,42,54"
 
 ; Cursor Colour -- equals to default foreground
-; base05 #e9e9f4
-"Colour5"="233,233,244"
+; base05 #f8f8f2
+"Colour5"="248,248,242"
 
 ; ANSI Black
-; base00 #21222c
-"Colour6"="33,34,44"
+; base00 #282a36
+"Colour6"="40,42,54"
 
 ; ANSI Black Bright
-; base02 #3a3c4e
-"Colour7"="58,110,110"
+; base02 #44475a
+"Colour7"="68,140,140"
 
 ; ANSI Red
 ; base08 #ff5555
 "Colour8"="255,85,85"
 
 ; ANSI Red Bright
-; base12 #ff6e6e
-"Colour9"="255,110,110"
+; base12 #f28c8c
+"Colour9"="242,140,140"
 
 ; ANSI Green
 ; base0B #50fa7b
 "Colour10"="80,250,123"
 
 ; ANSI Green Bright
-; base14 #69ff94
-"Colour11"="105,255,148"
+; base14 #a3f5b8
+"Colour11"="163,245,184"
 
 ; ANSI Yellow
-; base0A #ebff87
-"Colour12"="235,255,135"
+; base0A #f1fa8c
+"Colour12"="241,250,140"
 
 ; ANSI Yellow Bright
-; base13 #ffffa5
-"Colour13"="255,255,165"
+; base13 #eef5a3
+"Colour13"="238,245,163"
 
 ; ANSI Blue
-; base0D #bd93f9
-"Colour14"="189,147,249"
+; base0D #80bfff
+"Colour14"="128,191,255"
 
 ; ANSI Blue Bright
-; base16 #d6acff
-"Colour15"="214,172,255"
+; base16 #a3ccf5
+"Colour15"="163,204,245"
 
 ; ANSI Magenta
 ; base0E #ff79c6
 "Colour16"="255,121,198"
 
 ; ANSI Magenta Bright
-; base17 #ff92df
-"Colour17"="255,146,223"
+; base17 #f5a3d2
+"Colour17"="245,163,210"
 
 ; ANSI Cyan
 ; base0C #8be9fd
 "Colour18"="139,233,253"
 
 ; ANSI Cyan Bright
-; base15 #a4ffff
-"Colour19"="164,255,255"
+; base15 #baedf7
+"Colour19"="186,237,247"
 
 ; ANSI White
-; base05 #e9e9f4
-"Colour20"="233,233,244"
+; base05 #f8f8f2
+"Colour20"="248,248,242"
 
 ; ANSI White Bright
 ; base07 ffffff
