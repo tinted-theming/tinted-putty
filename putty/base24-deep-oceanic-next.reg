@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Deep Oceanic Next
+; Scheme system: base24
+; Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-deep-oceanic-next]
+
+; Default Foreground
+; base05 #dce3e8
+"Colour0"="220,227,232"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #dce3e8
+"Colour1"="220,227,232"
+
+; Default Background
+; base00 #003b46
+"Colour2"="0,59,70"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #003b46
+"Colour3"="0,59,70"
+
+; Cursor Text -- equals to default background
+; base00 #003b46
+"Colour4"="0,59,70"
+
+; Cursor Colour -- equals to default foreground
+; base05 #dce3e8
+"Colour5"="220,227,232"
+
+; ANSI Black
+; base00 #003b46
+"Colour6"="0,59,70"
+
+; ANSI Black Bright
+; base02 #006374
+"Colour7"="0,90,97"
+
+; ANSI Red
+; base08 #e6454b
+"Colour8"="230,69,75"
+
+; ANSI Red Bright
+; base12 #ff5a61
+"Colour9"="255,90,97"
+
+; ANSI Green
+; base0B #85b57a
+"Colour10"="133,181,122"
+
+; ANSI Green Bright
+; base14 #99d8a0
+"Colour11"="153,216,160"
+
+; ANSI Yellow
+; base0A #ffcc66
+"Colour12"="255,204,102"
+
+; ANSI Yellow Bright
+; base13 #ffdd80
+"Colour13"="255,221,128"
+
+; ANSI Blue
+; base0D #3a82e6
+"Colour14"="58,130,230"
+
+; ANSI Blue Bright
+; base16 #4da6ff
+"Colour15"="77,166,255"
+
+; ANSI Magenta
+; base0E #8c4de6
+"Colour16"="140,77,230"
+
+; ANSI Magenta Bright
+; base17 #a366ff
+"Colour17"="163,102,255"
+
+; ANSI Cyan
+; base0C #4da6a6
+"Colour18"="77,166,166"
+
+; ANSI Cyan Bright
+; base15 #66cccc
+"Colour19"="102,204,204"
+
+; ANSI White
+; base05 #dce3e8
+"Colour20"="220,227,232"
+
+; ANSI White Bright
+; base07 f0f5f5
+"Colour21"="240,245,245"
