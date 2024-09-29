@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Catppuccin Latte
+; Scheme system: base24
+; Scheme author: https://github.com/catppuccin/catppuccin
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-catppuccin-latte]
+
+; Default Foreground
+; base05 #4c4f69
+"Colour0"="76,79,105"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #4c4f69
+"Colour1"="76,79,105"
+
+; Default Background
+; base00 #eff1f5
+"Colour2"="239,241,245"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #eff1f5
+"Colour3"="239,241,245"
+
+; Cursor Text -- equals to default background
+; base00 #eff1f5
+"Colour4"="239,241,245"
+
+; Cursor Colour -- equals to default foreground
+; base05 #4c4f69
+"Colour5"="76,79,105"
+
+; ANSI Black
+; base00 #eff1f5
+"Colour6"="239,241,245"
+
+; ANSI Black Bright
+; base02 #ccd0da
+"Colour7"="204,69,83"
+
+; ANSI Red
+; base08 #d20f39
+"Colour8"="210,15,57"
+
+; ANSI Red Bright
+; base12 #e64553
+"Colour9"="230,69,83"
+
+; ANSI Green
+; base0B #40a02b
+"Colour10"="64,160,43"
+
+; ANSI Green Bright
+; base14 #40a02b
+"Colour11"="64,160,43"
+
+; ANSI Yellow
+; base0A #df8e1d
+"Colour12"="223,142,29"
+
+; ANSI Yellow Bright
+; base13 #dc8a78
+"Colour13"="220,138,120"
+
+; ANSI Blue
+; base0D #1e66f5
+"Colour14"="30,102,245"
+
+; ANSI Blue Bright
+; base16 #209fb5
+"Colour15"="32,159,181"
+
+; ANSI Magenta
+; base0E #8839ef
+"Colour16"="136,57,239"
+
+; ANSI Magenta Bright
+; base17 #ea76cb
+"Colour17"="234,118,203"
+
+; ANSI Cyan
+; base0C #179299
+"Colour18"="23,146,153"
+
+; ANSI Cyan Bright
+; base15 #04a5e5
+"Colour19"="4,165,229"
+
+; ANSI White
+; base05 #4c4f69
+"Colour20"="76,79,105"
+
+; ANSI White Bright
+; base07 7287fd
+"Colour21"="114,135,253"
